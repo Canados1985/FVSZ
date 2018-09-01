@@ -1,0 +1,770 @@
+﻿Log file open, 08/28/18 04:57:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: farmerVSzombies
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1258885569) SRandInit(1258885569).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.395466
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.829s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-J54LIC6 (192.168.1.39:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: D:/GameDev/UE4/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.28-08.57.02:764][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.28-08.57.02:764][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.28-08.57.02:775][  0]LogInit: Computer: DESKTOP-J54LIC6
+[2018.08.28-08.57.02:775][  0]LogInit: User: Canados
+[2018.08.28-08.57.02:775][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.08.28-08.57.02:775][  0]LogInit: High frequency timer resolution =2.156256 MHz
+[2018.08.28-08.57.02:775][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.28-08.57.02:775][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.28-08.57.02:775][  0]LogMemory: Process Physical Memory: 275.30 MB used, 275.30 MB peak
+[2018.08.28-08.57.02:775][  0]LogMemory: Process Virtual Memory: 271.64 MB used, 271.64 MB peak
+[2018.08.28-08.57.02:775][  0]LogMemory: Physical Memory: 7679.60 MB used,  8563.27 MB free, 16242.87 MB total
+[2018.08.28-08.57.02:775][  0]LogMemory: Virtual Memory: 4815.98 MB used,  8563.27 MB free, 134217728.00 MB total
+[2018.08.28-08.57.03:174][  0]LogInit: Using OS detected language (en-US).
+[2018.08.28-08.57.03:174][  0]LogInit: Using OS detected locale (en-CA).
+[2018.08.28-08.57.03:181][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.28-08.57.03:535][  0]LogStreaming: Display: Took  0.361s to EndInitTextLocalization.
+[2018.08.28-08.57.03:535][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.28-08.57.03:576][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.28-08.57.03:576][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.28-08.57.04:016][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.28-08.57.04:068][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.08.28-08.57.04:068][  0]LogD3D11RHI:       6061/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.08.28-08.57.04:095][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2018.08.28-08.57.04:095][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.28-08.57.04:097][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.28-08.57.04:097][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.28-08.57.04:097][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.28-08.57.04:103][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.28-08.57.04:103][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.28-08.57.04:103][  0]LogWindows: EnumDisplayDevices:
+[2018.08.28-08.57.04:103][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.08.28-08.57.04:103][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2018.08.28-08.57.04:104][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.08.28-08.57.04:104][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.08.28-08.57.04:104][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.08.28-08.57.04:104][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.08.28-08.57.04:104][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.08.28-08.57.04:104][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.28-08.57.04:104][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.08.28-08.57.04:104][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.28-08.57.04:104][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.28-08.57.04:104][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.08.28-08.57.04:132][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.28-08.57.04:132][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.28-08.57.04:132][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.28-08.57.04:145][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.28-08.57.04:242][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Unreal_Projects/farmerVSzombies/Intermediate/Shaders/WorkingDirectory/13024/).
+[2018.08.28-08.57.04:242][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Canados/AppData/Local/Temp/UnrealShaderWorkingDir/1416EFEB48F7F3136F16F0AF3FA40EE1/'.
+[2018.08.28-08.57.04:447][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.28-08.57.04:459][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.28-08.57.04:470][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.28-08.57.04:482][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.28-08.57.04:494][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.28-08.57.04:506][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.28-08.57.04:517][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.28-08.57.04:528][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.28-08.57.04:534][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.28-08.57.04:545][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.28-08.57.04:555][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.28-08.57.04:566][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.28-08.57.04:577][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.28-08.57.04:587][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.28-08.57.04:598][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.28-08.57.04:619][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.28-08.57.04:619][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.28-08.57.04:630][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.28-08.57.04:632][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.28-08.57.04:669][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.28-08.57.04:682][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.28-08.57.04:693][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.28-08.57.04:704][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.28-08.57.04:714][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.28-08.57.04:726][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.28-08.57.04:726][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.28-08.57.04:832][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.28-08.57.04:832][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.28-08.57.04:832][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.28-08.57.05:443][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.28-08.57.05:503][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Canados/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.28-08.57.05:504][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Canados/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.28-08.57.05:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal_Projects/farmerVSzombies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.28-08.57.05:504][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.28-08.57.05:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal_Projects/farmerVSzombies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.28-08.57.05:504][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.28-08.57.05:518][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.28-08.57.05:531][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Canados/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.28-08.57.05:531][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.28-08.57.05:531][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.28-08.57.05:541][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.28-08.57.05:541][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.28-08.57.05:543][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.28-08.57.05:543][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.28-08.57.05:761][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2018.08.28-08.57.06:019][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.28-08.57.06:154][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.28-08.57.06:157][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.28-08.57.06:157][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.28-08.57.06:157][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.28-08.57.06:157][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.28-08.57.06:157][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.28-08.57.06:193][  0]LogNetVersion: farmerVSzombies , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3168997086)
+[2018.08.28-08.57.06:598][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.056457 seconds
+[2018.08.28-08.57.06:603][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.28-08.57.06:603][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.08.28-08.57.06:603][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.28-08.57.08:787][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.28-08.57.08:818][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.28-08.57.09:287][  0]SourceControl: Source control is disabled
+[2018.08.28-08.57.09:287][  0]SourceControl: Source control is disabled
+[2018.08.28-08.57.09:304][  0]SourceControl: Source control is disabled
+[2018.08.28-08.57.09:321][  0]SourceControl: Source control is disabled
+[2018.08.28-08.57.09:774][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.28-08.57.09:940][  0]LogOcInput: OculusInput pre-init called
+[2018.08.28-08.57.10:043][  0]LogEngine: Initializing Engine...
+[2018.08.28-08.57.10:044][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.28-08.57.10:046][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.28-08.57.10:046][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.28-08.57.10:254][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.28-08.57.10:269][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.28-08.57.10:322][  0]LogInit: FAudioDevice initialized.
+[2018.08.28-08.57.10:404][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/Canados/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.28-08.57.10:416][  0]LogInit: Texture streaming: Enabled
+[2018.08.28-08.57.10:430][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.28-08.57.10:442][  0]LogInit: Transaction tracking system initialized
+[2018.08.28-08.57.10:462][  0]BlueprintLog: New page: Editor Load
+[2018.08.28-08.57.10:533][  0]LocalizationService: Localization service is disabled
+[2018.08.28-08.57.10:608][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2018.08.28-08.57.10:608][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2018.08.28-08.57.10:608][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2018.08.28-08.57.10:628][  0]LogConsoleResponse: Display: 
+[2018.08.28-08.57.10:777][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.28-08.57.10:777][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.28-08.57.10:777][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.28-08.57.10:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.28-08.57.10:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.28-08.57.11:066][  0]LogFileCache: Scanning file cache for directory 'D:/GameDev/UE4/Unreal_Projects/farmerVSzombies/Content/' took 0.01s
+[2018.08.28-08.57.11:114][  0]SourceControl: Source control is disabled
+[2018.08.28-08.57.11:114][  0]Cmd: MAP LOAD FILE="../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.28-08.57.11:115][  0]LightingResults: New page: Lighting Build
+[2018.08.28-08.57.11:117][  0]MapCheck: New page: Map Check
+[2018.08.28-08.57.11:117][  0]LightingResults: New page: Lighting Build
+[2018.08.28-08.57.11:138][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a6cbdb0, Size=8, Default__ENEMY_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.08.28-08.57.11:139][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a57f040, Size=64, Default__ANIM_ZOMBIE_BP_C Function /Game/Enemies/Zombie/Animation/ANIM_ZOMBIE_BP.ANIM_ZOMBIE_BP_C:ExecuteUbergraph_ANIM_ZOMBIE_BP
+[2018.08.28-08.57.11:159][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a14f4c0, Size=288, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+[2018.08.28-08.57.11:159][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a6cbe20, Size=8, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.08.28-08.57.11:170][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a5a4800, Size=424, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-08.57.11:172][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a57da40, Size=64, Default__ANIM_PEASANT_BP_C Function /Game/ThirdPersonBP/Character/Animation/ANIM_PEASANT_BP.ANIM_PEASANT_BP_C:ExecuteUbergraph_ANIM_PEASANT_BP
+[2018.08.28-08.57.11:206][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a10a5c0, Size=288, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+[2018.08.28-08.57.11:206][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a6ca928, Size=8, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.08.28-08.57.11:217][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9a57da40, Size=64
+[2018.08.28-08.57.11:217][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9acc8b40, Size=64, Default__ANIM_PEASANT_BP_C Function /Engine/Transient.REINST_ANIM_PEASANT_BP_C_0:ExecuteUbergraph_ANIM_PEASANT_BP
+[2018.08.28-08.57.11:217][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9a57f040, Size=64
+[2018.08.28-08.57.11:217][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9acc8780, Size=64, Default__ANIM_ZOMBIE_BP_C Function /Engine/Transient.REINST_ANIM_ZOMBIE_BP_C_1:ExecuteUbergraph_ANIM_ZOMBIE_BP
+[2018.08.28-08.57.11:218][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9a6cbdb0, Size=8
+[2018.08.28-08.57.11:218][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a6cbdb0, Size=8, Default__ENEMY_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_2:ExecuteUbergraph_ENEMY_BP
+[2018.08.28-08.57.11:218][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9a5a4800, Size=424
+[2018.08.28-08.57.11:218][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd81d17740, Size=424, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_3:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-08.57.11:218][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9a10a5c0, Size=288
+[2018.08.28-08.57.11:219][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9a6ca928, Size=8
+[2018.08.28-08.57.11:219][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a10a5c0, Size=288, Default__ZOMBIE_BP_C Function /Engine/Transient.REINST_ZOMBIE_BP_C_5:ExecuteUbergraph_ZOMBIE_BP
+[2018.08.28-08.57.11:219][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a6ca928, Size=8, Default__ZOMBIE_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_2:ExecuteUbergraph_ENEMY_BP
+[2018.08.28-08.57.11:234][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8332d300, Size=64, Default__ANIM_PEASANT_BP_C Function /Game/ThirdPersonBP/Character/Animation/ANIM_PEASANT_BP.ANIM_PEASANT_BP_C:ExecuteUbergraph_ANIM_PEASANT_BP
+[2018.08.28-08.57.11:235][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8332cbc0, Size=64, Default__ANIM_ZOMBIE_BP_C Function /Game/Enemies/Zombie/Animation/ANIM_ZOMBIE_BP.ANIM_ZOMBIE_BP_C:ExecuteUbergraph_ANIM_ZOMBIE_BP
+[2018.08.28-08.57.11:235][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a6c9228, Size=8, Default__ENEMY_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.08.28-08.57.11:237][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd81d84100, Size=424, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-08.57.11:239][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8335b740, Size=288, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+[2018.08.28-08.57.11:239][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a6c8ec8, Size=8, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.08.28-08.57.11:573][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.239185ms] /Game/Enemies/Zombie/Zombie.Zombie
+[2018.08.28-08.57.11:588][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.626085ms] /Game/ThirdPersonBP/Character/peasant.peasant
+[2018.08.28-08.57.11:756][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.625967ms] /Game/ThirdPersonBP/Env/ScareCrow/scarecrow.scarecrow
+[2018.08.28-08.57.11:793][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.28-08.57.11:839][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.28-08.57.11:850][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9a6cbdb0, Size=8
+[2018.08.28-08.57.11:850][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9acc8780, Size=64
+[2018.08.28-08.57.11:850][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9a10a5c0, Size=288
+[2018.08.28-08.57.11:850][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9a6ca928, Size=8
+[2018.08.28-08.57.11:850][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd81d17740, Size=424
+[2018.08.28-08.57.11:850][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9acc8b40, Size=64
+[2018.08.28-08.57.11:851][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.28-08.57.11:996][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 144.9ms to complete.
+[2018.08.28-08.57.11:996][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.883
+[2018.08.28-08.57.12:150][  0]LogCollectionManager: Loaded 0 collections in 0.000852 seconds
+[2018.08.28-08.57.12:201][  0]LogFileCache: Scanning file cache for directory 'D:/GameDev/UE4/Unreal_Projects/farmerVSzombies/Saved/Collections/' took 0.01s
+[2018.08.28-08.57.12:201][  0]LogFileCache: Scanning file cache for directory 'D:/GameDev/UE4/Unreal_Projects/farmerVSzombies/Content/Developers/Canados/Collections/' took 0.01s
+[2018.08.28-08.57.12:201][  0]LogFileCache: Scanning file cache for directory 'D:/GameDev/UE4/Unreal_Projects/farmerVSzombies/Content/Collections/' took 0.01s
+[2018.08.28-08.57.12:201][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.28-08.57.12:208][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2452 classes and 558 folders.
+[2018.08.28-08.57.12:213][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.28-08.57.12:263][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.28-08.57.12:267][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.28-08.57.12:327][  0]LogSlate: Took 0.000730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.28-08.57.12:333][  0]LogSlate: Took 0.000921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.28-08.57.12:335][  0]LogSlate: Took 0.000653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.28-08.57.12:406][  0]LogRenderer: Reallocating scene render targets to support 1396x260 Format 10 NumSamples 1 (Frame:1).
+[2018.08.28-08.57.12:524][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.28-08.57.12:525][  0]LogLoad: (Engine Initialization) Total time: 12.06 seconds
+[2018.08.28-08.57.12:525][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.28-08.57.12:534][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.28-08.57.12:554][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.28-08.57.12:628][  1]LogRenderer: Reallocating scene render targets to support 1396x276 Format 10 NumSamples 1 (Frame:3).
+[2018.08.28-08.57.12:641][  1]LogAssetRegistry: Asset discovery search completed in 6.9023 seconds
+[2018.08.28-08.57.12:643][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.28-08.57.12:643][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2018.08.28-08.57.13:560][102]LogSlate: Took 0.000612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.28-08.57.14:346][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-08.57.17:238][322]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.08.28-08.57.17:478][322]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de189109a0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.28-08.57.17:479][322]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18910998, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.28-08.57.17:839][322]LogSlate: Took 0.000646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.28-08.57.19:213][404]LogSlate: Took 0.000661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.28-08.57.27:430][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda1373c68, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-08.57.41:540][965]LogSavePackage: Save=64.92ms
+[2018.08.28-08.57.41:540][965]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/ThirdPersonCharacterFF8450C546CD4B32A310F78507FC5610.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.08.28-08.57.41:542][965]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.08.28-08.57.41:998][994]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.08.28-08.57.42:018][994]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dda1373c68, Size=4
+[2018.08.28-08.57.42:018][994]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8d04fb50, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_43:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-08.57.42:043][994]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd81d84100, Size=424
+[2018.08.28-08.57.42:043][994]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de1c15acc0, Size=424, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_48:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-08.57.42:051][994]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd843fb740, Size=432, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-08.57.42:319][994]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd8d04fb50, Size=4
+[2018.08.28-08.57.49:500][344]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.28-08.57.49:727][344]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.28-08.57.49:731][344]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.08.28-08.57.49:761][344]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.28-08.57.50:059][344]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.08.28-08.57.50:071][344]LogRenderer: Reallocating scene render targets to support 1396x564 Format 10 NumSamples 1 (Frame:1).
+[2018.08.28-08.57.50:071][344]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.28-08.58.01:141][  6]LogSavePackage: Save=9.18ms
+[2018.08.28-08.58.01:141][  6]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/Idle_AimingB34D480044A1EEC5B62F11B5EB51D9AB.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle_Aiming.uasset'
+[2018.08.28-08.58.01:142][  6]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle_Aiming.uasset
+[2018.08.28-08.58.04:940][247]LogSavePackage: Save=65.01ms
+[2018.08.28-08.58.04:940][247]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/ThirdPersonCharacter1EADCAF343FF4924113AB981E53443DE.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.08.28-08.58.04:942][247]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.08.28-08.58.05:228][266]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.08.28-08.58.05:270][266]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd843fb740, Size=432
+[2018.08.28-08.58.05:270][266]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de4b53ecc0, Size=432, ThirdPersonCharacter_C_27 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_55:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-08.58.05:277][266]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de4b0df740, Size=432, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-08.58.16:279][900]LogSavePackage: Save=2.29ms
+[2018.08.28-08.58.16:279][900]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/Idle_Aiming3D97CB20474E483D455C148D8DB19AC1.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle_Aiming.uasset'
+[2018.08.28-08.58.16:279][900]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle_Aiming.uasset
+[2018.08.28-08.58.18:901][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.58.18:901][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-08.58.18:901][ 35]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 28, 2018, 12:58:18 AM)
+[2018.08.28-08.58.18:901][ 35]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.28-08.58.18:927][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025106s)
+[2018.08.28-08.58.18:927][ 35]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.28-08.58.18:927][ 35]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2018.08.28-08.58.18:927][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025825s)
+[2018.08.28-08.58.18:944][ 35]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de4b53ecc0, Size=432
+[2018.08.28-08.58.18:950][ 35]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.28-08.58.19:001][ 35]LogInit: FAudioDevice initialized.
+[2018.08.28-08.58.19:145][ 35]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-08.58.19:151][ 35]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.28-04.58.19
+[2018.08.28-08.58.19:153][ 35]LogWorld: Bringing up level for play took: 0.006556
+[2018.08.28-08.58.19:157][ 35]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.08.28-08.58.19:174][ 35]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.08.28-08.58.19:193][ 35]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.131
+[2018.08.28-08.58.19:193][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.58.23:890][212]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-08.58.27:441][345]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.58.27:452][345]LogSlate: Window 'farmerVSzombies Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.28-08.58.27:492][345]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.58.36:237][707]LogSlate: Window 'Message Log' being destroyed
+[2018.08.28-08.58.36:264][707]LogSlate: Window 'Message Log' being destroyed
+[2018.08.28-08.58.37:156][748]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.28-08.58.37:168][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.58.37:168][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-08.58.37:168][748]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 28, 2018, 12:58:37 AM)
+[2018.08.28-08.58.37:168][748]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.28-08.58.37:193][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023928s)
+[2018.08.28-08.58.37:193][748]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.28-08.58.37:193][748]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2018.08.28-08.58.37:193][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024688s)
+[2018.08.28-08.58.37:213][748]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.28-08.58.37:265][748]LogInit: FAudioDevice initialized.
+[2018.08.28-08.58.37:368][748]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-08.58.37:374][748]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.28-04.58.37
+[2018.08.28-08.58.37:375][748]LogWorld: Bringing up level for play took: 0.006275
+[2018.08.28-08.58.37:376][748]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.08.28-08.58.37:380][748]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.682
+[2018.08.28-08.58.37:381][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.58.39:068][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.58.39:078][807]LogSlate: Window 'farmerVSzombies Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.28-08.58.39:113][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.58.40:593][862]LogSavePackage: Save=189.11ms
+[2018.08.28-08.58.40:593][862]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/ThirdPersonExampleMapADA9D6CF44582B937612A3A9F51AE9B7.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.28-08.58.40:595][862]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.08.28-08.58.40:672][862]LogSavePackage: Save=53.35ms
+[2018.08.28-08.58.40:672][862]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/ThirdPersonExampleMap_BuiltDataEFC856FD4636EB3ED59B7FB21A0D74F1.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.28-08.58.40:673][862]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.08.28-08.58.44:821][ 60]LogRenderer: Reallocating scene render targets to support 1396x568 Format 10 NumSamples 1 (Frame:3569).
+[2018.08.28-08.58.44:881][ 61]LogRenderer: Reallocating scene render targets to support 1396x584 Format 10 NumSamples 1 (Frame:3571).
+[2018.08.28-08.58.44:937][ 62]LogRenderer: Reallocating scene render targets to support 1396x592 Format 10 NumSamples 1 (Frame:3573).
+[2018.08.28-08.58.44:998][ 63]LogRenderer: Reallocating scene render targets to support 1396x596 Format 10 NumSamples 1 (Frame:3575).
+[2018.08.28-08.58.57:617][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-08.58.57:945][848]LogSavePackage: Save=192.17ms
+[2018.08.28-08.58.57:945][848]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/ThirdPersonExampleMap4359E26C4D2926282782FE8E00342FED.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.28-08.58.57:947][848]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.08.28-08.58.58:004][848]LogSavePackage: Save=33.91ms
+[2018.08.28-08.58.58:004][848]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/ThirdPersonExampleMap_BuiltData253FE9E94BB1F8D2BDE9A9B79BD711CC.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.28-08.58.58:005][848]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.08.28-08.58.58:423][873]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.28-08.58.58:436][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.58.58:437][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-08.58.58:437][873]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 28, 2018, 12:58:58 AM)
+[2018.08.28-08.58.58:437][873]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.28-08.58.58:454][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017569s)
+[2018.08.28-08.58.58:455][873]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.28-08.58.58:455][873]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2018.08.28-08.58.58:455][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018281s)
+[2018.08.28-08.58.58:475][873]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.28-08.58.58:524][873]LogInit: FAudioDevice initialized.
+[2018.08.28-08.58.58:638][873]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-08.58.58:645][873]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.28-04.58.58
+[2018.08.28-08.58.58:647][873]LogWorld: Bringing up level for play took: 0.007914
+[2018.08.28-08.58.58:648][873]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.08.28-08.58.58:653][873]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.591
+[2018.08.28-08.58.58:653][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.59.03:439][ 83]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-08.59.08:426][307]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-08.59.10:583][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.59.10:595][403]LogSlate: Window 'farmerVSzombies Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.28-08.59.10:633][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.59.14:495][610]LogSlate: Window 'Message Log' being destroyed
+[2018.08.28-08.59.14:516][610]LogSlate: Window 'Message Log' being destroyed
+[2018.08.28-08.59.36:273][379]LogSavePackage: Save=61.99ms
+[2018.08.28-08.59.36:273][379]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/ThirdPersonCharacter424924DE4AEB822A6F6815B09E00A34D.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.08.28-08.59.36:275][379]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.08.28-08.59.36:536][403]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.08.28-08.59.36:576][403]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de4b0df740, Size=432
+[2018.08.28-08.59.36:576][403]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de0a9f9980, Size=432, ThirdPersonCharacter_C_45 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_76:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-08.59.36:583][403]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de4b0de5c0, Size=424, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-08.59.47:593][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP" FILE="../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset" SILENT=true
+[2018.08.28-08.59.47:617][330]LogSavePackage: Save=18.81ms
+[2018.08.28-08.59.47:617][330]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/MUSCETS_BP0E5C5F06402F5B09D8F111BE015C82EE.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset'
+[2018.08.28-08.59.47:619][330]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset
+[2018.08.28-08.59.48:701][426]BlueprintLog: New page: Compile MUSCETS_BP
+[2018.08.28-08.59.48:709][426]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de0a93af90, Size=16, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
+[2018.08.28-08.59.48:967][426]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de0a9f9980, Size=432
+[2018.08.28-08.59.49:332][457]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.28-08.59.49:346][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.59.49:347][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-08.59.49:347][457]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 28, 2018, 12:59:49 AM)
+[2018.08.28-08.59.49:347][457]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.28-08.59.49:365][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017985s)
+[2018.08.28-08.59.49:365][457]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.28-08.59.49:365][457]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2018.08.28-08.59.49:365][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018707s)
+[2018.08.28-08.59.49:386][457]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.28-08.59.49:441][457]LogInit: FAudioDevice initialized.
+[2018.08.28-08.59.49:509][457]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-08.59.49:515][457]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.28-04.59.49
+[2018.08.28-08.59.49:517][457]LogWorld: Bringing up level for play took: 0.006628
+[2018.08.28-08.59.49:522][457]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.54
+[2018.08.28-08.59.49:522][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-08.59.49:652][457]LogRenderer: Reallocating scene render targets to support 1396x756 Format 10 NumSamples 1 (Frame:1).
+[2018.08.28-08.59.54:345][805]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-08.59.59:334][182]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.00.00:191][246]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.00.00:203][246]LogSlate: Window 'farmerVSzombies Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.28-09.00.00:242][246]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.00.10:968][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP" FILE="../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset" SILENT=true
+[2018.08.28-09.00.10:989][999]LogSavePackage: Save=16.97ms
+[2018.08.28-09.00.10:989][999]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/MUSCETS_BP48D4D9C3419633C9D66E34A93AB9BDEA.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset'
+[2018.08.28-09.00.10:991][999]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset
+[2018.08.28-09.00.11:353][ 29]BlueprintLog: New page: Compile MUSCETS_BP
+[2018.08.28-09.00.11:359][ 29]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de0a93af90, Size=16
+[2018.08.28-09.00.11:359][ 29]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a670230, Size=16, Default__MUSCETS_BP_C Function /Engine/Transient.REINST_MUSCETS_BP_C_84:ExecuteUbergraph_MUSCETS_BP
+[2018.08.28-09.00.11:360][ 29]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd9a673490, Size=16, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
+[2018.08.28-09.00.12:570][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP" FILE="../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset" SILENT=true
+[2018.08.28-09.00.12:592][ 93]LogSavePackage: Save=17.20ms
+[2018.08.28-09.00.12:592][ 93]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/MUSCETS_BP82FB6036454AA8FDB808779DBE0CD825.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset'
+[2018.08.28-09.00.12:593][ 93]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset
+[2018.08.28-09.00.13:426][156]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.28-09.00.13:439][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.00.13:439][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-09.00.13:439][156]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 28, 2018, 1:00:13 AM)
+[2018.08.28-09.00.13:439][156]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.28-09.00.13:455][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015469s)
+[2018.08.28-09.00.13:456][156]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.28-09.00.13:456][156]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2018.08.28-09.00.13:456][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016501s)
+[2018.08.28-09.00.13:470][156]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9a670230, Size=16
+[2018.08.28-09.00.13:476][156]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.28-09.00.13:530][156]LogInit: FAudioDevice initialized.
+[2018.08.28-09.00.13:596][156]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-09.00.13:601][156]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.28-05.00.13
+[2018.08.28-09.00.13:603][156]LogWorld: Bringing up level for play took: 0.006238
+[2018.08.28-09.00.13:609][156]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.452
+[2018.08.28-09.00.13:609][156]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.00.18:430][499]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.00.23:407][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.00.23:418][868]LogSlate: Window 'farmerVSzombies Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.28-09.00.23:462][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.00.29:479][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP" FILE="../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset" SILENT=true
+[2018.08.28-09.00.29:501][220]LogSavePackage: Save=17.61ms
+[2018.08.28-09.00.29:501][220]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/MUSCETS_BPFB36A4224EDF594B4867D49AD41F45C7.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset'
+[2018.08.28-09.00.29:502][220]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset
+[2018.08.28-09.00.29:884][250]BlueprintLog: New page: Compile MUSCETS_BP
+[2018.08.28-09.00.29:890][250]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd9a673490, Size=16
+[2018.08.28-09.00.29:890][250]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de0a996f70, Size=16, Default__MUSCETS_BP_C Function /Engine/Transient.REINST_MUSCETS_BP_C_88:ExecuteUbergraph_MUSCETS_BP
+[2018.08.28-09.00.29:893][250]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de0a996640, Size=16, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
+[2018.08.28-09.00.30:463][270]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.28-09.00.30:476][270]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.00.30:476][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-09.00.30:477][270]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 28, 2018, 1:00:30 AM)
+[2018.08.28-09.00.30:477][270]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.28-09.00.30:493][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016291s)
+[2018.08.28-09.00.30:494][270]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.28-09.00.30:494][270]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2018.08.28-09.00.30:494][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017214s)
+[2018.08.28-09.00.30:509][270]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de0a996f70, Size=16
+[2018.08.28-09.00.30:515][270]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.28-09.00.30:566][270]LogInit: FAudioDevice initialized.
+[2018.08.28-09.00.30:634][270]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-09.00.30:639][270]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.28-05.00.30
+[2018.08.28-09.00.30:641][270]LogWorld: Bringing up level for play took: 0.006299
+[2018.08.28-09.00.30:647][270]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.585
+[2018.08.28-09.00.30:647][270]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.00.35:471][608]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.00.40:025][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.00.40:036][950]LogSlate: Window 'farmerVSzombies Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.28-09.00.40:074][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.00.41:138][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP" FILE="../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset" SILENT=true
+[2018.08.28-09.00.41:160][ 27]LogSavePackage: Save=17.42ms
+[2018.08.28-09.00.41:160][ 27]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/MUSCETS_BP28CC51E4425A975557ACD9B4320E78E1.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset'
+[2018.08.28-09.00.41:161][ 27]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset
+[2018.08.28-09.00.41:462][ 51]BlueprintLog: New page: Compile MUSCETS_BP
+[2018.08.28-09.00.41:467][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de0a996640, Size=16
+[2018.08.28-09.00.41:468][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de0a939950, Size=16, Default__MUSCETS_BP_C Function /Engine/Transient.REINST_MUSCETS_BP_C_92:ExecuteUbergraph_MUSCETS_BP
+[2018.08.28-09.00.41:469][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de0a938ff0, Size=16, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
+[2018.08.28-09.01.02:042][931]LogSavePackage: Save=65.16ms
+[2018.08.28-09.01.02:043][931]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/ThirdPersonCharacter98D49D4244A6D426E4660EB0C9AF6351.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.08.28-09.01.02:044][931]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.08.28-09.01.02:245][948]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.08.28-09.01.02:284][948]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de4b0de5c0, Size=424
+[2018.08.28-09.01.02:284][948]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de6ddb3c80, Size=424, ThirdPersonCharacter_C_63 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_99:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-09.01.02:291][948]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de0a966cc0, Size=424, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-09.01.02:553][948]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de0a939950, Size=16
+[2018.08.28-09.01.02:912][969]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.28-09.01.02:940][969]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.01.02:940][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-09.01.02:940][969]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 28, 2018, 1:01:02 AM)
+[2018.08.28-09.01.02:940][969]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.28-09.01.02:958][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017286s)
+[2018.08.28-09.01.02:958][969]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.28-09.01.02:958][969]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2018.08.28-09.01.02:958][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017984s)
+[2018.08.28-09.01.02:974][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de6ddb3c80, Size=424
+[2018.08.28-09.01.02:980][969]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.28-09.01.03:031][969]LogInit: FAudioDevice initialized.
+[2018.08.28-09.01.03:100][969]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-09.01.03:107][969]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.28-05.01.03
+[2018.08.28-09.01.03:108][969]LogWorld: Bringing up level for play took: 0.007304
+[2018.08.28-09.01.03:114][969]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.052
+[2018.08.28-09.01.03:114][969]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.01.07:922][311]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.01.12:926][668]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.01.17:921][ 28]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.01.22:921][408]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.01.27:923][796]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.01.32:923][181]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.01.37:926][583]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.01.42:922][944]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.01.47:919][297]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.01.52:916][676]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.01.54:272][776]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.01.54:283][776]LogSlate: Window 'farmerVSzombies Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.28-09.01.54:341][776]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.01.55:856][891]LogSavePackage: Save=61.67ms
+[2018.08.28-09.01.55:856][891]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/ThirdPersonCharacter2FD0F93548853344C0320CA57BB4443B.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.08.28-09.01.55:857][891]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.08.28-09.01.56:095][912]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.08.28-09.01.56:135][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de0a966cc0, Size=424
+[2018.08.28-09.01.56:135][912]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de6dc75980, Size=424, ThirdPersonCharacter_C_81 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_106:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-09.01.56:142][912]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de4b0dd280, Size=424, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.28-09.02.12:598][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-09.02.33:288][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-09.02.45:764][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-09.02.45:882][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Character/Animation/Idle" FILE="../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset" SILENT=true
+[2018.08.28-09.02.45:896][586]LogSavePackage: Save=9.80ms
+[2018.08.28-09.02.45:896][586]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/Idle8532D225455B88D00271BEB840D8A1D0.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset'
+[2018.08.28-09.02.45:897][586]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset
+[2018.08.28-09.02.56:632][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-09.03.03:422][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-09.03.10:805][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-09.03.13:605][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-09.03.28:866][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-09.03.41:830][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-09.03.41:970][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Character/Animation/Idle" FILE="../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset" SILENT=true
+[2018.08.28-09.03.41:976][678]LogSavePackage: Save=2.28ms
+[2018.08.28-09.03.41:976][678]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/IdleED3068774D35E06FE68F459D7027D4F8.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset'
+[2018.08.28-09.03.41:977][678]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset
+[2018.08.28-09.03.49:795][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP" FILE="../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset" SILENT=true
+[2018.08.28-09.03.49:817][198]LogSavePackage: Save=17.31ms
+[2018.08.28-09.03.49:817][198]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/MUSCETS_BP4A7C21674402D8EDBA81DD8CCA95BA01.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset'
+[2018.08.28-09.03.49:818][198]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Weapon/MUSCETS_BP.uasset
+[2018.08.28-09.03.50:305][234]BlueprintLog: New page: Compile MUSCETS_BP
+[2018.08.28-09.03.50:311][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de0a938ff0, Size=16
+[2018.08.28-09.03.50:311][234]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda0e14a90, Size=16, Default__MUSCETS_BP_C Function /Engine/Transient.REINST_MUSCETS_BP_C_110:ExecuteUbergraph_MUSCETS_BP
+[2018.08.28-09.03.50:312][234]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda0e14450, Size=16, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
+[2018.08.28-09.03.50:572][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de6dc75980, Size=424
+[2018.08.28-09.03.55:999][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Character/Animation/Idle" FILE="../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset" SILENT=true
+[2018.08.28-09.03.56:005][623]LogSavePackage: Save=2.39ms
+[2018.08.28-09.03.56:006][623]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/IdleA67551F848011E74F0D3E6BC88D718A3.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset'
+[2018.08.28-09.03.56:006][623]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset
+[2018.08.28-09.03.57:323][715]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.28-09.03.57:353][715]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.03.57:353][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-09.03.57:353][715]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 28, 2018, 1:03:57 AM)
+[2018.08.28-09.03.57:353][715]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.28-09.03.57:372][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018271s)
+[2018.08.28-09.03.57:372][715]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.28-09.03.57:372][715]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2018.08.28-09.03.57:372][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019091s)
+[2018.08.28-09.03.57:387][715]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dda0e14a90, Size=16
+[2018.08.28-09.03.57:394][715]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.28-09.03.57:445][715]LogInit: FAudioDevice initialized.
+[2018.08.28-09.03.57:548][715]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-09.03.57:553][715]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.28-05.03.57
+[2018.08.28-09.03.57:555][715]LogWorld: Bringing up level for play took: 0.006488
+[2018.08.28-09.03.57:561][715]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.501
+[2018.08.28-09.03.57:561][715]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.04.02:327][922]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.04.07:345][145]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.04.12:339][368]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.04.17:338][590]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.04.22:337][813]LogBlueprintUserMessages: [ZOMBIE_BP_2] Hello
+[2018.08.28-09.04.22:373][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.04.22:384][814]LogSlate: Window 'farmerVSzombies Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.28-09.04.22:427][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.28-09.04.24:632][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Character/Animation/Idle" FILE="../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset" SILENT=true
+[2018.08.28-09.04.24:639][962]LogSavePackage: Save=2.41ms
+[2018.08.28-09.04.24:639][962]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/Idle26FC5C364626FD3358D24C8F984C3624.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset'
+[2018.08.28-09.04.24:640][962]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset
+[2018.08.28-09.04.32:177][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Character/Animation/Idle" FILE="../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset" SILENT=true
+[2018.08.28-09.04.32:183][397]LogSavePackage: Save=2.30ms
+[2018.08.28-09.04.32:183][397]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/Idle1EEC1D1A4AD2A94E39210986DE03638C.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset'
+[2018.08.28-09.04.32:184][397]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Character/Animation/Idle.uasset
+[2018.08.28-09.04.52:173][129]LogSavePackage: Save=195.00ms
+[2018.08.28-09.04.52:173][129]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/ThirdPersonExampleMap8CC3D74B445447B26535C7B347F86FCE.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.28-09.04.52:176][129]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.08.28-09.04.52:233][129]LogSavePackage: Save=33.92ms
+[2018.08.28-09.04.52:233][129]LogSavePackage: Moving '../../../../../Unreal_Projects/farmerVSzombies/Saved/ThirdPersonExampleMap_BuiltDataD0954A464CDFF6A9E050CC9A344564F2.tmp' to '../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.28-09.04.52:234][129]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal_Projects/farmerVSzombies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
