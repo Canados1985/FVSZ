@@ -1,0 +1,1791 @@
+﻿Log file open, 09/01/18 06:03:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: farmerVSzombies
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(938944344) SRandInit(938944344).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.397307
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.921s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-J54LIC6 (192.168.1.39:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base Directory: D:/GameDev/UE4/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.014s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.01-10.03.28:284][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.01-10.03.28:284][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.01-10.03.28:290][  0]LogInit: Computer: DESKTOP-J54LIC6
+[2018.09.01-10.03.28:290][  0]LogInit: User: Canados
+[2018.09.01-10.03.28:290][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.09.01-10.03.28:290][  0]LogInit: High frequency timer resolution =2.156246 MHz
+[2018.09.01-10.03.28:291][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.01-10.03.28:291][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.01-10.03.28:291][  0]LogMemory: Process Physical Memory: 276.70 MB used, 276.70 MB peak
+[2018.09.01-10.03.28:291][  0]LogMemory: Process Virtual Memory: 275.39 MB used, 275.39 MB peak
+[2018.09.01-10.03.28:291][  0]LogMemory: Physical Memory: 10459.62 MB used,  5783.25 MB free, 16242.87 MB total
+[2018.09.01-10.03.28:291][  0]LogMemory: Virtual Memory: 4819.98 MB used,  5783.25 MB free, 134217728.00 MB total
+[2018.09.01-10.03.28:681][  0]LogInit: Using OS detected language (en-US).
+[2018.09.01-10.03.28:681][  0]LogInit: Using OS detected locale (en-CA).
+[2018.09.01-10.03.28:681][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2018.09.01-10.03.28:681][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2018.09.01-10.03.29:072][  0]LogStreaming: Display: Took  0.391s to EndInitTextLocalization.
+[2018.09.01-10.03.29:238][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.01-10.03.29:238][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.01-10.03.29:325][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.01-10.03.29:386][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.09.01-10.03.29:386][  0]LogD3D11RHI:       6061/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.01-10.03.29:413][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2018.09.01-10.03.29:413][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.01-10.03.29:415][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.01-10.03.29:415][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.01-10.03.29:415][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.01-10.03.29:423][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.01-10.03.29:423][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.01-10.03.29:423][  0]LogWindows: EnumDisplayDevices:
+[2018.09.01-10.03.29:423][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.09.01-10.03.29:423][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2018.09.01-10.03.29:423][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.09.01-10.03.29:423][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.09.01-10.03.29:424][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.09.01-10.03.29:424][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.09.01-10.03.29:424][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.09.01-10.03.29:424][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.01-10.03.29:424][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.09.01-10.03.29:424][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.01-10.03.29:424][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.01-10.03.29:424][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.09.01-10.03.29:452][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.01-10.03.29:452][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.01-10.03.29:452][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.01-10.03.29:464][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.09.01-10.03.29:559][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Unreal_Projects/farmerVSzombies/Intermediate/Shaders/WorkingDirectory/13196/).
+[2018.09.01-10.03.29:560][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Canados/AppData/Local/Temp/UnrealShaderWorkingDir/E34E4EE14A84D2CAE1F110BC443D32EA/'.
+[2018.09.01-10.03.29:744][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.01-10.03.29:756][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.01-10.03.29:768][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.01-10.03.29:779][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.01-10.03.29:779][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.01-10.03.29:879][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.01-10.03.29:879][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.01-10.03.29:879][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.01-10.03.30:505][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.01-10.03.30:561][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Canados/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.01-10.03.30:562][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Canados/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.01-10.03.30:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal_Projects/farmerVSzombies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.01-10.03.30:562][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.01-10.03.30:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal_Projects/farmerVSzombies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.01-10.03.30:562][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.01-10.03.30:576][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.01-10.03.30:589][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Canados/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.01-10.03.30:589][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.01-10.03.30:589][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.01-10.03.30:606][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.01-10.03.30:625][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.01-10.03.30:629][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.01-10.03.30:629][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.01-10.03.30:855][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2018.09.01-10.03.31:010][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.006871 seconds
+[2018.09.01-10.03.31:096][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.01-10.03.31:218][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.01-10.03.31:220][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.01-10.03.31:220][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.01-10.03.31:220][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.01-10.03.31:220][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.01-10.03.31:220][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.01-10.03.31:258][  0]LogNetVersion: farmerVSzombies , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3168997086)
+[2018.09.01-10.03.32:005][  0]LogMoviePlayer: Initializing movie player
+[2018.09.01-10.03.32:301][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.01-10.03.32:329][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.01-10.03.32:560][  0]SourceControl: Source control is disabled
+[2018.09.01-10.03.32:560][  0]SourceControl: Source control is disabled
+[2018.09.01-10.03.32:583][  0]SourceControl: Source control is disabled
+[2018.09.01-10.03.32:929][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.01-10.03.33:089][  0]LogOcInput: OculusInput pre-init called
+[2018.09.01-10.03.33:125][  0]LogUObjectArray: 40124 objects as part of root set at end of initial load.
+[2018.09.01-10.03.33:125][  0]LogUObjectAllocator: 8364200 out of 0 bytes used by permanent object pool.
+[2018.09.01-10.03.33:125][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.01-10.03.33:177][  0]LogEngine: Initializing Engine...
+[2018.09.01-10.03.33:178][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.01-10.03.33:190][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.01-10.03.33:190][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.01-10.03.33:358][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.09.01-10.03.33:419][  0]LogInit: FAudioDevice initialized.
+[2018.09.01-10.03.33:441][  0]LogInit: Texture streaming: Enabled
+[2018.09.01-10.03.33:641][  0]LogInit: Display: Game Engine Initialized.
+[2018.09.01-10.03.33:641][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.01-10.03.33:641][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.01-10.03.33:641][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.01-10.03.33:726][  0]LogInit: Display: Starting Game.
+[2018.09.01-10.03.33:726][  0]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
+[2018.09.01-10.03.33:737][  0]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
+[2018.09.01-10.03.33:784][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9daf4da8, Size=8, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.09.01-10.03.33:812][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9dd66200, Size=176, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
+[2018.09.01-10.03.33:813][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e8ff55ca8, Size=24, Default__BULLET_BP_C Function /Game/ThirdPersonBP/Character/Weapon/BULLET_BP.BULLET_BP_C:ExecuteUbergraph_BULLET_BP
+[2018.09.01-10.03.33:821][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e8ff74400, Size=976, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Character_BP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.09.01-10.03.33:833][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9dd67dc0, Size=172, Default__COIN_BP_C Function /Game/ThirdPersonBP/Env/Coin/COIN_BP.COIN_BP_C:ExecuteUbergraph_COIN_BP
+[2018.09.01-10.03.33:860][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9dd8c580, Size=172, Default__STAR_BP_C Function /Game/ThirdPersonBP/Env/Star/STAR_BP.STAR_BP_C:ExecuteUbergraph_STAR_BP
+[2018.09.01-10.03.33:895][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9edbf300, Size=64, Default__ANIM_PEASANT_BP_C Function /Game/ThirdPersonBP/Character/Animation/ANIM_PEASANT_BP.ANIM_PEASANT_BP_C:ExecuteUbergraph_ANIM_PEASANT_BP
+[2018.09.01-10.03.34:068][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e90009d80, Size=88, Default__spawn_point_C Function /Game/Enemies/Zombie/spawn_point.spawn_point_C:ExecuteUbergraph_spawn_point
+[2018.09.01-10.03.34:083][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e92431080, Size=288, Default__ENEMY_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.01-10.03.34:096][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9f548700, Size=256, Default__BP_FENCE_C Function /Game/ThirdPersonBP/Env/Fence/BP_FENCE.BP_FENCE_C:ExecuteUbergraph_BP_FENCE
+[2018.09.01-10.03.34:110][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e923f9600, Size=164, Default__BROKEN_FENCE_BP_C Function /Game/ThirdPersonBP/Env/Fence/BROKEN_FENCE_BP.BROKEN_FENCE_BP_C:ExecuteUbergraph_BROKEN_FENCE_BP
+[2018.09.01-10.03.34:117][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e92394100, Size=3376, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+[2018.09.01-10.03.34:118][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9239e700, Size=288, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.01-10.03.34:163][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9234f600, Size=248, Default__GRASS_BP_C Function /Game/ThirdPersonBP/Env/Grass/GRASS_BP.GRASS_BP_C:ExecuteUbergraph_GRASS_BP
+[2018.09.01-10.03.34:260][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9234d600, Size=248, Default__PEPPER_BP_C Function /Game/ThirdPersonBP/Env/Pepper/PEPPER_BP.PEPPER_BP_C:ExecuteUbergraph_PEPPER_BP
+[2018.09.01-10.03.34:357][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9234d000, Size=256, Default__PUMPKIN_BP_C Function /Game/ThirdPersonBP/Env/Pumpkin/PUMPKIN_BP.PUMPKIN_BP_C:ExecuteUbergraph_PUMPKIN_BP
+[2018.09.01-10.03.34:441][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9234cc00, Size=256, Default__TOMATO_BP_C Function /Game/ThirdPersonBP/Env/Tomato/TOMATO_BP.TOMATO_BP_C:ExecuteUbergraph_TOMATO_BP
+[2018.09.01-10.03.34:484][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e96daf040, Size=3376, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+[2018.09.01-10.03.34:484][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e96e39300, Size=288, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.01-10.03.34:488][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e971b6c20, Size=88, Default__ANIM_ZOMBIE_BP_C Function /Game/Enemies/Zombie/Animation/ANIM_ZOMBIE_BP.ANIM_ZOMBIE_BP_C:ExecuteUbergraph_ANIM_ZOMBIE_BP
+[2018.09.01-10.03.35:518][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea1e83c40, Size=264, Default__spawn_Legioners_C Function /Game/Enemies/Zombie_Legioner/spawn_Legioners.spawn_Legioners_C:ExecuteUbergraph_spawn_Legioners
+[2018.09.01-10.03.35:520][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e96ddc400, Size=240, Default__LEGIONER_BP_C Function /Game/Enemies/Zombie_Legioner/LEGIONER_BP.LEGIONER_BP_C:ExecuteUbergraph_LEGIONER_BP
+[2018.09.01-10.03.35:520][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea1e83880, Size=288, Default__LEGIONER_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.01-10.03.35:523][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea1d0ed40, Size=64, Default__LEGIONER_ZOMBIE_BP_C Function /Game/Enemies/Zombie_Legioner/Animation/LEGIONER_ZOMBIE_BP.LEGIONER_ZOMBIE_BP_C:ExecuteUbergraph_LEGIONER_ZOMBIE_BP
+[2018.09.01-10.03.35:525][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea1e7fd20, Size=32, Default__HELMET_BP_C Function /Game/Enemies/Zombie_Legioner/Gear/Helmet/HELMET_BP.HELMET_BP_C:ExecuteUbergraph_HELMET_BP
+[2018.09.01-10.03.35:526][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea1e7fcc0, Size=32, Default__HELMET2_BP_C Function /Game/Enemies/Zombie_Legioner/Gear/Helmet/HELMET2_BP.HELMET2_BP_C:ExecuteUbergraph_HELMET2_BP
+[2018.09.01-10.03.35:543][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9ec95580, Size=4, Default__GLADIUS_BP_C Function /Game/Enemies/Zombie_Legioner/Gear/Sword/GLADIUS_BP.GLADIUS_BP_C:ExecuteUbergraph_GLADIUS_BP
+[2018.09.01-10.03.35:928][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e9ec94e00, Size=8, Default__CRYPT_BP_C Function /Game/ThirdPersonBP/Env/Cemetery/Crypt/CRYPT_BP.CRYPT_BP_C:ExecuteUbergraph_CRYPT_BP
+[2018.09.01-10.03.36:297][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea26881c0, Size=64, Default__spawn_corn_C Function /Game/ThirdPersonBP/Env/Corn/spawn_corn.spawn_corn_C:ExecuteUbergraph_spawn_corn
+[2018.09.01-10.03.36:308][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea2a8a740, Size=180, Default__CORN_BP_C Function /Game/ThirdPersonBP/Env/Corn/CORN_BP.CORN_BP_C:ExecuteUbergraph_CORN_BP
+[2018.09.01-10.03.37:543][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eabe1a890, Size=40, Default__Spawn_FENCE_01_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_01.Spawn_FENCE_01_C:ExecuteUbergraph_Spawn_FENCE_01
+[2018.09.01-10.03.37:545][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea1e51b40, Size=24, Default__Spawn_FENCE_02_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_02.Spawn_FENCE_02_C:ExecuteUbergraph_Spawn_FENCE_02
+[2018.09.01-10.03.37:547][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea1e51ac8, Size=24, Default__Spawn_FENCE_03_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_03.Spawn_FENCE_03_C:ExecuteUbergraph_Spawn_FENCE_03
+[2018.09.01-10.03.37:549][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea1e51a68, Size=24, Default__Spawn_FENCE_04_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_04.Spawn_FENCE_04_C:ExecuteUbergraph_Spawn_FENCE_04
+[2018.09.01-10.03.37:571][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eabe199e0, Size=40, Default__spawn_point_GRASS_C Function /Game/ThirdPersonBP/Env/Grass/spawn_point_GRASS.spawn_point_GRASS_C:ExecuteUbergraph_spawn_point_GRASS
+[2018.09.01-10.03.37:594][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea6b02e88, Size=4, Default__TREE_BP_C Function /Game/ThirdPersonBP/Env/House/TREE_BP.TREE_BP_C:ExecuteUbergraph_TREE_BP
+[2018.09.01-10.03.37:791][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacadd3c0, Size=164, Default__LEAF_BP_C Function /Game/ThirdPersonBP/Env/Leaf/LEAF_BP.LEAF_BP_C:ExecuteUbergraph_LEAF_BP
+[2018.09.01-10.03.37:795][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea1cd7130, Size=48, Default__spawn_pepper_C Function /Game/ThirdPersonBP/Env/Pepper/spawn_pepper.spawn_pepper_C:ExecuteUbergraph_spawn_pepper
+[2018.09.01-10.03.37:797][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea673b8c8, Size=56, Default__spawn_pumpkin_C Function /Game/ThirdPersonBP/Env/Pumpkin/spawn_pumpkin.spawn_pumpkin_C:ExecuteUbergraph_spawn_pumpkin
+[2018.09.01-10.03.37:811][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea1e514f8, Size=24, Default__SCARECROW_BP_C Function /Game/ThirdPersonBP/Env/ScareCrow/SCARECROW_BP.SCARECROW_BP_C:ExecuteUbergraph_SCARECROW_BP
+[2018.09.01-10.03.37:836][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacb24940, Size=64, Default__spawn_sunflower_C Function /Game/ThirdPersonBP/Env/Sunflower/spawn_sunflower.spawn_sunflower_C:ExecuteUbergraph_spawn_sunflower
+[2018.09.01-10.03.37:844][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead7677b0, Size=12, Default__SUNFLOWER_BP_C Function /Game/ThirdPersonBP/Env/Sunflower/SUNFLOWER_BP.SUNFLOWER_BP_C:ExecuteUbergraph_SUNFLOWER_BP
+[2018.09.01-10.03.37:883][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ea1cd6a70, Size=48, Default__spawn_tomatoes_C Function /Game/ThirdPersonBP/Env/Tomato/spawn_tomatoes.spawn_tomatoes_C:ExecuteUbergraph_spawn_tomatoes
+[2018.09.01-10.03.37:956][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e9edbf300, Size=64
+[2018.09.01-10.03.37:956][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacc3f440, Size=64, Default__ANIM_PEASANT_BP_C Function /Engine/Transient.REINST_ANIM_PEASANT_BP_C_0:ExecuteUbergraph_ANIM_PEASANT_BP
+[2018.09.01-10.03.37:956][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e971b6c20, Size=88
+[2018.09.01-10.03.37:956][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacf334c0, Size=88, Default__ANIM_ZOMBIE_BP_C Function /Engine/Transient.REINST_ANIM_ZOMBIE_BP_C_1:ExecuteUbergraph_ANIM_ZOMBIE_BP
+[2018.09.01-10.03.37:957][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e923f9600, Size=164
+[2018.09.01-10.03.37:957][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead254100, Size=164, Default__BROKEN_FENCE_BP_C Function /Engine/Transient.REINST_BROKEN_FENCE_BP_C_5:ExecuteUbergraph_BROKEN_FENCE_BP
+[2018.09.01-10.03.37:957][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e8ff55ca8, Size=24
+[2018.09.01-10.03.37:957][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacc5b2f8, Size=24, Default__BULLET_BP_C Function /Engine/Transient.REINST_BULLET_BP_C_7:ExecuteUbergraph_BULLET_BP
+[2018.09.01-10.03.37:959][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e9dd67dc0, Size=172
+[2018.09.01-10.03.37:959][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacbcfc40, Size=172, Default__COIN_BP_C Function /Engine/Transient.REINST_COIN_BP_C_10:ExecuteUbergraph_COIN_BP
+[2018.09.01-10.03.37:965][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e9ec94e00, Size=8
+[2018.09.01-10.03.37:965][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacd7e828, Size=8, Default__CRYPT_BP_C Function /Engine/Transient.REINST_CRYPT_BP_C_17:ExecuteUbergraph_CRYPT_BP
+[2018.09.01-10.03.37:966][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e9ec95580, Size=4
+[2018.09.01-10.03.37:966][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacd7e7e8, Size=4, Default__GLADIUS_BP_C Function /Engine/Transient.REINST_GLADIUS_BP_C_21:ExecuteUbergraph_GLADIUS_BP
+[2018.09.01-10.03.37:966][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea1e7fcc0, Size=32
+[2018.09.01-10.03.37:966][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacc0b460, Size=32, Default__HELMET2_BP_C Function /Engine/Transient.REINST_HELMET2_BP_C_23:ExecuteUbergraph_HELMET2_BP
+[2018.09.01-10.03.37:966][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea1e7fd20, Size=32
+[2018.09.01-10.03.37:966][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacc0b440, Size=32, Default__HELMET_BP_C Function /Engine/Transient.REINST_HELMET_BP_C_24:ExecuteUbergraph_HELMET_BP
+[2018.09.01-10.03.37:966][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacadd3c0, Size=164
+[2018.09.01-10.03.37:966][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacbcf4c0, Size=164, Default__LEAF_BP_C Function /Engine/Transient.REINST_LEAF_BP_C_26:ExecuteUbergraph_LEAF_BP
+[2018.09.01-10.03.37:967][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea1d0ed40, Size=64
+[2018.09.01-10.03.37:967][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead5f2700, Size=64, Default__LEGIONER_ZOMBIE_BP_C Function /Engine/Transient.REINST_LEGIONER_ZOMBIE_BP_C_2:ExecuteUbergraph_LEGIONER_ZOMBIE_BP
+[2018.09.01-10.03.37:967][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea1e514f8, Size=24
+[2018.09.01-10.03.37:967][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacc5b0b8, Size=24, Default__SCARECROW_BP_C Function /Engine/Transient.REINST_SCARECROW_BP_C_27:ExecuteUbergraph_SCARECROW_BP
+[2018.09.01-10.03.37:967][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea26881c0, Size=64
+[2018.09.01-10.03.37:967][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead5f1c80, Size=64, Default__spawn_corn_C Function /Engine/Transient.REINST_spawn_corn_C_31:ExecuteUbergraph_spawn_corn
+[2018.09.01-10.03.37:967][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eabe1a890, Size=40
+[2018.09.01-10.03.37:968][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead75cc70, Size=40, Default__Spawn_FENCE_01_C Function /Engine/Transient.REINST_Spawn_FENCE_01_C_32:ExecuteUbergraph_Spawn_FENCE_01
+[2018.09.01-10.03.37:968][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea1e51b40, Size=24
+[2018.09.01-10.03.37:968][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacc5aff8, Size=24, Default__Spawn_FENCE_02_C Function /Engine/Transient.REINST_Spawn_FENCE_02_C_33:ExecuteUbergraph_Spawn_FENCE_02
+[2018.09.01-10.03.37:968][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea1e51ac8, Size=24
+[2018.09.01-10.03.37:968][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacc5afc8, Size=24, Default__Spawn_FENCE_03_C Function /Engine/Transient.REINST_Spawn_FENCE_03_C_34:ExecuteUbergraph_Spawn_FENCE_03
+[2018.09.01-10.03.37:968][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea1e51a68, Size=24
+[2018.09.01-10.03.37:968][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacc5af98, Size=24, Default__Spawn_FENCE_04_C Function /Engine/Transient.REINST_Spawn_FENCE_04_C_35:ExecuteUbergraph_Spawn_FENCE_04
+[2018.09.01-10.03.37:968][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea1e83c40, Size=264
+[2018.09.01-10.03.37:968][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead71a200, Size=264, Default__spawn_Legioners_C Function /Engine/Transient.REINST_spawn_Legioners_C_36:ExecuteUbergraph_spawn_Legioners
+[2018.09.01-10.03.37:968][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea1cd7130, Size=48
+[2018.09.01-10.03.37:968][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacf8ebc0, Size=48, Default__spawn_pepper_C Function /Engine/Transient.REINST_spawn_pepper_C_37:ExecuteUbergraph_spawn_pepper
+[2018.09.01-10.03.37:969][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e90009d80, Size=88
+[2018.09.01-10.03.37:969][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacf32d40, Size=88, Default__spawn_point_C Function /Engine/Transient.REINST_spawn_point_C_38:ExecuteUbergraph_spawn_point
+[2018.09.01-10.03.37:969][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eabe199e0, Size=40
+[2018.09.01-10.03.37:969][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead75cc20, Size=40, Default__spawn_point_GRASS_C Function /Engine/Transient.REINST_spawn_point_GRASS_C_39:ExecuteUbergraph_spawn_point_GRASS
+[2018.09.01-10.03.37:969][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea673b8c8, Size=56
+[2018.09.01-10.03.37:969][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacf99718, Size=56, Default__spawn_pumpkin_C Function /Engine/Transient.REINST_spawn_pumpkin_C_40:ExecuteUbergraph_spawn_pumpkin
+[2018.09.01-10.03.37:969][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacb24940, Size=64
+[2018.09.01-10.03.37:969][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead5f0700, Size=64, Default__spawn_sunflower_C Function /Engine/Transient.REINST_spawn_sunflower_C_41:ExecuteUbergraph_spawn_sunflower
+[2018.09.01-10.03.37:969][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea1cd6a70, Size=48
+[2018.09.01-10.03.37:969][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacf8ed40, Size=48, Default__spawn_tomatoes_C Function /Engine/Transient.REINST_spawn_tomatoes_C_42:ExecuteUbergraph_spawn_tomatoes
+[2018.09.01-10.03.37:969][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e9dd8c580, Size=172
+[2018.09.01-10.03.37:969][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacbce380, Size=172, Default__STAR_BP_C Function /Engine/Transient.REINST_STAR_BP_C_44:ExecuteUbergraph_STAR_BP
+[2018.09.01-10.03.37:970][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea6b02e88, Size=4
+[2018.09.01-10.03.37:970][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacd7e640, Size=4, Default__TREE_BP_C Function /Engine/Transient.REINST_TREE_BP_C_49:ExecuteUbergraph_TREE_BP
+[2018.09.01-10.03.37:971][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e9f548700, Size=256
+[2018.09.01-10.03.37:971][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead1ae000, Size=256, Default__BP_FENCE_C Function /Engine/Transient.REINST_BP_FENCE_C_52:ExecuteUbergraph_BP_FENCE
+[2018.09.01-10.03.37:971][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e9dd66200, Size=176
+[2018.09.01-10.03.37:971][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacbcdf00, Size=176, Default__MUSCETS_BP_C Function /Engine/Transient.REINST_MUSCETS_BP_C_53:ExecuteUbergraph_MUSCETS_BP
+[2018.09.01-10.03.37:972][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea2a8a740, Size=180
+[2018.09.01-10.03.37:972][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eacbcdd80, Size=180, Default__CORN_BP_C Function /Engine/Transient.REINST_CORN_BP_C_55:ExecuteUbergraph_CORN_BP
+[2018.09.01-10.03.37:972][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e92431080, Size=288
+[2018.09.01-10.03.37:972][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead719d00, Size=288, Default__ENEMY_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_56:ExecuteUbergraph_ENEMY_BP
+[2018.09.01-10.03.37:972][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e9234f600, Size=248
+[2018.09.01-10.03.37:972][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead1adc00, Size=248, Default__GRASS_BP_C Function /Engine/Transient.REINST_GRASS_BP_C_57:ExecuteUbergraph_GRASS_BP
+[2018.09.01-10.03.37:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e9234d600, Size=248
+[2018.09.01-10.03.37:973][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead1adb00, Size=248, Default__PEPPER_BP_C Function /Engine/Transient.REINST_PEPPER_BP_C_58:ExecuteUbergraph_PEPPER_BP
+[2018.09.01-10.03.37:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e9234d000, Size=256
+[2018.09.01-10.03.37:973][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead1ada00, Size=256, Default__PUMPKIN_BP_C Function /Engine/Transient.REINST_PUMPKIN_BP_C_59:ExecuteUbergraph_PUMPKIN_BP
+[2018.09.01-10.03.37:973][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead7677b0, Size=12
+[2018.09.01-10.03.37:973][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead603d20, Size=12, Default__SUNFLOWER_BP_C Function /Engine/Transient.REINST_SUNFLOWER_BP_C_60:ExecuteUbergraph_SUNFLOWER_BP
+[2018.09.01-10.03.37:974][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e8ff74400, Size=976
+[2018.09.01-10.03.37:974][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead1cd000, Size=976, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_61:ExecuteUbergraph_ThirdPersonCharacter
+[2018.09.01-10.03.37:974][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e9234cc00, Size=256
+[2018.09.01-10.03.37:974][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead1ad800, Size=256, Default__TOMATO_BP_C Function /Engine/Transient.REINST_TOMATO_BP_C_62:ExecuteUbergraph_TOMATO_BP
+[2018.09.01-10.03.37:975][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e96ddc400, Size=240
+[2018.09.01-10.03.37:975][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ea1e83880, Size=288
+[2018.09.01-10.03.37:975][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead1ad900, Size=240, Default__LEGIONER_BP_C Function /Engine/Transient.REINST_LEGIONER_BP_C_63:ExecuteUbergraph_LEGIONER_BP
+[2018.09.01-10.03.37:975][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead7191c0, Size=288, Default__LEGIONER_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_56:ExecuteUbergraph_ENEMY_BP
+[2018.09.01-10.03.37:976][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e96daf040, Size=3376
+[2018.09.01-10.03.37:976][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e96e39300, Size=288
+[2018.09.01-10.03.37:976][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead6090c0, Size=3376, Default__ZOMBIE_BP_C Function /Engine/Transient.REINST_ZOMBIE_BP_C_64:ExecuteUbergraph_ZOMBIE_BP
+[2018.09.01-10.03.37:976][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead719080, Size=288, Default__ZOMBIE_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_56:ExecuteUbergraph_ENEMY_BP
+[2018.09.01-10.03.38:129][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae2a2740, Size=64, Default__ANIM_PEASANT_BP_C Function /Game/ThirdPersonBP/Character/Animation/ANIM_PEASANT_BP.ANIM_PEASANT_BP_C:ExecuteUbergraph_ANIM_PEASANT_BP
+[2018.09.01-10.03.38:131][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eade89c00, Size=88, Default__ANIM_ZOMBIE_BP_C Function /Game/Enemies/Zombie/Animation/ANIM_ZOMBIE_BP.ANIM_ZOMBIE_BP_C:ExecuteUbergraph_ANIM_ZOMBIE_BP
+[2018.09.01-10.03.38:133][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eade22ec0, Size=164, Default__BROKEN_FENCE_BP_C Function /Game/ThirdPersonBP/Env/Fence/BROKEN_FENCE_BP.BROKEN_FENCE_BP_C:ExecuteUbergraph_BROKEN_FENCE_BP
+[2018.09.01-10.03.38:134][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae20c940, Size=24, Default__BULLET_BP_C Function /Game/ThirdPersonBP/Character/Weapon/BULLET_BP.BULLET_BP_C:ExecuteUbergraph_BULLET_BP
+[2018.09.01-10.03.38:134][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eade21cc0, Size=172, Default__COIN_BP_C Function /Game/ThirdPersonBP/Env/Coin/COIN_BP.COIN_BP_C:ExecuteUbergraph_COIN_BP
+[2018.09.01-10.03.38:136][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae64c6d8, Size=8, Default__CRYPT_BP_C Function /Game/ThirdPersonBP/Env/Cemetery/Crypt/CRYPT_BP.CRYPT_BP_C:ExecuteUbergraph_CRYPT_BP
+[2018.09.01-10.03.38:137][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae64c678, Size=4, Default__GLADIUS_BP_C Function /Game/Enemies/Zombie_Legioner/Gear/Sword/GLADIUS_BP.GLADIUS_BP_C:ExecuteUbergraph_GLADIUS_BP
+[2018.09.01-10.03.38:137][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae64c638, Size=4, Default__HELMET2_BP_C Function /Game/Enemies/Zombie_Legioner/Gear/Helmet/HELMET2_BP.HELMET2_BP_C:ExecuteUbergraph_HELMET2_BP
+[2018.09.01-10.03.38:137][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eade3d5e0, Size=32, Default__HELMET_BP_C Function /Game/Enemies/Zombie_Legioner/Gear/Helmet/HELMET_BP.HELMET_BP_C:ExecuteUbergraph_HELMET_BP
+[2018.09.01-10.03.38:137][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eade207c0, Size=164, Default__LEAF_BP_C Function /Game/ThirdPersonBP/Env/Leaf/LEAF_BP.LEAF_BP_C:ExecuteUbergraph_LEAF_BP
+[2018.09.01-10.03.38:138][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae3fb700, Size=64, Default__LEGIONER_ZOMBIE_BP_C Function /Game/Enemies/Zombie_Legioner/Animation/LEGIONER_ZOMBIE_BP.LEGIONER_ZOMBIE_BP_C:ExecuteUbergraph_LEGIONER_ZOMBIE_BP
+[2018.09.01-10.03.38:138][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae3d7f10, Size=24, Default__SCARECROW_BP_C Function /Game/ThirdPersonBP/Env/ScareCrow/SCARECROW_BP.SCARECROW_BP_C:ExecuteUbergraph_SCARECROW_BP
+[2018.09.01-10.03.38:139][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae3fad80, Size=64, Default__spawn_corn_C Function /Game/ThirdPersonBP/Env/Corn/spawn_corn.spawn_corn_C:ExecuteUbergraph_spawn_corn
+[2018.09.01-10.03.38:139][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead90c6f8, Size=40, Default__Spawn_FENCE_01_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_01.Spawn_FENCE_01_C:ExecuteUbergraph_Spawn_FENCE_01
+[2018.09.01-10.03.38:139][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae3d7a78, Size=24, Default__Spawn_FENCE_02_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_02.Spawn_FENCE_02_C:ExecuteUbergraph_Spawn_FENCE_02
+[2018.09.01-10.03.38:139][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae3d79a0, Size=24, Default__Spawn_FENCE_03_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_03.Spawn_FENCE_03_C:ExecuteUbergraph_Spawn_FENCE_03
+[2018.09.01-10.03.38:140][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae3d78c8, Size=24, Default__Spawn_FENCE_04_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_04.Spawn_FENCE_04_C:ExecuteUbergraph_Spawn_FENCE_04
+[2018.09.01-10.03.38:141][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eade4b600, Size=264, Default__spawn_Legioners_C Function /Game/Enemies/Zombie_Legioner/spawn_Legioners.spawn_Legioners_C:ExecuteUbergraph_spawn_Legioners
+[2018.09.01-10.03.38:141][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae3dd450, Size=48, Default__spawn_pepper_C Function /Game/ThirdPersonBP/Env/Pepper/spawn_pepper.spawn_pepper_C:ExecuteUbergraph_spawn_pepper
+[2018.09.01-10.03.38:142][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae401840, Size=88, Default__spawn_point_C Function /Game/Enemies/Zombie/spawn_point.spawn_point_C:ExecuteUbergraph_spawn_point
+[2018.09.01-10.03.38:142][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead90c568, Size=40, Default__spawn_point_GRASS_C Function /Game/ThirdPersonBP/Env/Grass/spawn_point_GRASS.spawn_point_GRASS_C:ExecuteUbergraph_spawn_point_GRASS
+[2018.09.01-10.03.38:142][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae3caf28, Size=56, Default__spawn_pumpkin_C Function /Game/ThirdPersonBP/Env/Pumpkin/spawn_pumpkin.spawn_pumpkin_C:ExecuteUbergraph_spawn_pumpkin
+[2018.09.01-10.03.38:143][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eae3f8b00, Size=64, Default__spawn_sunflower_C Function /Game/ThirdPersonBP/Env/Sunflower/spawn_sunflower.spawn_sunflower_C:ExecuteUbergraph_spawn_sunflower
+[2018.09.01-10.03.38:143][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028ead90c4c8, Size=40, Default__spawn_tomatoes_C Function /Game/ThirdPersonBP/Env/Tomato/spawn_tomatoes.spawn_tomatoes_C:ExecuteUbergraph_spawn_tomatoes
+[2018.09.01-10.03.38:144][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eaddd65c0, Size=172, Default__STAR_BP_C Function /Game/ThirdPersonBP/Env/Star/STAR_BP.STAR_BP_C:ExecuteUbergraph_STAR_BP
+[2018.09.01-10.03.38:144][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eaddb7f38, Size=4, Default__TREE_BP_C Function /Game/ThirdPersonBP/Env/House/TREE_BP.TREE_BP_C:ExecuteUbergraph_TREE_BP
+[2018.09.01-10.03.38:145][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eadd97b00, Size=256, Default__BP_FENCE_C Function /Game/ThirdPersonBP/Env/Fence/BP_FENCE.BP_FENCE_C:ExecuteUbergraph_BP_FENCE
+[2018.09.01-10.03.38:146][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eaddd4dc0, Size=176, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
+[2018.09.01-10.03.38:148][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eadd63940, Size=180, Default__CORN_BP_C Function /Game/ThirdPersonBP/Env/Corn/CORN_BP.CORN_BP_C:ExecuteUbergraph_CORN_BP
+[2018.09.01-10.03.38:149][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eade496c0, Size=288, Default__ENEMY_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.01-10.03.38:150][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eadd3a300, Size=248, Default__GRASS_BP_C Function /Game/ThirdPersonBP/Env/Grass/GRASS_BP.GRASS_BP_C:ExecuteUbergraph_GRASS_BP
+[2018.09.01-10.03.38:152][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eadd13200, Size=248, Default__PEPPER_BP_C Function /Game/ThirdPersonBP/Env/Pepper/PEPPER_BP.PEPPER_BP_C:ExecuteUbergraph_PEPPER_BP
+[2018.09.01-10.03.38:154][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eadce6f00, Size=256, Default__PUMPKIN_BP_C Function /Game/ThirdPersonBP/Env/Pumpkin/PUMPKIN_BP.PUMPKIN_BP_C:ExecuteUbergraph_PUMPKIN_BP
+[2018.09.01-10.03.38:155][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eaddfa960, Size=12, Default__SUNFLOWER_BP_C Function /Game/ThirdPersonBP/Env/Sunflower/SUNFLOWER_BP.SUNFLOWER_BP_C:ExecuteUbergraph_SUNFLOWER_BP
+[2018.09.01-10.03.38:160][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eadc5b400, Size=976, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Character_BP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.09.01-10.03.38:162][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eadc31100, Size=248, Default__TOMATO_BP_C Function /Game/ThirdPersonBP/Env/Tomato/TOMATO_BP.TOMATO_BP_C:ExecuteUbergraph_TOMATO_BP
+[2018.09.01-10.03.38:165][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eadbf3800, Size=240, Default__LEGIONER_BP_C Function /Game/Enemies/Zombie_Legioner/LEGIONER_BP.LEGIONER_BP_C:ExecuteUbergraph_LEGIONER_BP
+[2018.09.01-10.03.38:165][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eadc17b00, Size=288, Default__LEGIONER_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.01-10.03.38:180][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028e80fa6080, Size=3360, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+[2018.09.01-10.03.38:180][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eadc15d00, Size=288, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.01-10.03.38:252][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e9daf4da8, Size=8
+[2018.09.01-10.03.38:252][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eaddb6660, Size=8, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_138:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.09.01-10.03.38:252][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028eaddb6e10, Size=8, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.09.01-10.03.38:880][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
+[2018.09.01-10.03.38:880][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
+[2018.09.01-10.03.38:880][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
+[2018.09.01-10.03.38:880][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
+[2018.09.01-10.03.38:880][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
+[2018.09.01-10.03.38:880][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
+[2018.09.01-10.03.38:880][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
+[2018.09.01-10.03.38:880][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
+[2018.09.01-10.03.38:880][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
+[2018.09.01-10.03.38:880][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
+[2018.09.01-10.03.38:880][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
+[2018.09.01-10.03.38:880][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
+[2018.09.01-10.03.42:652][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemies/Zombie_Legioner/Animation/Sword_And_Shield_Walk.Sword_And_Shield_Walk
+[2018.09.01-10.03.42:652][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemies/Zombie_Legioner/Animation/Sword_And_Shield_Walk.Sword_And_Shield_Walk) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.01-10.03.42:662][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.535204ms] /Game/Enemies/Zombie_Legioner/Legioner_Zombie.Legioner_Zombie
+[2018.09.01-10.03.45:313][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.540526ms] /Game/Enemies/Zombie/Zombie.Zombie
+[2018.09.01-10.03.45:646][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.081745ms] /Game/ThirdPersonBP/Character/peasant.peasant
+[2018.09.01-10.03.46:832][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.434445ms] /Game/ThirdPersonBP/Env/ScareCrow/scarecrow.scarecrow
+[2018.09.01-10.03.47:355][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.01-10.03.47:356][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.09.01-10.03.47:356][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.09.01-10.03.47:356][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.09.01-10.03.47:356][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.09.01-10.03.47:356][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2018.09.01-10.03.47:362][  0]LogLoad: Game class is 'GameModeBase'
+[2018.09.01-10.03.47:514][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.01-06.03.47
+[2018.09.01-10.03.47:519][  0]LogWorld: Bringing up level for play took: 0.152772
+[2018.09.01-10.03.47:570][  0]LogLoad: Took 13.833644 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.09.01-10.03.47:655][  0]LogLoad: (Engine Initialization) Total time: 21.85 seconds
+[2018.09.01-10.03.47:655][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.01-10.03.47:668][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.09.01-10.03.47:775][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.01-10.03.47:780][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.01-10.03.47:790][  1]LogAudio: Warning: Detected orphaned looping sound 'level01_music_Cue'.
+[2018.09.01-10.03.51:877][225]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.52:377][256]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.52:877][287]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.53:377][318]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.53:811][345]LogBlueprintUserMessages: [spawn_Legioners2] FIRST WAVE IS DONE
+[2018.09.01-10.03.53:811][345]LogBlueprintUserMessages: [spawn_Legioners_1481] FIRST WAVE IS DONE
+[2018.09.01-10.03.53:811][345]LogBlueprintUserMessages: [spawn_Legioners3] FIRST WAVE IS DONE
+[2018.09.01-10.03.53:878][349]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.54:377][380]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.54:877][411]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.55:877][473]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.56:378][504]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.56:879][535]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.57:882][595]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.58:386][625]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.58:889][656]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.59:397][686]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.59:880][715]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.03.59:912][717]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.03.59:961][720]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.00:062][726]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.00:388][746]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.00:470][751]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.00:571][757]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.00:903][776]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.00:971][780]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.01:073][786]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.01:159][791]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.01:228][795]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.01:311][800]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.01:413][806]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.01:479][810]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.01:479][810]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.01:580][816]LogCharacterMovement: LEGIONER_BP_C_10 is stuck and failed to move! Velocity: X=18.51 Y=-32.09 Z=0.00 Location: X=-405.80 Y=867.77 Z=183.32 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:68.768 Actor:FLOOR_BP_134 Component:Cube BoneName:None (0 other events since notify)
+[2018.09.01-10.04.01:583][816]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.01:670][821]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.01:721][824]LogCharacterMovement: LEGIONER_BP_C_7 is stuck and failed to move! Velocity: X=17.83 Y=-29.09 Z=0.00 Location: X=-451.87 Y=867.77 Z=253.04 Normal: X=-1.00 Y=0.09 Z=0.00 PenetrationDepth:17.941 Actor:LEGIONER_BP_C_10 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2018.09.01-10.04.01:739][825]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.01:793][828]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-378.961 Y=869.084 Z=374.657] for [LEGIONER_BP_C]
+[2018.09.01-10.04.01:794][828]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnAIFromClass_ReturnValue
+	spawn_Legioners_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.spawn_Legioners_1481
+	Function /Game/Enemies/Zombie_Legioner/spawn_Legioners.spawn_Legioners_C:ExecuteUbergraph_spawn_Legioners:0162
+[2018.09.01-10.04.01:794][828]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie_Legioner/spawn_Legioners.spawn_Legioners_C:ExecuteUbergraph_spawn_Legioners
+
+[2018.09.01-10.04.01:794][828]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	spawn_Legioners_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.spawn_Legioners_1481
+	Function /Game/Enemies/Zombie_Legioner/spawn_Legioners.spawn_Legioners_C:ExecuteUbergraph_spawn_Legioners:0182
+[2018.09.01-10.04.01:794][828]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie_Legioner/spawn_Legioners.spawn_Legioners_C:ExecuteUbergraph_spawn_Legioners
+
+[2018.09.01-10.04.01:827][830]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.01:927][836]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.01:992][840]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.02:008][841]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.02:186][852]LogBlueprintUserMessages: [LEGIONER_BP_C_5] THEY SEE PLAYER
+[2018.09.01-10.04.02:186][852]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.02:250][856]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.02:333][861]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.02:427][867]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.02:459][869]LogBlueprintUserMessages: [LEGIONER_BP_C_14] THEY SEE PLAYER
+[2018.09.01-10.04.02:491][871]LogCharacterMovement: LEGIONER_BP_C_14 is stuck and failed to move! Velocity: X=26.25 Y=-20.05 Z=0.00 Location: X=-402.52 Y=222.21 Z=186.33 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:65.752 Actor:FLOOR_BP_134 Component:Cube BoneName:None (0 other events since notify)
+[2018.09.01-10.04.02:493][871]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.02:508][872]LogBlueprintUserMessages: [LEGIONER_BP_C_8] THEY SEE PLAYER
+[2018.09.01-10.04.02:556][875]LogBlueprintUserMessages: [LEGIONER_BP_C_11] THEY SEE PLAYER
+[2018.09.01-10.04.02:686][883]LogBlueprintUserMessages: [LEGIONER_BP_C_5] THEY SEE PLAYER
+[2018.09.01-10.04.02:686][883]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.02:750][887]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.02:815][891]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.02:909][897]LogCharacterMovement: LEGIONER_BP_C_11 is stuck and failed to move! Velocity: X=13.58 Y=-30.11 Z=0.00 Location: X=-431.67 Y=219.03 Z=138.10 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:113.989 Actor:FLOOR_BP_134 Component:Cube BoneName:None (0 other events since notify)
+[2018.09.01-10.04.02:928][898]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.02:960][900]LogBlueprintUserMessages: [LEGIONER_BP_C_14] THEY SEE PLAYER
+[2018.09.01-10.04.02:992][902]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.03:008][903]LogBlueprintUserMessages: [LEGIONER_BP_C_8] THEY SEE PLAYER
+[2018.09.01-10.04.03:055][906]LogBlueprintUserMessages: [LEGIONER_BP_C_11] THEY SEE PLAYER
+[2018.09.01-10.04.03:133][911]LogCharacterMovement: LEGIONER_BP_C_8 is stuck and failed to move! Velocity: X=28.33 Y=-16.98 Z=0.00 Location: X=-447.75 Y=224.20 Z=253.04 Normal: X=-0.95 Y=0.31 Z=-0.00 PenetrationDepth:36.057 Actor:LEGIONER_BP_C_11 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2018.09.01-10.04.03:186][914]LogBlueprintUserMessages: [LEGIONER_BP_C_5] THEY SEE PLAYER
+[2018.09.01-10.04.03:251][918]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.03:314][922]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.03:459][931]LogBlueprintUserMessages: [LEGIONER_BP_C_14] THEY SEE PLAYER
+[2018.09.01-10.04.03:492][933]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.03:685][945]LogBlueprintUserMessages: [LEGIONER_BP_C_5] THEY SEE PLAYER
+[2018.09.01-10.04.03:829][954]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.04:459][993]LogBlueprintUserMessages: [LEGIONER_BP_C_14] THEY SEE PLAYER
+[2018.09.01-10.04.04:491][995]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.04:507][996]LogBlueprintUserMessages: [LEGIONER_BP_C_8] THEY SEE PLAYER
+[2018.09.01-10.04.04:555][999]LogBlueprintUserMessages: [LEGIONER_BP_C_11] THEY SEE PLAYER
+[2018.09.01-10.04.04:749][ 11]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.04:788][ 13]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.04:788][ 13]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.04:788][ 13]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.04:992][ 26]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.05:008][ 27]LogBlueprintUserMessages: [LEGIONER_BP_C_8] THEY SEE PLAYER
+[2018.09.01-10.04.05:460][ 55]LogBlueprintUserMessages: [LEGIONER_BP_C_14] THEY SEE PLAYER
+[2018.09.01-10.04.05:509][ 58]LogBlueprintUserMessages: [LEGIONER_BP_C_8] THEY SEE PLAYER
+[2018.09.01-10.04.05:685][ 69]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.05:781][ 75]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.05:782][ 75]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.05:782][ 75]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.05:814][ 77]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.05:992][ 88]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.06:250][104]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.06:315][108]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.06:331][109]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.06:508][120]LogBlueprintUserMessages: [LEGIONER_BP_C_8] THEY SEE PLAYER
+[2018.09.01-10.04.06:783][137]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.06:783][137]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.06:783][137]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.06:815][139]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.06:832][140]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.06:992][150]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.07:008][151]LogBlueprintUserMessages: [LEGIONER_BP_C_8] THEY SEE PLAYER
+[2018.09.01-10.04.07:186][162]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.07:253][166]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.07:322][170]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.07:340][171]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.07:476][179]LogBlueprintUserMessages: [LEGIONER_BP_C_14] THEY SEE PLAYER
+[2018.09.01-10.04.07:492][180]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.07:594][186]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.07:693][192]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.07:774][197]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.07:779][197]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.07:779][197]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.07:790][198]LogBlueprintUserMessages: [spawn_point_3447] FIRST WAVE IS DONE
+[2018.09.01-10.04.07:790][198]LogBlueprintUserMessages: [spawn_point2] FIRST WAVE IS DONE
+[2018.09.01-10.04.07:791][198]LogBlueprintUserMessages: [spawn_point3] FIRST WAVE IS DONE
+[2018.09.01-10.04.07:810][199]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.07:844][201]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.07:940][207]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.07:955][208]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.07:955][208]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.08:004][211]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.08:004][211]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.08:020][212]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.08:103][217]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.08:199][223]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.08:273][227]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.08:315][229]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.08:336][230]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.08:358][231]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.08:446][235]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.08:468][236]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.08:468][236]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.08:491][237]LogBlueprintUserMessages: [LEGIONER_BP_C_14] THEY SEE PLAYER
+[2018.09.01-10.04.08:513][238]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.08:513][238]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.08:536][239]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.08:607][242]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.08:719][247]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.08:787][250]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.08:787][250]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.08:787][250]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.08:787][250]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.08:832][252]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.08:855][253]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.08:878][254]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.08:969][258]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.08:969][258]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.08:991][259]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.08:991][259]LogBlueprintUserMessages: [LEGIONER_BP_C_14] THEY SEE PLAYER
+[2018.09.01-10.04.09:014][260]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.09:014][260]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.09:057][262]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.09:124][265]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.09:237][270]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.09:305][273]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.09:349][275]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.09:395][277]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.09:464][280]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.09:487][281]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.09:487][281]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.09:510][282]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.09:796][294]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.09:797][294]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.09:797][294]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.09:820][295]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.09:866][297]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.09:910][299]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.09:976][302]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.09:997][303]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.10:020][304]LogBlueprintUserMessages: [LEGIONER_BP_C_14] THEY SEE PLAYER
+[2018.09.01-10.04.10:020][304]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.10:041][305]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.10:041][305]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.10:084][307]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.10:128][309]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.10:259][315]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.10:322][318]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.10:384][321]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.10:427][323]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.10:495][326]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.10:560][329]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.10:603][331]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.10:646][333]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.10:777][339]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.10:777][339]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.10:777][339]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.10:777][339]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.10:892][344]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.11:005][349]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.11:028][350]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.11:051][351]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.11:120][354]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.11:327][363]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.11:506][371]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.11:683][379]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.11:790][384]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.11:790][384]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.11:790][384]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.11:901][389]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.12:011][394]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.12:528][418]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.12:656][424]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.12:700][426]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.12:785][430]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.12:785][430]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.12:785][430]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.13:044][442]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.13:066][443]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.13:173][448]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.13:216][450]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.13:450][461]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.13:493][463]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.13:558][466]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.13:622][469]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.13:687][472]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.13:729][474]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.13:792][477]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.13:792][477]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.13:792][477]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.14:066][490]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.14:089][491]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.14:131][493]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.14:197][496]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.14:472][510]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.14:571][515]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.14:709][522]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.14:746][524]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.14:785][526]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.14:785][526]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.14:785][526]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.14:989][537]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.15:593][570]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.15:733][577]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.15:785][580]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.15:785][580]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.15:785][580]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.16:017][593]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.16:108][598]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.16:197][603]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.16:378][613]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.16:526][621]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.16:621][626]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.16:676][629]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.16:711][631]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.16:782][635]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.16:782][635]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.16:782][635]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.16:782][635]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.16:889][641]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.16:944][644]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.17:035][649]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.17:077][651]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.17:134][654]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.17:153][655]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.17:153][655]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.17:194][657]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.17:213][658]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.17:407][668]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.17:541][675]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.17:559][676]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.17:636][680]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.17:655][681]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.17:655][681]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.17:713][684]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.17:731][685]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.17:769][687]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.17:789][688]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.17:789][688]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.17:794][688]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.17:810][689]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.17:908][694]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.18:055][702]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.18:142][707]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.18:214][711]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.18:250][713]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.18:284][715]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.18:597][733]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.18:648][736]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.18:664][737]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.18:714][740]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.18:765][743]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.18:781][744]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.18:781][744]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.18:781][744]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.19:075][762]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.19:094][763]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.19:110][764]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.19:304][776]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.19:439][784]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.19:577][792]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.19:666][797]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.19:684][798]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.19:773][803]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.19:773][803]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.19:773][803]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.19:773][803]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.19:810][805]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.19:846][807]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.20:087][820]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.20:186][825]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.20:186][825]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.20:250][828]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.20:291][830]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.20:313][831]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.20:356][833]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.20:598][844]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.20:620][845]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.20:643][846]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.20:687][848]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.20:687][848]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.20:752][851]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.20:773][852]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.20:773][852]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.20:773][852]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.20:795][853]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.20:817][854]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.21:007][863]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.21:117][868]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.21:203][872]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.21:203][872]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.21:268][875]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.21:309][877]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.21:309][877]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.21:331][878]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.21:503][886]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.21:632][892]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.21:654][893]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.21:677][894]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.21:723][896]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.21:723][896]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.21:723][896]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.21:773][898]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.21:796][899]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.21:796][899]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.21:796][899]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.21:822][900]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.21:822][900]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.21:845][901]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.21:893][903]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.22:013][908]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.22:035][909]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.22:147][914]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.22:169][915]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.22:190][916]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.22:232][918]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.22:232][918]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.22:273][920]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.22:330][923]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.22:330][923]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.22:351][924]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.22:404][927]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.22:531][934]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.22:548][935]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.22:653][941]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.22:672][942]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.22:707][944]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.22:742][946]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.22:742][946]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.22:742][946]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.22:777][948]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.22:778][948]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.22:778][948]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.22:778][948]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.22:846][952]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.22:846][952]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.22:864][953]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.22:916][956]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.23:036][963]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.23:053][964]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.23:170][971]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.23:187][972]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.23:220][974]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.23:254][976]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.23:254][976]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.23:254][976]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.23:287][978]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.23:353][982]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.23:353][982]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.23:369][983]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.23:419][986]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.23:549][994]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.23:564][995]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.23:678][  2]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.23:693][  3]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.23:726][  5]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.23:758][  7]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.23:758][  7]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.23:774][  8]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.23:774][  8]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.23:774][  8]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.23:854][ 13]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.23:870][ 14]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.24:048][ 25]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.24:066][ 26]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.24:177][ 33]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.24:194][ 34]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.24:225][ 36]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.24:258][ 38]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.24:258][ 38]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.24:289][ 40]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.24:355][ 44]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.24:355][ 44]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.24:371][ 45]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.24:419][ 48]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.24:548][ 56]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.24:757][ 69]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.24:757][ 69]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.24:773][ 70]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.24:773][ 70]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.24:773][ 70]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.24:790][ 71]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.24:854][ 75]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.24:870][ 76]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.24:919][ 79]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.25:048][ 87]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.25:065][ 88]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.25:193][ 96]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.25:225][ 98]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.25:258][100]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.25:355][106]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.25:371][107]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.25:548][118]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.25:564][119]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.25:758][131]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.25:774][132]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.25:774][132]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.25:774][132]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.25:855][137]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.26:064][150]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.26:226][160]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.26:257][162]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.26:257][162]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.26:564][181]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.26:678][188]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.26:693][189]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.26:725][191]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.26:758][193]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.26:758][193]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.26:774][194]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.26:774][194]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.26:774][194]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.27:065][212]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.27:177][219]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.27:225][222]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.27:258][224]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.27:354][230]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.27:354][230]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.27:693][251]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.27:725][253]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.27:774][256]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.27:775][256]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.27:777][256]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.27:791][257]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.27:855][261]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.27:855][261]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.28:065][274]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.28:193][282]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.28:226][284]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.28:259][286]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.28:565][305]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.28:759][317]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.28:759][317]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.28:759][317]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.28:775][318]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.28:775][318]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.28:775][318]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.29:065][336]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.29:178][343]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.29:194][344]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.29:225][346]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.29:258][348]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.29:290][350]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.29:354][354]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.29:370][355]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.29:549][366]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.29:565][367]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.29:676][374]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.29:693][375]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.29:763][379]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.29:763][379]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.29:763][379]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.29:779][380]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.29:779][380]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.29:779][380]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.29:795][381]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.29:860][385]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.30:182][405]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.30:198][406]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.30:231][408]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.30:264][410]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.30:264][410]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.30:297][412]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.30:361][416]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.30:376][417]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.30:425][420]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.30:683][436]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.30:698][437]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.30:731][439]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.30:763][441]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.30:763][441]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.30:779][442]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.30:779][442]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.30:779][442]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.30:796][443]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.30:860][447]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.30:860][447]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.30:877][448]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.31:070][460]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.31:263][472]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.31:263][472]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.31:263][472]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.31:360][478]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.31:360][478]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.31:424][482]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.31:553][490]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.31:569][491]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.31:683][498]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.31:699][499]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.31:764][503]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.31:764][503]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.31:779][504]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.31:779][504]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.31:779][504]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.31:860][509]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.31:860][509]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.31:876][510]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.31:925][513]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.32:054][521]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.32:070][522]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.32:182][529]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.32:198][530]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.32:231][532]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.32:263][534]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.32:263][534]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.32:296][536]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.32:360][540]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.32:360][540]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.32:377][541]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.32:425][544]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.32:553][552]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.32:569][553]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.32:682][560]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.32:699][561]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.32:731][563]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.32:763][565]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.32:764][565]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.32:764][565]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.32:780][566]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.32:780][566]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.32:780][566]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.32:796][567]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.32:797][567]LogBlueprintUserMessages: [LEGIONER_BP_C_14] THEY SEE PLAYER
+[2018.09.01-10.04.32:860][571]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.32:860][571]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.32:877][572]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.32:924][575]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.33:053][583]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.33:070][584]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.33:182][591]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.33:198][592]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.33:231][594]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.33:264][596]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.33:264][596]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.33:264][596]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.33:295][598]LogBlueprintUserMessages: [LEGIONER_BP_C_14] THEY SEE PLAYER
+[2018.09.01-10.04.33:296][598]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.33:360][602]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.33:360][602]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.33:377][603]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.33:425][606]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.33:554][614]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.33:569][615]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.33:684][622]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.33:699][623]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.33:732][625]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.33:765][627]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.33:766][627]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.33:780][628]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.33:780][628]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.33:780][628]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.33:797][629]LogBlueprintUserMessages: [LEGIONER_BP_C_14] THEY SEE PLAYER
+[2018.09.01-10.04.33:797][629]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.33:861][633]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.33:861][633]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.33:877][634]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.33:926][637]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.34:055][645]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.34:072][646]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.34:183][653]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.34:199][654]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.34:232][656]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.34:265][658]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.34:265][658]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.34:266][658]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.34:297][660]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.34:361][664]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.34:362][664]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.34:377][665]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.34:425][668]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.34:556][676]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.34:573][677]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.34:683][684]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.34:699][685]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.34:731][687]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.34:763][689]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.34:763][689]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.34:763][689]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.34:780][690]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.34:780][690]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.34:780][690]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.34:797][691]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.34:860][695]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.34:860][695]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.34:877][696]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.34:925][699]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.35:055][707]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.35:070][708]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.35:183][715]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.35:265][720]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.35:296][722]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.35:361][726]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.35:424][730]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.35:700][747]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.35:732][749]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.35:764][751]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.35:765][751]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.35:780][752]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.35:780][752]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.35:780][752]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.35:796][753]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.35:863][757]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.35:863][757]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.35:882][758]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.35:938][761]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.36:055][767]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.36:271][777]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.36:271][777]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.36:364][781]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.36:364][781]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.36:387][782]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.36:582][790]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.36:582][790]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.36:721][796]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.36:721][796]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.36:767][798]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.36:791][799]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.36:792][799]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.36:792][799]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.36:792][799]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.36:792][799]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.36:792][799]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.36:838][801]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.36:903][804]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.36:970][807]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.37:081][812]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.37:283][822]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.37:302][823]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.37:303][823]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.37:303][823]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.37:340][825]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.37:394][828]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.37:395][828]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.37:413][829]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.37:584][838]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.37:584][838]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.37:734][846]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.37:793][849]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.37:793][849]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.37:793][849]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.37:811][850]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.37:849][852]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.37:906][855]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.37:926][856]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.38:000][860]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.38:094][865]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.38:095][865]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.38:245][873]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.38:245][873]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.38:322][877]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.38:322][877]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.38:322][877]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.38:359][879]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.38:416][882]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.38:416][882]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.38:436][883]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.38:512][887]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.38:610][892]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.38:610][892]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.38:763][900]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.38:783][901]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.38:783][901]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.38:783][901]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.38:821][903]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.38:841][904]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.38:841][904]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.38:841][904]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.38:878][906]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.38:934][909]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.38:934][909]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.38:954][910]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.39:030][914]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.39:125][919]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.39:126][919]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.39:279][927]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.39:280][927]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.39:355][931]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.39:355][931]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.39:355][931]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.39:394][933]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.39:450][936]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.39:450][936]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.39:470][937]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.39:547][941]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.39:644][946]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.39:644][946]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.39:784][953]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.39:785][953]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.39:785][953]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.39:785][953]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.39:785][953]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.39:849][956]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.39:871][957]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.39:871][957]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.39:915][959]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.39:960][961]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.39:960][961]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.39:983][962]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.40:053][965]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.40:156][969]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.40:156][969]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.40:294][974]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.40:380][977]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.40:380][977]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.40:381][977]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.40:381][977]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.40:435][979]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.40:463][980]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.40:463][980]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.40:489][981]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.40:564][984]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.40:668][988]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.40:783][993]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.40:783][993]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.40:783][993]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.40:893][998]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.40:894][998]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.40:936][  0]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.41:168][ 12]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.41:169][ 12]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.41:407][ 26]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.41:408][ 26]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.41:440][ 28]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.41:489][ 31]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.41:489][ 31]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.41:505][ 32]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.41:585][ 37]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.41:683][ 43]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.41:781][ 49]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.41:781][ 49]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.41:781][ 49]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.41:814][ 51]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.41:814][ 51]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.41:915][ 57]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.41:915][ 57]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.41:915][ 57]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.42:012][ 63]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.42:190][ 74]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.42:323][ 82]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.42:323][ 82]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.42:422][ 88]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.42:422][ 88]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.42:453][ 90]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.42:503][ 93]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.42:520][ 94]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.42:701][105]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.42:782][110]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.42:782][110]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.42:782][110]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.42:833][113]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.42:833][113]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.42:933][119]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.42:933][119]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.42:966][121]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.43:017][124]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.43:111][129]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.43:217][134]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.43:438][143]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.43:438][143]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.43:438][143]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.43:631][150]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.43:718][153]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.43:719][153]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.43:775][155]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.43:775][155]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.43:775][155]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.43:949][161]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.43:950][161]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.44:385][176]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.44:530][181]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.44:558][182]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.44:587][183]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.44:764][189]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.44:793][190]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.44:793][190]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.44:793][190]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.44:911][194]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.44:999][197]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.44:999][197]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.44:999][197]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.45:057][199]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.45:266][206]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.45:423][212]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.45:424][212]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.45:520][216]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.45:520][216]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.45:520][216]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.45:521][216]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.45:569][218]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.45:592][219]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.45:593][219]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.45:593][219]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.45:686][223]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.45:778][227]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.45:778][227]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.45:778][227]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.45:778][227]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.45:778][227]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.45:932][234]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.45:933][234]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.46:039][239]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.46:040][239]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.46:040][239]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.46:082][241]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.46:101][242]LogBlueprintUserMessages: [LEGIONER_BP_C_12] THEY SEE PLAYER
+[2018.09.01-10.04.46:101][242]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.46:101][242]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.46:201][247]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.46:278][251]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.46:278][251]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.46:447][260]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.46:447][260]LogBlueprintUserMessages: [LEGIONER_BP_C_16] THEY SEE PLAYER
+[2018.09.01-10.04.46:540][265]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.46:540][265]LogBlueprintUserMessages: [LEGIONER_BP_C_9] THEY SEE PLAYER
+[2018.09.01-10.04.46:540][265]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.46:596][268]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.46:613][269]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.46:614][269]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.46:706][274]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.46:778][278]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.46:778][278]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.46:778][278]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.46:778][278]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.46:779][278]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.46:958][288]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.47:045][293]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.47:046][293]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.47:117][297]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.47:118][297]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.47:288][307]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.47:289][307]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.47:457][317]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.47:557][323]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.47:557][323]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.47:557][323]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.47:607][326]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.47:623][327]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.47:623][327]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.47:723][333]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.47:788][337]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.47:791][337]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.47:791][337]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.47:804][338]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.47:804][338]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.47:964][348]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.48:061][354]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.48:061][354]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.48:062][354]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.48:110][357]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.48:126][358]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.48:126][358]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.48:223][364]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.48:304][369]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.48:304][369]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.48:465][379]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.48:562][385]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.48:562][385]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.48:562][385]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.48:610][388]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.48:626][389]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.48:626][389]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.48:724][395]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.48:773][398]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.48:773][398]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.48:773][398]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.48:806][400]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.48:808][400]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eaddb6660, Size=8
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacbcdf00, Size=176
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacc5b2f8, Size=24
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead1cd000, Size=976
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacbcfc40, Size=172
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacbce380, Size=172
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacc3f440, Size=64
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacf32d40, Size=88
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead719d00, Size=288
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead1ae000, Size=256
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead254100, Size=164
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead6090c0, Size=3376
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead719080, Size=288
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead1adc00, Size=248
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead1adb00, Size=248
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead1ada00, Size=256
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead1ad800, Size=256
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacf334c0, Size=88
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead71a200, Size=264
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead1ad900, Size=240
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead7191c0, Size=288
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead5f2700, Size=64
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacc0b440, Size=32
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacc0b460, Size=32
+[2018.09.01-10.04.48:900][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacd7e7e8, Size=4
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacd7e828, Size=8
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead5f1c80, Size=64
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacbcdd80, Size=180
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead75cc70, Size=40
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacc5aff8, Size=24
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacc5afc8, Size=24
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacc5af98, Size=24
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead75cc20, Size=40
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacd7e640, Size=4
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacbcf4c0, Size=164
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacf8ebc0, Size=48
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacf99718, Size=56
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacc5b0b8, Size=24
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead5f0700, Size=64
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead603d20, Size=12
+[2018.09.01-10.04.48:901][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eacf8ed40, Size=48
+[2018.09.01-10.04.48:981][410]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.49:065][415]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.49:065][415]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.49:066][415]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.49:115][418]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.49:133][419]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.49:133][419]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.49:230][425]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.49:313][430]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.49:314][430]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.49:494][441]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.49:574][446]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.49:574][446]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.49:575][446]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.49:623][449]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.49:638][450]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.49:638][450]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.49:737][456]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.49:783][459]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.49:783][459]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.49:783][459]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.49:815][461]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.49:815][461]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.49:992][472]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.50:074][477]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.50:075][477]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.50:075][477]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.50:123][480]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.50:139][481]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.50:139][481]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.50:236][487]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.50:317][492]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.50:318][492]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.50:493][503]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.50:574][508]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.50:574][508]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.50:575][508]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.50:623][511]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.50:638][512]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.50:639][512]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.50:741][518]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.50:776][520]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.50:776][520]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.50:776][520]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.50:833][523]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.50:998][532]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.51:089][537]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.51:090][537]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.51:126][539]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.51:145][540]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.51:146][540]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.51:250][546]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.51:334][551]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.51:334][551]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.51:512][562]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.51:593][567]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.51:593][567]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.51:659][571]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.51:659][571]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.51:753][577]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.51:785][579]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.51:785][579]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.51:785][579]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.51:835][582]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.51:836][582]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.52:012][593]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.52:093][598]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.52:093][598]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.52:093][598]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.52:142][601]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.52:157][602]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.52:157][602]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.52:254][608]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.52:334][613]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.52:335][613]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.52:511][624]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.52:591][629]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.52:592][629]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.52:592][629]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.52:641][632]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.52:657][633]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.52:657][633]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.52:752][639]LogBlueprintUserMessages: [LEGIONER_BP_C_3] THEY SEE PLAYER
+[2018.09.01-10.04.52:785][641]LogBlueprintUserMessages: [spawn_Legioners_1481] Wave With Legioners Done!!!
+[2018.09.01-10.04.52:785][641]LogBlueprintUserMessages: [spawn_Legioners2] Wave With Legioners Done!!!
+[2018.09.01-10.04.52:785][641]LogBlueprintUserMessages: [spawn_Legioners3] Wave With Legioners Done!!!
+[2018.09.01-10.04.52:835][644]LogBlueprintUserMessages: [LEGIONER_BP_C_7] THEY SEE PLAYER
+[2018.09.01-10.04.52:835][644]LogBlueprintUserMessages: [LEGIONER_BP_C_4] THEY SEE PLAYER
+[2018.09.01-10.04.53:012][655]LogBlueprintUserMessages: [LEGIONER_BP_C_2] THEY SEE PLAYER
+[2018.09.01-10.04.53:092][660]LogBlueprintUserMessages: [LEGIONER_BP_C_17] THEY SEE PLAYER
+[2018.09.01-10.04.53:092][660]LogBlueprintUserMessages: [LEGIONER_BP_C_15] THEY SEE PLAYER
+[2018.09.01-10.04.53:092][660]LogBlueprintUserMessages: [LEGIONER_BP_C_1] THEY SEE PLAYER
+[2018.09.01-10.04.53:140][663]LogBlueprintUserMessages: [LEGIONER_BP_C_0] THEY SEE PLAYER
+[2018.09.01-10.04.53:156][664]LogBlueprintUserMessages: [LEGIONER_BP_C_6] THEY SEE PLAYER
+[2018.09.01-10.04.53:157][664]LogBlueprintUserMessages: [LEGIONER_BP_C_10] THEY SEE PLAYER
+[2018.09.01-10.04.53:232][669]Closing by request
+[2018.09.01-10.04.53:232][669]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.09.01-10.04.54:248][670]LogSlate: Window 'farmerVSzombies (64-bit, PCD3D_SM5) ' being destroyed
+[2018.09.01-10.04.54:249][670]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.01-10.04.54:261][670]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.01-10.04.54:261][670]LogExit: Preparing to exit.
+[2018.09.01-10.04.54:261][670]LogMoviePlayer: Shutting down movie player
+[2018.09.01-10.04.54:461][670]LogExit: Game engine shut down
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae2a2740, Size=64
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eade89c00, Size=88
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eade22ec0, Size=164
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae20c940, Size=24
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eade21cc0, Size=172
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae64c6d8, Size=8
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae64c678, Size=4
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae64c638, Size=4
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eade3d5e0, Size=32
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eade207c0, Size=164
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae3fb700, Size=64
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae3d7f10, Size=24
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae3fad80, Size=64
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead90c6f8, Size=40
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae3d7a78, Size=24
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae3d79a0, Size=24
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae3d78c8, Size=24
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eade4b600, Size=264
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae3dd450, Size=48
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae401840, Size=88
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead90c568, Size=40
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae3caf28, Size=56
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eae3f8b00, Size=64
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028ead90c4c8, Size=40
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eaddd65c0, Size=172
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eaddb7f38, Size=4
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eadd97b00, Size=256
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eaddd4dc0, Size=176
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eadd63940, Size=180
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eade496c0, Size=288
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eadd3a300, Size=248
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eadd13200, Size=248
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eadce6f00, Size=256
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eaddfa960, Size=12
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eadc5b400, Size=976
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eadc31100, Size=248
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eadbf3800, Size=240
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eadc17b00, Size=288
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028e80fa6080, Size=3360
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eadc15d00, Size=288
+[2018.09.01-10.04.54:470][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028eaddb6e10, Size=8
+[2018.09.01-10.04.54:568][670]LogExit: Object subsystem successfully closed.
+[2018.09.01-10.04.54:590][670]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.01-10.04.54:594][670]LogD3D11RHI: Shutdown
+[2018.09.01-10.04.54:594][670]LogD3D11RHI: CleanupD3DDevice
+[2018.09.01-10.04.54:596][670]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (332)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module SequenceRecorder (330)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module AutomationController (328)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module AutomationWorker (326)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module AIModule (324)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module GameplayDebugger (323)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module AITestSuite (321)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (318)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (316)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (314)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (312)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module CharacterAI (310)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module SessionServices (308)
+[2018.09.01-10.04.54:602][670]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (306)
+[2018.09.01-10.04.54:618][670]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (304)
+[2018.09.01-10.04.54:619][670]LogModuleManager: Shutting down and abandoning module MovieScene (302)
+[2018.09.01-10.04.54:619][670]LogModuleManager: Shutting down and abandoning module GeometryCache (300)
+[2018.09.01-10.04.54:619][670]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (299)
+[2018.09.01-10.04.54:619][670]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (296)
+[2018.09.01-10.04.54:619][670]LogModuleManager: Shutting down and abandoning module PortalServices (294)
+[2018.09.01-10.04.54:619][670]LogModuleManager: Shutting down and abandoning module PortalRpc (292)
+[2018.09.01-10.04.54:619][670]LogModuleManager: Shutting down and abandoning module MessagingRpc (290)
+[2018.09.01-10.04.54:619][670]LogModuleManager: Shutting down and abandoning module ProfilerService (288)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module TaskGraph (286)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module SteamVRController (284)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (282)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module OculusInput (280)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (278)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (276)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module CableComponent (274)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module AudioCapture (272)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (270)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module AndroidPermission (268)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (264)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (262)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module MediaCompositing (260)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module LinearTimecode (258)
+[2018.09.01-10.04.54:780][670]LogModuleManager: Shutting down and abandoning module ImgMedia (256)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module HTML5Networking (254)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module DatasmithContent (252)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (250)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module CryptoKeys (248)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (246)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module HotReload (245)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (244)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (240)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module UObjectPlugin (238)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (236)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (234)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module SourceControl (233)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (230)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (228)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (226)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module PhysXVehicles (224)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (222)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (220)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (218)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module ActorSequence (216)
+[2018.09.01-10.04.54:782][670]LogModuleManager: Shutting down and abandoning module UdpMessaging (214)
+[2018.09.01-10.04.54:883][670]LogModuleManager: Shutting down and abandoning module TcpMessaging (212)
+[2018.09.01-10.04.55:348][670]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (210)
+[2018.09.01-10.04.55:348][670]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
+[2018.09.01-10.04.55:348][670]LogModuleManager: Shutting down and abandoning module DataValidation (206)
+[2018.09.01-10.04.55:348][670]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (204)
+[2018.09.01-10.04.55:348][670]LogModuleManager: Shutting down and abandoning module TreeMap (203)
+[2018.09.01-10.04.55:348][670]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (200)
+[2018.09.01-10.04.55:348][670]LogModuleManager: Shutting down and abandoning module LiveLink (198)
+[2018.09.01-10.04.56:235][670]LogModuleManager: Shutting down and abandoning module Paper2D (196)
+[2018.09.01-10.04.56:235][670]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (194)
+[2018.09.01-10.04.56:235][670]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (192)
+[2018.09.01-10.04.56:235][670]LogModuleManager: Shutting down and abandoning module WmfMedia (190)
+[2018.09.01-10.04.56:236][670]LogModuleManager: Shutting down and abandoning module Media (189)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module PacketHandler (186)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (184)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (182)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module MediaAssets (180)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module Overlay (178)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module OverlayEditor (177)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module VREditor (174)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module StringTableEditor (172)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (170)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (168)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module FunctionalTesting (166)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (164)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (163)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module UMG (160)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module UMGEditor (159)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module Sequencer (158)
+[2018.09.01-10.04.56:242][670]LogModuleManager: Shutting down and abandoning module MessageLog (155)
+[2018.09.01-10.04.56:243][670]LogModuleManager: Shutting down and abandoning module SlateReflector (150)
+[2018.09.01-10.04.56:243][670]LogModuleManager: Shutting down and abandoning module Slate (148)
+[2018.09.01-10.04.56:243][670]LogModuleManager: Shutting down and abandoning module EditorStyle (146)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module MRMesh (144)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module Messaging (142)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (140)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (138)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module XAudio2 (136)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module Networking (134)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module Core (132)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module LevelSequence (130)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module KismetCompiler (128)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module MeshUtilities (126)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (125)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (124)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (123)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (121)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (119)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module MaterialBaking (115)
+[2018.09.01-10.04.56:244][670]LogModuleManager: Shutting down and abandoning module DerivedDataCache (110)
+[2018.09.01-10.04.56:675][670]LogDerivedDataCache: Shutdown
+[2018.09.01-10.04.56:675][670]LogModuleManager: Shutting down and abandoning module XGEController (108)
+[2018.09.01-10.04.56:675][670]LogModuleManager: Shutting down and abandoning module TargetPlatform (106)
+[2018.09.01-10.04.56:675][670]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (105)
+[2018.09.01-10.04.56:675][670]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (103)
+[2018.09.01-10.04.56:675][670]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (101)
+[2018.09.01-10.04.56:675][670]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (99)
+[2018.09.01-10.04.56:675][670]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (97)
+[2018.09.01-10.04.56:675][670]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (95)
+[2018.09.01-10.04.56:675][670]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (93)
+[2018.09.01-10.04.56:675][670]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (91)
+[2018.09.01-10.04.56:675][670]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (89)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (87)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module ImageWrapper (86)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (83)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (81)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (79)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (77)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (75)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (73)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (71)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (69)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.09.01-10.04.56:676][670]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.09.01-10.04.56:705][670]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.01-10.04.56:706][670]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.01-10.04.56:711][670]LogExit: Exiting.
+[2018.09.01-10.04.56:712][670]Log file closed, 09/01/18 06:04:56
