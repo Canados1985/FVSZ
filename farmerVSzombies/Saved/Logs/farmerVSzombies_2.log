@@ -1,4 +1,4 @@
-﻿Log file open, 09/04/18 20:08:56
+﻿Log file open, 09/05/18 21:15:07
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: farmerVSzombies
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(1828979618) SRandInit(1828979618).
+LogInit: Display: RandInit(1953893727) SRandInit(1953893727).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.401380
+LogStats: Stats thread started at 0.398024
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.789s to configure plugins.
+LogStreaming: Display: Took  0.831s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -188,7 +188,7 @@ LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: WinSock: I am DESKTOP-J54LIC6 (10.6.110.180:0)
+LogInit: WinSock: I am DESKTOP-J54LIC6 (10.6.110.183:0)
 LogInit: Build: ++UE4+Release-4.19-CL-4033788
 LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
 LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
@@ -222,609 +222,657 @@ LogInit: Installed Engine Build: 1
 LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.09.05-00.08.57:812][  0]LogInit: Selected Device Profile: [Windows]
-[2018.09.05-00.08.57:812][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.09.05-00.08.57:819][  0]LogInit: Computer: DESKTOP-J54LIC6
-[2018.09.05-00.08.57:819][  0]LogInit: User: Canados
-[2018.09.05-00.08.57:819][  0]LogInit: CPU Page size=4096, Cores=6
-[2018.09.05-00.08.57:819][  0]LogInit: High frequency timer resolution =2.156247 MHz
-[2018.09.05-00.08.57:819][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.09.05-00.08.57:819][  0]LogMemory: Platform Memory Stats for Windows
-[2018.09.05-00.08.57:819][  0]LogMemory: Process Physical Memory: 276.20 MB used, 276.20 MB peak
-[2018.09.05-00.08.57:819][  0]LogMemory: Process Virtual Memory: 275.79 MB used, 275.79 MB peak
-[2018.09.05-00.08.57:819][  0]LogMemory: Physical Memory: 9365.39 MB used,  6877.48 MB free, 16242.87 MB total
-[2018.09.05-00.08.57:819][  0]LogMemory: Virtual Memory: 4819.98 MB used,  6877.48 MB free, 134217728.00 MB total
-[2018.09.05-00.08.58:186][  0]LogInit: Using OS detected language (en-US).
-[2018.09.05-00.08.58:186][  0]LogInit: Using OS detected locale (en-CA).
-[2018.09.05-00.08.58:186][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
-[2018.09.05-00.08.58:186][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
-[2018.09.05-00.08.58:558][  0]LogStreaming: Display: Took  0.372s to EndInitTextLocalization.
-[2018.09.05-00.08.58:583][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.09.05-00.08.58:583][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.09.05-00.08.58:587][  0]LogD3D11RHI: D3D11 adapters:
-[2018.09.05-00.08.58:632][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
-[2018.09.05-00.08.58:632][  0]LogD3D11RHI:       6061/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.09.05-00.08.58:659][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
-[2018.09.05-00.08.58:659][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.09.05-00.08.58:662][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.09.05-00.08.58:662][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.09.05-00.08.58:662][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.09.05-00.08.58:669][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.09.05-00.08.58:669][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
-[2018.09.05-00.08.58:669][  0]LogWindows: EnumDisplayDevices:
-[2018.09.05-00.08.58:669][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
-[2018.09.05-00.08.58:669][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2018.09.05-00.08.58:669][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2018.09.05-00.08.58:670][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2018.09.05-00.08.58:670][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2018.09.05-00.08.58:670][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2018.09.05-00.08.58:670][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2018.09.05-00.08.58:670][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.09.05-00.08.58:670][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
-[2018.09.05-00.08.58:670][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.09.05-00.08.58:670][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.09.05-00.08.58:670][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
-[2018.09.05-00.08.58:698][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.09.05-00.08.58:698][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.09.05-00.08.58:698][  0]LogD3D11RHI: Async texture creation enabled
-[2018.09.05-00.08.58:711][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.09.05-00.08.58:757][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../Unreal_Projects/farmerVSzombies/Intermediate/Shaders/WorkingDirectory/7968/).
-[2018.09.05-00.08.58:757][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Canados/AppData/Local/Temp/UnrealShaderWorkingDir/939532D34F52B3FA957EEEB848B2EF49/'.
-[2018.09.05-00.08.58:941][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.09.05-00.08.58:952][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.09.05-00.08.58:963][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.09.05-00.08.58:974][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.09.05-00.08.58:974][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.09.05-00.08.59:075][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.09.05-00.08.59:075][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.09.05-00.08.59:075][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.09.05-00.08.59:746][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.09.05-00.08.59:807][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Canados/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.09.05-00.08.59:807][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Canados/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.09.05-00.08.59:807][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal_Projects/farmerVSzombies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.09.05-00.08.59:807][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.09.05-00.08.59:807][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal_Projects/farmerVSzombies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.09.05-00.08.59:807][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.09.05-00.08.59:820][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.09.05-00.08.59:834][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Canados/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.09.05-00.08.59:834][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.09.05-00.08.59:834][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.09.05-00.08.59:843][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.09.05-00.08.59:844][  0]LogSlate: Using Freetype 2.6.0
-[2018.09.05-00.08.59:846][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.09.05-00.08.59:846][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.09.05-00.09.00:022][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
-[2018.09.05-00.09.00:176][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.005959 seconds
-[2018.09.05-00.09.00:261][  0]LogInit: Selected Device Profile: [Windows]
-[2018.09.05-00.09.00:382][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.09.05-00.09.00:384][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.09.05-00.09.00:384][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.09.05-00.09.00:384][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.09.05-00.09.00:384][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.09.05-00.09.00:384][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.09.05-00.09.00:414][  0]LogNetVersion: farmerVSzombies , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3168997086)
-[2018.09.05-00.09.01:028][  0]LogMoviePlayer: Initializing movie player
-[2018.09.05-00.09.01:302][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.09.05-00.09.01:329][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.09.05-00.09.01:538][  0]SourceControl: Source control is disabled
-[2018.09.05-00.09.01:538][  0]SourceControl: Source control is disabled
-[2018.09.05-00.09.01:553][  0]SourceControl: Source control is disabled
-[2018.09.05-00.09.01:871][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.09.05-00.09.02:006][  0]LogOcInput: OculusInput pre-init called
-[2018.09.05-00.09.02:041][  0]LogUObjectArray: 40124 objects as part of root set at end of initial load.
-[2018.09.05-00.09.02:041][  0]LogUObjectAllocator: 8364208 out of 0 bytes used by permanent object pool.
-[2018.09.05-00.09.02:041][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.09.05-00.09.02:097][  0]LogEngine: Initializing Engine...
-[2018.09.05-00.09.02:099][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.09.05-00.09.02:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.09.05-00.09.02:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.09.05-00.09.02:304][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2018.09.05-00.09.02:358][  0]LogInit: FAudioDevice initialized.
-[2018.09.05-00.09.02:380][  0]LogInit: Texture streaming: Enabled
-[2018.09.05-00.09.02:495][  0]LogInit: Display: Game Engine Initialized.
-[2018.09.05-00.09.02:495][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.09.05-00.09.02:495][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.09.05-00.09.02:495][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.09.05-00.09.02:577][  0]LogInit: Display: Starting Game.
-[2018.09.05-00.09.02:577][  0]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
-[2018.09.05-00.09.02:578][  0]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
-[2018.09.05-00.09.02:595][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274b981cda8, Size=8, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
-[2018.09.05-00.09.02:601][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d6a56fc0, Size=288, Default__ENEMY_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
-[2018.09.05-00.09.02:605][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d588c800, Size=1736, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Character_BP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
-[2018.09.05-00.09.02:607][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d5dcbdc0, Size=172, Default__COIN_BP_C Function /Game/ThirdPersonBP/Env/Coin/COIN_BP.COIN_BP_C:ExecuteUbergraph_COIN_BP
-[2018.09.05-00.09.02:621][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d5ac3a00, Size=184, Default__BROKEN_FENCE_BP_C Function /Game/ThirdPersonBP/Env/Fence/BROKEN_FENCE_BP.BROKEN_FENCE_BP_C:ExecuteUbergraph_BROKEN_FENCE_BP
-[2018.09.05-00.09.02:626][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d5ae8400, Size=172, Default__STAR_BP_C Function /Game/ThirdPersonBP/Env/Star/STAR_BP.STAR_BP_C:ExecuteUbergraph_STAR_BP
-[2018.09.05-00.09.02:647][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d65f4db0, Size=72, Default__ANIM_PEASANT_BP_C Function /Game/ThirdPersonBP/Character/Animation/ANIM_PEASANT_BP.ANIM_PEASANT_BP_C:ExecuteUbergraph_ANIM_PEASANT_BP
-[2018.09.05-00.09.02:717][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ceb4ee80, Size=448, Default__BP_FENCE_C Function /Game/ThirdPersonBP/Env/Fence/BP_FENCE.BP_FENCE_C:ExecuteUbergraph_BP_FENCE
-[2018.09.05-00.09.02:732][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d99ed0c0, Size=3760, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
-[2018.09.05-00.09.02:732][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d9b37ec0, Size=288, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
-[2018.09.05-00.09.02:734][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d99e6900, Size=256, Default__CORN_BP_C Function /Game/ThirdPersonBP/Env/Corn/CORN_BP.CORN_BP_C:ExecuteUbergraph_CORN_BP
-[2018.09.05-00.09.02:783][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d6b84f40, Size=88, Default__ANIM_ZOMBIE_BP_C Function /Game/Enemies/Zombie/Animation/ANIM_ZOMBIE_BP.ANIM_ZOMBIE_BP_C:ExecuteUbergraph_ANIM_ZOMBIE_BP
-[2018.09.05-00.09.02:803][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d9fb7600, Size=248, Default__GRASS_BP_C Function /Game/ThirdPersonBP/Env/Grass/GRASS_BP.GRASS_BP_C:ExecuteUbergraph_GRASS_BP
-[2018.09.05-00.09.02:809][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d9fb7100, Size=248, Default__PEPPER_BP_C Function /Game/ThirdPersonBP/Env/Pepper/PEPPER_BP.PEPPER_BP_C:ExecuteUbergraph_PEPPER_BP
-[2018.09.05-00.09.02:814][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d9fb7000, Size=256, Default__PUMPKIN_BP_C Function /Game/ThirdPersonBP/Env/Pumpkin/PUMPKIN_BP.PUMPKIN_BP_C:ExecuteUbergraph_PUMPKIN_BP
-[2018.09.05-00.09.02:824][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274da897a00, Size=88, Default__SUNFLOWER_BP_C Function /Game/ThirdPersonBP/Env/Sunflower/SUNFLOWER_BP.SUNFLOWER_BP_C:ExecuteUbergraph_SUNFLOWER_BP
-[2018.09.05-00.09.02:829][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d9fb6b00, Size=256, Default__TOMATO_BP_C Function /Game/ThirdPersonBP/Env/Tomato/TOMATO_BP.TOMATO_BP_C:ExecuteUbergraph_TOMATO_BP
-[2018.09.05-00.09.02:897][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274dd4d4bf8, Size=40, Default__DAUTHER_BP_C Function /Game/ThirdPersonBP/Character/Dauther/DAUTHER_BP.DAUTHER_BP_C:ExecuteUbergraph_DAUTHER_BP
-[2018.09.05-00.09.02:900][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274cef20ab0, Size=4, Default__DAUTHER_ANIM_BP_C Function /Game/ThirdPersonBP/Character/Dauther/Amination/DAUTHER_ANIM_BP.DAUTHER_ANIM_BP_C:ExecuteUbergraph_DAUTHER_ANIM_BP
-[2018.09.05-00.09.02:910][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274dd3f4100, Size=720, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
-[2018.09.05-00.09.02:912][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274dab09f00, Size=168, Default__BULLET_BP_C Function /Game/ThirdPersonBP/Character/Weapon/BULLET_BP.BULLET_BP_C:ExecuteUbergraph_BULLET_BP
-[2018.09.05-00.09.02:955][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d0df9600, Size=208, Default__spawn_point_C Function /Game/Enemies/Zombie/spawn_point.spawn_point_C:ExecuteUbergraph_spawn_point
-[2018.09.05-00.09.02:957][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274de475a30, Size=72, Default__spawn_Legioners_C Function /Game/Enemies/Zombie_Warrior/spawn_Legioners.spawn_Legioners_C:ExecuteUbergraph_spawn_Legioners
-[2018.09.05-00.09.02:961][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274de4510c0, Size=2752, Default__LEGIONER_BP_C Function /Game/Enemies/Zombie_Warrior/LEGIONER_BP.LEGIONER_BP_C:ExecuteUbergraph_LEGIONER_BP
-[2018.09.05-00.09.02:961][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d0de5f80, Size=288, Default__LEGIONER_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
-[2018.09.05-00.09.02:965][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274de4c28d0, Size=104, Default__ANIM_LEGIONER_BP_C Function /Game/Enemies/Zombie_Warrior/Animation/ANIM_LEGIONER_BP.ANIM_LEGIONER_BP_C:ExecuteUbergraph_ANIM_LEGIONER_BP
-[2018.09.05-00.09.02:974][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d6a72980, Size=64, Default__BARB_SHIELD_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/Barbarian/BARB_SHIELD_BP.BARB_SHIELD_BP_C:ExecuteUbergraph_BARB_SHIELD_BP
-[2018.09.05-00.09.02:981][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274de0c3ee0, Size=32, Default__HELMET_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Helmet/HELMET_BP.HELMET_BP_C:ExecuteUbergraph_HELMET_BP
-[2018.09.05-00.09.02:983][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274de457c90, Size=4, Default__HELMET2_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Helmet/HELMET2_BP.HELMET2_BP_C:ExecuteUbergraph_HELMET2_BP
-[2018.09.05-00.09.02:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274de0ce8c0, Size=64, Default__SHIELD3_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/Macedonian/SHIELD3_BP.SHIELD3_BP_C:ExecuteUbergraph_SHIELD3_BP
-[2018.09.05-00.09.02:997][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d0e17d28, Size=56, Default__SHIELD2_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/SHIELD2_BP.SHIELD2_BP_C:ExecuteUbergraph_SHIELD2_BP
-[2018.09.05-00.09.03:003][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d0e178c8, Size=56, Default__SHIELD_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/SHIELD_BP.SHIELD_BP_C:ExecuteUbergraph_SHIELD_BP
-[2018.09.05-00.09.03:013][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274de0a6320, Size=16, Default__GLADIUS_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Sword/GLADIUS_BP.GLADIUS_BP_C:ExecuteUbergraph_GLADIUS_BP
-[2018.09.05-00.09.03:087][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e2502218, Size=24, Default__HAMMER_BP_C Function /Game/ThirdPersonBP/Character/Tools/HAMMER_BP.HAMMER_BP_C:ExecuteUbergraph_HAMMER_BP
-[2018.09.05-00.09.03:139][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274de455e30, Size=8, Default__CRYPT_BP_C Function /Game/ThirdPersonBP/Env/Cemetery/Crypt/CRYPT_BP.CRYPT_BP_C:ExecuteUbergraph_CRYPT_BP
-[2018.09.05-00.09.03:180][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274def68f80, Size=64, Default__spawn_corn_C Function /Game/ThirdPersonBP/Env/Corn/spawn_corn.spawn_corn_C:ExecuteUbergraph_spawn_corn
-[2018.09.05-00.09.03:643][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e64f0e20, Size=104, Default__Spawn_FENCE_01_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_01.Spawn_FENCE_01_C:ExecuteUbergraph_Spawn_FENCE_01
-[2018.09.05-00.09.03:647][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e64f0f00, Size=104, Default__Spawn_FENCE_02_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_02.Spawn_FENCE_02_C:ExecuteUbergraph_Spawn_FENCE_02
-[2018.09.05-00.09.03:651][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e64f06b0, Size=104, Default__Spawn_FENCE_03_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_03.Spawn_FENCE_03_C:ExecuteUbergraph_Spawn_FENCE_03
-[2018.09.05-00.09.03:654][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e64f05d0, Size=104, Default__Spawn_FENCE_04_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_04.Spawn_FENCE_04_C:ExecuteUbergraph_Spawn_FENCE_04
-[2018.09.05-00.09.03:661][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e6fb1b48, Size=40, Default__spawn_point_GRASS_C Function /Game/ThirdPersonBP/Env/Grass/spawn_point_GRASS.spawn_point_GRASS_C:ExecuteUbergraph_spawn_point_GRASS
-[2018.09.05-00.09.03:667][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e6ce3e88, Size=4, Default__TREE_BP_C Function /Game/ThirdPersonBP/Env/House/TREE_BP.TREE_BP_C:ExecuteUbergraph_TREE_BP
-[2018.09.05-00.09.03:682][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e6c8a380, Size=164, Default__LEAF_BP_C Function /Game/ThirdPersonBP/Env/Leaf/LEAF_BP.LEAF_BP_C:ExecuteUbergraph_LEAF_BP
-[2018.09.05-00.09.03:684][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e2423460, Size=48, Default__spawn_pepper_C Function /Game/ThirdPersonBP/Env/Pepper/spawn_pepper.spawn_pepper_C:ExecuteUbergraph_spawn_pepper
-[2018.09.05-00.09.03:687][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d0e15be8, Size=56, Default__spawn_pumpkin_C Function /Game/ThirdPersonBP/Env/Pumpkin/spawn_pumpkin.spawn_pumpkin_C:ExecuteUbergraph_spawn_pumpkin
-[2018.09.05-00.09.03:690][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e6c88e80, Size=184, Default__SCARECROW_BP_C Function /Game/ThirdPersonBP/Env/ScareCrow/SCARECROW_BP.SCARECROW_BP_C:ExecuteUbergraph_SCARECROW_BP
-[2018.09.05-00.09.03:693][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d99224c0, Size=64, Default__spawn_sunflower_C Function /Game/ThirdPersonBP/Env/Sunflower/spawn_sunflower.spawn_sunflower_C:ExecuteUbergraph_spawn_sunflower
-[2018.09.05-00.09.03:696][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e2423040, Size=48, Default__spawn_tomatoes_C Function /Game/ThirdPersonBP/Env/Tomato/spawn_tomatoes.spawn_tomatoes_C:ExecuteUbergraph_spawn_tomatoes
-[2018.09.05-00.09.03:812][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274de4c28d0, Size=104
-[2018.09.05-00.09.03:812][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e8034f00, Size=104, Default__ANIM_LEGIONER_BP_C Function /Engine/Transient.REINST_ANIM_LEGIONER_BP_C_0:ExecuteUbergraph_ANIM_LEGIONER_BP
-[2018.09.05-00.09.03:812][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d65f4db0, Size=72
-[2018.09.05-00.09.03:812][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e81711c0, Size=72, Default__ANIM_PEASANT_BP_C Function /Engine/Transient.REINST_ANIM_PEASANT_BP_C_1:ExecuteUbergraph_ANIM_PEASANT_BP
-[2018.09.05-00.09.03:813][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d6b84f40, Size=88
-[2018.09.05-00.09.03:813][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e84e90c0, Size=88, Default__ANIM_ZOMBIE_BP_C Function /Engine/Transient.REINST_ANIM_ZOMBIE_BP_C_2:ExecuteUbergraph_ANIM_ZOMBIE_BP
-[2018.09.05-00.09.03:814][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d6a72980, Size=64
-[2018.09.05-00.09.03:814][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e8104280, Size=64, Default__BARB_SHIELD_BP_C Function /Engine/Transient.REINST_BARB_SHIELD_BP_C_5:ExecuteUbergraph_BARB_SHIELD_BP
-[2018.09.05-00.09.03:814][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d5ac3a00, Size=184
-[2018.09.05-00.09.03:815][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e805a8c0, Size=184, Default__BROKEN_FENCE_BP_C Function /Engine/Transient.REINST_BROKEN_FENCE_BP_C_9:ExecuteUbergraph_BROKEN_FENCE_BP
-[2018.09.05-00.09.03:815][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274dab09f00, Size=168
-[2018.09.05-00.09.03:815][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e805a5c0, Size=168, Default__BULLET_BP_C Function /Engine/Transient.REINST_BULLET_BP_C_11:ExecuteUbergraph_BULLET_BP
-[2018.09.05-00.09.03:816][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d5dcbdc0, Size=172
-[2018.09.05-00.09.03:816][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e805a440, Size=172, Default__COIN_BP_C Function /Engine/Transient.REINST_COIN_BP_C_14:ExecuteUbergraph_COIN_BP
-[2018.09.05-00.09.03:823][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274de455e30, Size=8
-[2018.09.05-00.09.03:823][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e8190a78, Size=8, Default__CRYPT_BP_C Function /Engine/Transient.REINST_CRYPT_BP_C_21:ExecuteUbergraph_CRYPT_BP
-[2018.09.05-00.09.03:823][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274cef20ab0, Size=4
-[2018.09.05-00.09.03:823][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e8190a70, Size=4, Default__DAUTHER_ANIM_BP_C Function /Engine/Transient.REINST_DAUTHER_ANIM_BP_C_3:ExecuteUbergraph_DAUTHER_ANIM_BP
-[2018.09.05-00.09.03:824][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274de0a6320, Size=16
-[2018.09.05-00.09.03:824][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7ef2d80, Size=16, Default__GLADIUS_BP_C Function /Engine/Transient.REINST_GLADIUS_BP_C_25:ExecuteUbergraph_GLADIUS_BP
-[2018.09.05-00.09.03:824][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e2502218, Size=24
-[2018.09.05-00.09.03:824][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7f7a8d8, Size=24, Default__HAMMER_BP_C Function /Engine/Transient.REINST_HAMMER_BP_C_27:ExecuteUbergraph_HAMMER_BP
-[2018.09.05-00.09.03:824][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274de457c90, Size=4
-[2018.09.05-00.09.03:824][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e8190a00, Size=4, Default__HELMET2_BP_C Function /Engine/Transient.REINST_HELMET2_BP_C_28:ExecuteUbergraph_HELMET2_BP
-[2018.09.05-00.09.03:824][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274de0c3ee0, Size=32
-[2018.09.05-00.09.03:824][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7eb3be0, Size=32, Default__HELMET_BP_C Function /Engine/Transient.REINST_HELMET_BP_C_29:ExecuteUbergraph_HELMET_BP
-[2018.09.05-00.09.03:825][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e6c8a380, Size=164
-[2018.09.05-00.09.03:825][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e8059cc0, Size=164, Default__LEAF_BP_C Function /Engine/Transient.REINST_LEAF_BP_C_31:ExecuteUbergraph_LEAF_BP
-[2018.09.05-00.09.03:825][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e6c88e80, Size=184
-[2018.09.05-00.09.03:825][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e8059900, Size=184, Default__SCARECROW_BP_C Function /Engine/Transient.REINST_SCARECROW_BP_C_34:ExecuteUbergraph_SCARECROW_BP
-[2018.09.05-00.09.03:825][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d0e17d28, Size=56
-[2018.09.05-00.09.03:825][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e84e0528, Size=56, Default__SHIELD2_BP_C Function /Engine/Transient.REINST_SHIELD2_BP_C_35:ExecuteUbergraph_SHIELD2_BP
-[2018.09.05-00.09.03:826][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274de0ce8c0, Size=64
-[2018.09.05-00.09.03:826][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7df1540, Size=64, Default__SHIELD3_BP_C Function /Engine/Transient.REINST_SHIELD3_BP_C_36:ExecuteUbergraph_SHIELD3_BP
-[2018.09.05-00.09.03:826][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d0e178c8, Size=56
-[2018.09.05-00.09.03:826][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e84e04b8, Size=56, Default__SHIELD_BP_C Function /Engine/Transient.REINST_SHIELD_BP_C_37:ExecuteUbergraph_SHIELD_BP
-[2018.09.05-00.09.03:826][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274def68f80, Size=64
-[2018.09.05-00.09.03:826][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7df0f80, Size=64, Default__spawn_corn_C Function /Engine/Transient.REINST_spawn_corn_C_38:ExecuteUbergraph_spawn_corn
-[2018.09.05-00.09.03:826][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e64f0e20, Size=104
-[2018.09.05-00.09.03:826][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e8034e20, Size=104, Default__Spawn_FENCE_01_C Function /Engine/Transient.REINST_Spawn_FENCE_01_C_39:ExecuteUbergraph_Spawn_FENCE_01
-[2018.09.05-00.09.03:826][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e64f0f00, Size=104
-[2018.09.05-00.09.03:826][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e8034db0, Size=104, Default__Spawn_FENCE_02_C Function /Engine/Transient.REINST_Spawn_FENCE_02_C_40:ExecuteUbergraph_Spawn_FENCE_02
-[2018.09.05-00.09.03:827][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e64f06b0, Size=104
-[2018.09.05-00.09.03:827][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e8034d40, Size=104, Default__Spawn_FENCE_03_C Function /Engine/Transient.REINST_Spawn_FENCE_03_C_41:ExecuteUbergraph_Spawn_FENCE_03
-[2018.09.05-00.09.03:827][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e64f05d0, Size=104
-[2018.09.05-00.09.03:827][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e8034cd0, Size=104, Default__Spawn_FENCE_04_C Function /Engine/Transient.REINST_Spawn_FENCE_04_C_42:ExecuteUbergraph_Spawn_FENCE_04
-[2018.09.05-00.09.03:827][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274de475a30, Size=72
-[2018.09.05-00.09.03:827][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7dcc2c0, Size=72, Default__spawn_Legioners_C Function /Engine/Transient.REINST_spawn_Legioners_C_43:ExecuteUbergraph_spawn_Legioners
-[2018.09.05-00.09.03:827][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e2423460, Size=48
-[2018.09.05-00.09.03:827][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e84f0be0, Size=48, Default__spawn_pepper_C Function /Engine/Transient.REINST_spawn_pepper_C_44:ExecuteUbergraph_spawn_pepper
-[2018.09.05-00.09.03:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d0df9600, Size=208
-[2018.09.05-00.09.03:828][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7da88e0, Size=208, Default__spawn_point_C Function /Engine/Transient.REINST_spawn_point_C_45:ExecuteUbergraph_spawn_point
-[2018.09.05-00.09.03:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e6fb1b48, Size=40
-[2018.09.05-00.09.03:828][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e817e110, Size=40, Default__spawn_point_GRASS_C Function /Engine/Transient.REINST_spawn_point_GRASS_C_46:ExecuteUbergraph_spawn_point_GRASS
-[2018.09.05-00.09.03:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d0e15be8, Size=56
-[2018.09.05-00.09.03:828][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e84e0448, Size=56, Default__spawn_pumpkin_C Function /Engine/Transient.REINST_spawn_pumpkin_C_47:ExecuteUbergraph_spawn_pumpkin
-[2018.09.05-00.09.03:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d99224c0, Size=64
-[2018.09.05-00.09.03:828][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274d0e59540, Size=64, Default__spawn_sunflower_C Function /Engine/Transient.REINST_spawn_sunflower_C_48:ExecuteUbergraph_spawn_sunflower
-[2018.09.05-00.09.03:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e2423040, Size=48
-[2018.09.05-00.09.03:828][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e84f0970, Size=48, Default__spawn_tomatoes_C Function /Engine/Transient.REINST_spawn_tomatoes_C_49:ExecuteUbergraph_spawn_tomatoes
-[2018.09.05-00.09.03:829][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d5ae8400, Size=172
-[2018.09.05-00.09.03:829][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e80587c0, Size=172, Default__STAR_BP_C Function /Engine/Transient.REINST_STAR_BP_C_51:ExecuteUbergraph_STAR_BP
-[2018.09.05-00.09.03:829][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e6ce3e88, Size=4
-[2018.09.05-00.09.03:829][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e8190850, Size=4, Default__TREE_BP_C Function /Engine/Transient.REINST_TREE_BP_C_56:ExecuteUbergraph_TREE_BP
-[2018.09.05-00.09.03:830][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ceb4ee80, Size=448
-[2018.09.05-00.09.03:830][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7d66cc0, Size=448, Default__BP_FENCE_C Function /Engine/Transient.REINST_BP_FENCE_C_59:ExecuteUbergraph_BP_FENCE
-[2018.09.05-00.09.03:830][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274dd3f4100, Size=720
-[2018.09.05-00.09.03:830][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7d5f700, Size=720, Default__MUSCETS_BP_C Function /Engine/Transient.REINST_MUSCETS_BP_C_60:ExecuteUbergraph_MUSCETS_BP
-[2018.09.05-00.09.03:831][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d99e6900, Size=256
-[2018.09.05-00.09.03:831][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7d57c00, Size=256, Default__CORN_BP_C Function /Engine/Transient.REINST_CORN_BP_C_63:ExecuteUbergraph_CORN_BP
-[2018.09.05-00.09.03:831][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274dd4d4bf8, Size=40
-[2018.09.05-00.09.03:831][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e817e070, Size=40, Default__DAUTHER_BP_C Function /Engine/Transient.REINST_DAUTHER_BP_C_64:ExecuteUbergraph_DAUTHER_BP
-[2018.09.05-00.09.03:832][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d6a56fc0, Size=288
-[2018.09.05-00.09.03:832][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7910b80, Size=288, Default__ENEMY_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_65:ExecuteUbergraph_ENEMY_BP
-[2018.09.05-00.09.03:832][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d9fb7600, Size=248
-[2018.09.05-00.09.03:832][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7d57900, Size=248, Default__GRASS_BP_C Function /Engine/Transient.REINST_GRASS_BP_C_66:ExecuteUbergraph_GRASS_BP
-[2018.09.05-00.09.03:832][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d9fb7100, Size=248
-[2018.09.05-00.09.03:832][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7d57800, Size=248, Default__PEPPER_BP_C Function /Engine/Transient.REINST_PEPPER_BP_C_67:ExecuteUbergraph_PEPPER_BP
-[2018.09.05-00.09.03:832][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d9fb7000, Size=256
-[2018.09.05-00.09.03:833][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7d57700, Size=256, Default__PUMPKIN_BP_C Function /Engine/Transient.REINST_PUMPKIN_BP_C_68:ExecuteUbergraph_PUMPKIN_BP
-[2018.09.05-00.09.03:833][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274da897a00, Size=88
-[2018.09.05-00.09.03:833][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e84e8640, Size=88, Default__SUNFLOWER_BP_C Function /Engine/Transient.REINST_SUNFLOWER_BP_C_69:ExecuteUbergraph_SUNFLOWER_BP
-[2018.09.05-00.09.03:834][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d588c800, Size=1736
-[2018.09.05-00.09.03:834][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7d15600, Size=1736, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_70:ExecuteUbergraph_ThirdPersonCharacter
-[2018.09.05-00.09.03:834][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d9fb6b00, Size=256
-[2018.09.05-00.09.03:834][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7d57400, Size=256, Default__TOMATO_BP_C Function /Engine/Transient.REINST_TOMATO_BP_C_71:ExecuteUbergraph_TOMATO_BP
-[2018.09.05-00.09.03:836][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274de4510c0, Size=2752
-[2018.09.05-00.09.03:836][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d0de5f80, Size=288
-[2018.09.05-00.09.03:836][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274cb9810c0, Size=2752, Default__LEGIONER_BP_C Function /Engine/Transient.REINST_LEGIONER_BP_C_72:ExecuteUbergraph_LEGIONER_BP
-[2018.09.05-00.09.03:836][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7d0bd80, Size=288, Default__LEGIONER_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_65:ExecuteUbergraph_ENEMY_BP
-[2018.09.05-00.09.03:838][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d99ed0c0, Size=3760
-[2018.09.05-00.09.03:838][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d9b37ec0, Size=288
-[2018.09.05-00.09.03:838][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7d44100, Size=3760, Default__ZOMBIE_BP_C Function /Engine/Transient.REINST_ZOMBIE_BP_C_73:ExecuteUbergraph_ZOMBIE_BP
-[2018.09.05-00.09.03:838][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e7d0bc40, Size=288, Default__ZOMBIE_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_65:ExecuteUbergraph_ENEMY_BP
-[2018.09.05-00.09.04:090][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e978ad30, Size=104, Default__ANIM_LEGIONER_BP_C Function /Game/Enemies/Zombie_Warrior/Animation/ANIM_LEGIONER_BP.ANIM_LEGIONER_BP_C:ExecuteUbergraph_ANIM_LEGIONER_BP
-[2018.09.05-00.09.04:091][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e9763ec0, Size=72, Default__ANIM_PEASANT_BP_C Function /Game/ThirdPersonBP/Character/Animation/ANIM_PEASANT_BP.ANIM_PEASANT_BP_C:ExecuteUbergraph_ANIM_PEASANT_BP
-[2018.09.05-00.09.04:093][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e975e0e0, Size=88, Default__ANIM_ZOMBIE_BP_C Function /Game/Enemies/Zombie/Animation/ANIM_ZOMBIE_BP.ANIM_ZOMBIE_BP_C:ExecuteUbergraph_ANIM_ZOMBIE_BP
-[2018.09.05-00.09.04:094][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e97b2180, Size=64, Default__BARB_SHIELD_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/Barbarian/BARB_SHIELD_BP.BARB_SHIELD_BP_C:ExecuteUbergraph_BARB_SHIELD_BP
-[2018.09.05-00.09.04:096][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e96efd00, Size=184, Default__BROKEN_FENCE_BP_C Function /Game/ThirdPersonBP/Env/Fence/BROKEN_FENCE_BP.BROKEN_FENCE_BP_C:ExecuteUbergraph_BROKEN_FENCE_BP
-[2018.09.05-00.09.04:097][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e96ee980, Size=168, Default__BULLET_BP_C Function /Game/ThirdPersonBP/Character/Weapon/BULLET_BP.BULLET_BP_C:ExecuteUbergraph_BULLET_BP
-[2018.09.05-00.09.04:098][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e96ee140, Size=172, Default__COIN_BP_C Function /Game/ThirdPersonBP/Env/Coin/COIN_BP.COIN_BP_C:ExecuteUbergraph_COIN_BP
-[2018.09.05-00.09.04:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e9909e88, Size=8, Default__CRYPT_BP_C Function /Game/ThirdPersonBP/Env/Cemetery/Crypt/CRYPT_BP.CRYPT_BP_C:ExecuteUbergraph_CRYPT_BP
-[2018.09.05-00.09.04:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e9909e68, Size=4, Default__DAUTHER_ANIM_BP_C Function /Game/ThirdPersonBP/Character/Dauther/Amination/DAUTHER_ANIM_BP.DAUTHER_ANIM_BP_C:ExecuteUbergraph_DAUTHER_ANIM_BP
-[2018.09.05-00.09.04:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e977dd30, Size=16, Default__GLADIUS_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Sword/GLADIUS_BP.GLADIUS_BP_C:ExecuteUbergraph_GLADIUS_BP
-[2018.09.05-00.09.04:101][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e97468d8, Size=24, Default__HAMMER_BP_C Function /Game/ThirdPersonBP/Character/Tools/HAMMER_BP.HAMMER_BP_C:ExecuteUbergraph_HAMMER_BP
-[2018.09.05-00.09.04:101][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e9909d80, Size=4, Default__HELMET2_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Helmet/HELMET2_BP.HELMET2_BP_C:ExecuteUbergraph_HELMET2_BP
-[2018.09.05-00.09.04:101][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e97050a0, Size=32, Default__HELMET_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Helmet/HELMET_BP.HELMET_BP_C:ExecuteUbergraph_HELMET_BP
-[2018.09.05-00.09.04:102][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e96ec580, Size=164, Default__LEAF_BP_C Function /Game/ThirdPersonBP/Env/Leaf/LEAF_BP.LEAF_BP_C:ExecuteUbergraph_LEAF_BP
-[2018.09.05-00.09.04:102][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e9687c40, Size=184, Default__SCARECROW_BP_C Function /Game/ThirdPersonBP/Env/ScareCrow/SCARECROW_BP.SCARECROW_BP_C:ExecuteUbergraph_SCARECROW_BP
-[2018.09.05-00.09.04:103][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e97208e0, Size=56, Default__SHIELD2_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/SHIELD2_BP.SHIELD2_BP_C:ExecuteUbergraph_SHIELD2_BP
-[2018.09.05-00.09.04:103][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e96aa580, Size=64, Default__SHIELD3_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/Macedonian/SHIELD3_BP.SHIELD3_BP_C:ExecuteUbergraph_SHIELD3_BP
-[2018.09.05-00.09.04:104][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e97201a8, Size=56, Default__SHIELD_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/SHIELD_BP.SHIELD_BP_C:ExecuteUbergraph_SHIELD_BP
-[2018.09.05-00.09.04:105][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e96aac00, Size=64, Default__spawn_corn_C Function /Game/ThirdPersonBP/Env/Corn/spawn_corn.spawn_corn_C:ExecuteUbergraph_spawn_corn
-[2018.09.05-00.09.04:105][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e96441e0, Size=104, Default__Spawn_FENCE_01_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_01.Spawn_FENCE_01_C:ExecuteUbergraph_Spawn_FENCE_01
-[2018.09.05-00.09.04:106][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e962bac0, Size=104, Default__Spawn_FENCE_02_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_02.Spawn_FENCE_02_C:ExecuteUbergraph_Spawn_FENCE_02
-[2018.09.05-00.09.04:107][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e961b430, Size=104, Default__Spawn_FENCE_03_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_03.Spawn_FENCE_03_C:ExecuteUbergraph_Spawn_FENCE_03
-[2018.09.05-00.09.04:108][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e9602da0, Size=104, Default__Spawn_FENCE_04_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_04.Spawn_FENCE_04_C:ExecuteUbergraph_Spawn_FENCE_04
-[2018.09.05-00.09.04:109][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e9639120, Size=72, Default__spawn_Legioners_C Function /Game/Enemies/Zombie_Warrior/spawn_Legioners.spawn_Legioners_C:ExecuteUbergraph_spawn_Legioners
-[2018.09.05-00.09.04:109][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e963d120, Size=48, Default__spawn_pepper_C Function /Game/ThirdPersonBP/Env/Pepper/spawn_pepper.spawn_pepper_C:ExecuteUbergraph_spawn_pepper
-[2018.09.05-00.09.04:110][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e975ada0, Size=208, Default__spawn_point_C Function /Game/Enemies/Zombie/spawn_point.spawn_point_C:ExecuteUbergraph_spawn_point
-[2018.09.05-00.09.04:111][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e9114298, Size=40, Default__spawn_point_GRASS_C Function /Game/ThirdPersonBP/Env/Grass/spawn_point_GRASS.spawn_point_GRASS_C:ExecuteUbergraph_spawn_point_GRASS
-[2018.09.05-00.09.04:111][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e964dcc8, Size=56, Default__spawn_pumpkin_C Function /Game/ThirdPersonBP/Env/Pumpkin/spawn_pumpkin.spawn_pumpkin_C:ExecuteUbergraph_spawn_pumpkin
-[2018.09.05-00.09.04:112][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e95e6e80, Size=64, Default__spawn_sunflower_C Function /Game/ThirdPersonBP/Env/Sunflower/spawn_sunflower.spawn_sunflower_C:ExecuteUbergraph_spawn_sunflower
-[2018.09.05-00.09.04:112][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e9114130, Size=40, Default__spawn_tomatoes_C Function /Game/ThirdPersonBP/Env/Tomato/spawn_tomatoes.spawn_tomatoes_C:ExecuteUbergraph_spawn_tomatoes
-[2018.09.05-00.09.04:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e959fa00, Size=172, Default__STAR_BP_C Function /Game/ThirdPersonBP/Env/Star/STAR_BP.STAR_BP_C:ExecuteUbergraph_STAR_BP
-[2018.09.05-00.09.04:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e9909408, Size=4, Default__TREE_BP_C Function /Game/ThirdPersonBP/Env/House/TREE_BP.TREE_BP_C:ExecuteUbergraph_TREE_BP
-[2018.09.05-00.09.04:115][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e917de00, Size=464, Default__BP_FENCE_C Function /Game/ThirdPersonBP/Env/Fence/BP_FENCE.BP_FENCE_C:ExecuteUbergraph_BP_FENCE
-[2018.09.05-00.09.04:118][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e9599c00, Size=736, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
-[2018.09.05-00.09.04:120][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea4f3000, Size=256, Default__CORN_BP_C Function /Game/ThirdPersonBP/Env/Corn/CORN_BP.CORN_BP_C:ExecuteUbergraph_CORN_BP
-[2018.09.05-00.09.04:121][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274e95a3b00, Size=40, Default__DAUTHER_BP_C Function /Game/ThirdPersonBP/Character/Dauther/DAUTHER_BP.DAUTHER_BP_C:ExecuteUbergraph_DAUTHER_BP
-[2018.09.05-00.09.04:122][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea4db600, Size=288, Default__ENEMY_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
-[2018.09.05-00.09.04:123][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea499e00, Size=248, Default__GRASS_BP_C Function /Game/ThirdPersonBP/Env/Grass/GRASS_BP.GRASS_BP_C:ExecuteUbergraph_GRASS_BP
-[2018.09.05-00.09.04:125][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea476d00, Size=248, Default__PEPPER_BP_C Function /Game/ThirdPersonBP/Env/Pepper/PEPPER_BP.PEPPER_BP_C:ExecuteUbergraph_PEPPER_BP
-[2018.09.05-00.09.04:127][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea446a00, Size=256, Default__PUMPKIN_BP_C Function /Game/ThirdPersonBP/Env/Pumpkin/PUMPKIN_BP.PUMPKIN_BP_C:ExecuteUbergraph_PUMPKIN_BP
-[2018.09.05-00.09.04:128][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea4bce20, Size=88, Default__SUNFLOWER_BP_C Function /Game/ThirdPersonBP/Env/Sunflower/SUNFLOWER_BP.SUNFLOWER_BP_C:ExecuteUbergraph_SUNFLOWER_BP
-[2018.09.05-00.09.04:138][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea405d00, Size=1752, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Character_BP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
-[2018.09.05-00.09.04:141][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea2f5600, Size=248, Default__TOMATO_BP_C Function /Game/ThirdPersonBP/Env/Tomato/TOMATO_BP.TOMATO_BP_C:ExecuteUbergraph_TOMATO_BP
-[2018.09.05-00.09.04:151][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea24a080, Size=2736, Default__LEGIONER_BP_C Function /Game/Enemies/Zombie_Warrior/LEGIONER_BP.LEGIONER_BP_C:ExecuteUbergraph_LEGIONER_BP
-[2018.09.05-00.09.04:151][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea22ac00, Size=288, Default__LEGIONER_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
-[2018.09.05-00.09.04:173][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea1390c0, Size=3744, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
-[2018.09.05-00.09.04:173][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea228680, Size=288, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
-[2018.09.05-00.09.04:292][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274b981cda8, Size=8
-[2018.09.05-00.09.04:292][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea322b50, Size=8, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_160:ExecuteUbergraph_ThirdPersonExampleMap
-[2018.09.05-00.09.04:293][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000274ea322be8, Size=8, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
-[2018.09.05-00.09.04:554][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
-[2018.09.05-00.09.04:554][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
-[2018.09.05-00.09.04:554][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
-[2018.09.05-00.09.04:554][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
-[2018.09.05-00.09.04:554][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
-[2018.09.05-00.09.04:554][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
-[2018.09.05-00.09.04:555][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
-[2018.09.05-00.09.04:555][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
-[2018.09.05-00.09.04:555][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
-[2018.09.05-00.09.04:555][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
-[2018.09.05-00.09.04:555][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
-[2018.09.05-00.09.04:555][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
-[2018.09.05-00.09.05:015][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.100523ms] /Game/ThirdPersonBP/Character/peasant.peasant
-[2018.09.05-00.09.06:649][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.034204ms] /Game/Enemies/Zombie/Zombie.Zombie
-[2018.09.05-00.09.06:754][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.706320ms] /Game/ThirdPersonBP/Character/Dauther/peasant_girl.peasant_girl
-[2018.09.05-00.09.06:803][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.567189ms] /Game/Enemies/Zombie_Warrior/Legioner_Zombie.Legioner_Zombie
-[2018.09.05-00.09.06:854][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.990610ms] /Game/Enemies/Zombie_Warrior/Gear/Shields/Barbarian/barb_shield.barb_shield
-[2018.09.05-00.09.07:194][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.651017ms] /Game/ThirdPersonBP/Env/ScareCrow/scarecrow.scarecrow
-[2018.09.05-00.09.07:588][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2018.09.05-00.09.07:588][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
-[2018.09.05-00.09.07:588][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
-[2018.09.05-00.09.07:588][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
-[2018.09.05-00.09.07:588][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
-[2018.09.05-00.09.07:588][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
-[2018.09.05-00.09.07:588][  0]LogLoad: Game class is 'GameModeBase'
-[2018.09.05-00.09.07:768][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.04-20.09.07
-[2018.09.05-00.09.07:775][  0]LogWorld: Bringing up level for play took: 0.186115
-[2018.09.05-00.09.07:826][  0]LogLoad: Took 5.247630 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
-[2018.09.05-00.09.07:880][  0]LogLoad: (Engine Initialization) Total time: 12.30 seconds
-[2018.09.05-00.09.07:880][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.09.05-00.09.07:908][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
-[2018.09.05-00.09.07:975][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.09.05-00.09.07:978][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.09.05-00.09.07:988][  1]LogAudio: Warning: Detected orphaned looping sound 'level01_music_Cue'.
-[2018.09.05-00.09.10:023][115]Closing by request
-[2018.09.05-00.09.10:023][115]LogWindows: FPlatformMisc::RequestExit(0)
-[2018.09.05-00.09.10:134][116]LogSlate: Window 'farmerVSzombies (64-bit, PCD3D_SM5) ' being destroyed
-[2018.09.05-00.09.10:135][116]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.09.05-00.09.10:141][116]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.09.05-00.09.10:141][116]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2018.09.05-00.09.10:142][116]LogExit: Preparing to exit.
-[2018.09.05-00.09.10:142][116]LogMoviePlayer: Shutting down movie player
-[2018.09.05-00.09.10:426][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea322b50, Size=8
-[2018.09.05-00.09.10:426][116]LogExit: Game engine shut down
-[2018.09.05-00.09.10:431][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7910b80, Size=288
-[2018.09.05-00.09.10:431][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7d15600, Size=1736
-[2018.09.05-00.09.10:431][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e805a440, Size=172
-[2018.09.05-00.09.10:431][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e805a8c0, Size=184
-[2018.09.05-00.09.10:431][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e80587c0, Size=172
-[2018.09.05-00.09.10:431][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e81711c0, Size=72
-[2018.09.05-00.09.10:431][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7d66cc0, Size=448
-[2018.09.05-00.09.10:431][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7d44100, Size=3760
-[2018.09.05-00.09.10:431][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7d0bc40, Size=288
-[2018.09.05-00.09.10:431][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7d57c00, Size=256
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e84e90c0, Size=88
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7d57900, Size=248
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7d57800, Size=248
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7d57700, Size=256
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e84e8640, Size=88
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7d57400, Size=256
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e817e070, Size=40
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e8190a70, Size=4
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7d5f700, Size=720
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e805a5c0, Size=168
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7da88e0, Size=208
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7dcc2c0, Size=72
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274cb9810c0, Size=2752
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7d0bd80, Size=288
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e8034f00, Size=104
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e8104280, Size=64
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7eb3be0, Size=32
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e8190a00, Size=4
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7df1540, Size=64
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e84e0528, Size=56
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e84e04b8, Size=56
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7ef2d80, Size=16
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7f7a8d8, Size=24
-[2018.09.05-00.09.10:432][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e8190a78, Size=8
-[2018.09.05-00.09.10:433][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e7df0f80, Size=64
-[2018.09.05-00.09.10:434][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e8034e20, Size=104
-[2018.09.05-00.09.10:434][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e8034db0, Size=104
-[2018.09.05-00.09.10:434][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e8034d40, Size=104
-[2018.09.05-00.09.10:434][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e8034cd0, Size=104
-[2018.09.05-00.09.10:434][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e817e110, Size=40
-[2018.09.05-00.09.10:434][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e8190850, Size=4
-[2018.09.05-00.09.10:434][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e8059cc0, Size=164
-[2018.09.05-00.09.10:434][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e84f0be0, Size=48
-[2018.09.05-00.09.10:434][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e84e0448, Size=56
-[2018.09.05-00.09.10:434][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e8059900, Size=184
-[2018.09.05-00.09.10:434][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274d0e59540, Size=64
-[2018.09.05-00.09.10:434][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e84f0970, Size=48
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e978ad30, Size=104
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e9763ec0, Size=72
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e975e0e0, Size=88
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e97b2180, Size=64
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e96efd00, Size=184
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e96ee980, Size=168
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e96ee140, Size=172
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e9909e88, Size=8
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e9909e68, Size=4
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e977dd30, Size=16
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e97468d8, Size=24
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e9909d80, Size=4
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e97050a0, Size=32
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e96ec580, Size=164
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e9687c40, Size=184
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e97208e0, Size=56
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e96aa580, Size=64
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e97201a8, Size=56
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e96aac00, Size=64
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e96441e0, Size=104
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e962bac0, Size=104
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e961b430, Size=104
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e9602da0, Size=104
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e9639120, Size=72
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e963d120, Size=48
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e975ada0, Size=208
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e9114298, Size=40
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e964dcc8, Size=56
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e95e6e80, Size=64
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e9114130, Size=40
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e959fa00, Size=172
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e9909408, Size=4
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e917de00, Size=464
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e9599c00, Size=736
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea4f3000, Size=256
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274e95a3b00, Size=40
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea4db600, Size=288
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea499e00, Size=248
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea476d00, Size=248
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea446a00, Size=256
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea4bce20, Size=88
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea405d00, Size=1752
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea2f5600, Size=248
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea24a080, Size=2736
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea22ac00, Size=288
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea1390c0, Size=3744
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea228680, Size=288
-[2018.09.05-00.09.10:435][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000274ea322be8, Size=8
-[2018.09.05-00.09.10:571][116]LogExit: Object subsystem successfully closed.
-[2018.09.05-00.09.10:603][116]LogShaderCompilers: Display: Shaders left to compile 0
-[2018.09.05-00.09.10:608][116]LogD3D11RHI: Shutdown
-[2018.09.05-00.09.10:608][116]LogD3D11RHI: CleanupD3DDevice
-[2018.09.05-00.09.10:611][116]LogD3D11RHI: ~FD3D11DynamicRHI
-[2018.09.05-00.09.10:616][116]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (332)
-[2018.09.05-00.09.10:616][116]LogModuleManager: Shutting down and abandoning module SequenceRecorder (330)
-[2018.09.05-00.09.10:616][116]LogModuleManager: Shutting down and abandoning module AutomationController (328)
-[2018.09.05-00.09.10:616][116]LogModuleManager: Shutting down and abandoning module AutomationWorker (326)
-[2018.09.05-00.09.10:616][116]LogModuleManager: Shutting down and abandoning module AIModule (324)
-[2018.09.05-00.09.10:616][116]LogModuleManager: Shutting down and abandoning module GameplayDebugger (323)
-[2018.09.05-00.09.10:616][116]LogModuleManager: Shutting down and abandoning module AITestSuite (321)
-[2018.09.05-00.09.10:616][116]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (318)
-[2018.09.05-00.09.10:616][116]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (316)
-[2018.09.05-00.09.10:616][116]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (314)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (312)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module CharacterAI (310)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module SessionServices (308)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (306)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (304)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module MovieScene (302)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module GeometryCache (300)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (299)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (296)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module PortalServices (294)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module PortalRpc (292)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module MessagingRpc (290)
-[2018.09.05-00.09.10:617][116]LogModuleManager: Shutting down and abandoning module ProfilerService (288)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module TaskGraph (286)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module SteamVRController (284)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (282)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module OculusInput (280)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (278)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (276)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module CableComponent (274)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module AudioCapture (272)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (270)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module AndroidPermission (268)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (264)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (262)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module MediaCompositing (260)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module LinearTimecode (258)
-[2018.09.05-00.09.10:822][116]LogModuleManager: Shutting down and abandoning module ImgMedia (256)
-[2018.09.05-00.09.10:824][116]LogModuleManager: Shutting down and abandoning module HTML5Networking (254)
-[2018.09.05-00.09.10:824][116]LogModuleManager: Shutting down and abandoning module DatasmithContent (252)
-[2018.09.05-00.09.10:824][116]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (250)
-[2018.09.05-00.09.10:824][116]LogModuleManager: Shutting down and abandoning module CryptoKeys (248)
-[2018.09.05-00.09.10:824][116]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (246)
-[2018.09.05-00.09.10:824][116]LogModuleManager: Shutting down and abandoning module HotReload (245)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (244)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (240)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module UObjectPlugin (238)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (236)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (234)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module SourceControl (233)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (230)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (228)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (226)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module PhysXVehicles (224)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (222)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (220)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (218)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module ActorSequence (216)
-[2018.09.05-00.09.10:825][116]LogModuleManager: Shutting down and abandoning module UdpMessaging (214)
-[2018.09.05-00.09.10:926][116]LogModuleManager: Shutting down and abandoning module TcpMessaging (212)
-[2018.09.05-00.09.11:310][116]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (210)
-[2018.09.05-00.09.11:310][116]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
-[2018.09.05-00.09.11:310][116]LogModuleManager: Shutting down and abandoning module DataValidation (206)
-[2018.09.05-00.09.11:310][116]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (204)
-[2018.09.05-00.09.11:310][116]LogModuleManager: Shutting down and abandoning module TreeMap (203)
-[2018.09.05-00.09.11:310][116]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (200)
-[2018.09.05-00.09.11:310][116]LogModuleManager: Shutting down and abandoning module LiveLink (198)
-[2018.09.05-00.09.12:200][116]LogModuleManager: Shutting down and abandoning module Paper2D (196)
-[2018.09.05-00.09.12:200][116]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (194)
-[2018.09.05-00.09.12:200][116]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (192)
-[2018.09.05-00.09.12:200][116]LogModuleManager: Shutting down and abandoning module WmfMedia (190)
-[2018.09.05-00.09.12:201][116]LogModuleManager: Shutting down and abandoning module Media (189)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module PacketHandler (186)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (184)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (182)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module MediaAssets (180)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module Overlay (178)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module OverlayEditor (177)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module VREditor (174)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module StringTableEditor (172)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (170)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (168)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module FunctionalTesting (166)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (164)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (163)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module UMG (160)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module UMGEditor (159)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module Sequencer (158)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module MessageLog (155)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module SlateReflector (150)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module Slate (148)
-[2018.09.05-00.09.12:207][116]LogModuleManager: Shutting down and abandoning module EditorStyle (146)
-[2018.09.05-00.09.12:208][116]LogModuleManager: Shutting down and abandoning module MRMesh (144)
-[2018.09.05-00.09.12:208][116]LogModuleManager: Shutting down and abandoning module Messaging (142)
-[2018.09.05-00.09.12:208][116]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (140)
-[2018.09.05-00.09.12:208][116]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (138)
-[2018.09.05-00.09.12:208][116]LogModuleManager: Shutting down and abandoning module XAudio2 (136)
-[2018.09.05-00.09.12:209][116]LogModuleManager: Shutting down and abandoning module Networking (134)
-[2018.09.05-00.09.12:209][116]LogModuleManager: Shutting down and abandoning module Core (132)
-[2018.09.05-00.09.12:209][116]LogModuleManager: Shutting down and abandoning module LevelSequence (130)
-[2018.09.05-00.09.12:209][116]LogModuleManager: Shutting down and abandoning module KismetCompiler (128)
-[2018.09.05-00.09.12:209][116]LogModuleManager: Shutting down and abandoning module MeshUtilities (126)
-[2018.09.05-00.09.12:209][116]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (125)
-[2018.09.05-00.09.12:209][116]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (124)
-[2018.09.05-00.09.12:209][116]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (123)
-[2018.09.05-00.09.12:209][116]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (121)
-[2018.09.05-00.09.12:209][116]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (119)
-[2018.09.05-00.09.12:209][116]LogModuleManager: Shutting down and abandoning module MaterialBaking (115)
-[2018.09.05-00.09.12:209][116]LogModuleManager: Shutting down and abandoning module DerivedDataCache (110)
-[2018.09.05-00.09.12:337][116]LogDerivedDataCache: Shutdown
-[2018.09.05-00.09.12:337][116]LogModuleManager: Shutting down and abandoning module XGEController (108)
-[2018.09.05-00.09.12:337][116]LogModuleManager: Shutting down and abandoning module TargetPlatform (106)
-[2018.09.05-00.09.12:337][116]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (105)
-[2018.09.05-00.09.12:337][116]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (103)
-[2018.09.05-00.09.12:337][116]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (101)
-[2018.09.05-00.09.12:337][116]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (99)
-[2018.09.05-00.09.12:337][116]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (97)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (95)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (93)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (91)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (89)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (87)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module ImageWrapper (86)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (83)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (81)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (79)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (77)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (75)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (73)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (71)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (69)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module InputCore (66)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module Settings (64)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module SteamVR (60)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module XMPP (43)
-[2018.09.05-00.09.12:338][116]LogModuleManager: Shutting down and abandoning module HTTP (41)
-[2018.09.05-00.09.12:340][116]LogModuleManager: Shutting down and abandoning module SSL (40)
-[2018.09.05-00.09.12:341][116]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2018.09.05-00.09.12:341][116]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2018.09.05-00.09.12:341][116]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2018.09.05-00.09.12:341][116]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2018.09.05-00.09.12:341][116]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2018.09.05-00.09.12:341][116]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2018.09.05-00.09.12:341][116]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2018.09.05-00.09.12:342][116]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2018.09.05-00.09.12:342][116]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2018.09.05-00.09.12:342][116]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2018.09.05-00.09.12:342][116]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2018.09.05-00.09.12:342][116]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2018.09.05-00.09.12:342][116]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2018.09.05-00.09.12:342][116]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2018.09.05-00.09.12:342][116]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2018.09.05-00.09.12:342][116]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2018.09.05-00.09.12:342][116]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2018.09.05-00.09.12:342][116]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2018.09.05-00.09.12:347][116]LogExit: Exiting.
-[2018.09.05-00.09.12:348][116]Log file closed, 09/04/18 20:09:12
+[2018.09.06-01.15.08:488][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.06-01.15.08:488][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.06-01.15.08:494][  0]LogInit: Computer: DESKTOP-J54LIC6
+[2018.09.06-01.15.08:494][  0]LogInit: User: Canados
+[2018.09.06-01.15.08:494][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.09.06-01.15.08:494][  0]LogInit: High frequency timer resolution =2.156250 MHz
+[2018.09.06-01.15.08:494][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.06-01.15.08:494][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.06-01.15.08:494][  0]LogMemory: Process Physical Memory: 276.18 MB used, 276.18 MB peak
+[2018.09.06-01.15.08:494][  0]LogMemory: Process Virtual Memory: 275.41 MB used, 275.41 MB peak
+[2018.09.06-01.15.08:494][  0]LogMemory: Physical Memory: 9417.46 MB used,  6825.41 MB free, 16242.87 MB total
+[2018.09.06-01.15.08:494][  0]LogMemory: Virtual Memory: 4819.98 MB used,  6825.41 MB free, 134217728.00 MB total
+[2018.09.06-01.15.08:928][  0]LogInit: Using OS detected language (en-US).
+[2018.09.06-01.15.08:928][  0]LogInit: Using OS detected locale (en-CA).
+[2018.09.06-01.15.08:928][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2018.09.06-01.15.08:928][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2018.09.06-01.15.09:311][  0]LogStreaming: Display: Took  0.382s to EndInitTextLocalization.
+[2018.09.06-01.15.09:337][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.06-01.15.09:337][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.06-01.15.09:342][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.06-01.15.09:392][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.09.06-01.15.09:392][  0]LogD3D11RHI:       6061/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.06-01.15.09:420][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2018.09.06-01.15.09:420][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.06-01.15.09:422][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.06-01.15.09:422][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.06-01.15.09:422][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.06-01.15.09:429][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.06-01.15.09:429][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.06-01.15.09:429][  0]LogWindows: EnumDisplayDevices:
+[2018.09.06-01.15.09:429][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.09.06-01.15.09:429][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.09.06-01.15.09:429][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.09.06-01.15.09:429][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.09.06-01.15.09:430][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.09.06-01.15.09:430][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.09.06-01.15.09:430][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.09.06-01.15.09:430][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.06-01.15.09:430][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.09.06-01.15.09:430][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.06-01.15.09:430][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.06-01.15.09:430][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.09.06-01.15.09:457][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.06-01.15.09:457][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.06-01.15.09:457][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.06-01.15.09:468][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.09.06-01.15.09:517][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Unreal_Projects/farmerVSzombies/Intermediate/Shaders/WorkingDirectory/12696/).
+[2018.09.06-01.15.09:517][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Canados/AppData/Local/Temp/UnrealShaderWorkingDir/1F9F176E4352CD7D17D4539574E32C1F/'.
+[2018.09.06-01.15.09:713][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.06-01.15.09:725][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.06-01.15.09:736][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.06-01.15.09:747][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.06-01.15.09:748][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.06-01.15.09:844][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.06-01.15.09:844][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.06-01.15.09:844][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.06-01.15.10:502][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.06-01.15.10:559][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Canados/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.06-01.15.10:559][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Canados/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.06-01.15.10:559][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal_Projects/farmerVSzombies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.06-01.15.10:559][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.06-01.15.10:559][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal_Projects/farmerVSzombies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.06-01.15.10:559][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.06-01.15.10:573][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.06-01.15.10:585][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Canados/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.06-01.15.10:585][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.06-01.15.10:585][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.06-01.15.10:594][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.06-01.15.10:595][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.06-01.15.10:597][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.06-01.15.10:597][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.06-01.15.10:777][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2018.09.06-01.15.10:930][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.006220 seconds
+[2018.09.06-01.15.11:018][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.06-01.15.11:141][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.06-01.15.11:143][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.06-01.15.11:143][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.06-01.15.11:143][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.06-01.15.11:143][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.06-01.15.11:143][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.06-01.15.11:172][  0]LogNetVersion: farmerVSzombies , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3168997086)
+[2018.09.06-01.15.11:751][  0]LogMoviePlayer: Initializing movie player
+[2018.09.06-01.15.12:020][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.06-01.15.12:060][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.06-01.15.12:290][  0]SourceControl: Source control is disabled
+[2018.09.06-01.15.12:290][  0]SourceControl: Source control is disabled
+[2018.09.06-01.15.12:306][  0]SourceControl: Source control is disabled
+[2018.09.06-01.15.12:628][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.06-01.15.12:767][  0]LogOcInput: OculusInput pre-init called
+[2018.09.06-01.15.12:803][  0]LogUObjectArray: 40124 objects as part of root set at end of initial load.
+[2018.09.06-01.15.12:803][  0]LogUObjectAllocator: 8364208 out of 0 bytes used by permanent object pool.
+[2018.09.06-01.15.12:803][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.06-01.15.12:865][  0]LogEngine: Initializing Engine...
+[2018.09.06-01.15.12:867][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.06-01.15.12:881][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.06-01.15.12:881][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.06-01.15.13:055][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.09.06-01.15.13:106][  0]LogInit: FAudioDevice initialized.
+[2018.09.06-01.15.13:128][  0]LogInit: Texture streaming: Enabled
+[2018.09.06-01.15.13:239][  0]LogInit: Display: Game Engine Initialized.
+[2018.09.06-01.15.13:239][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.06-01.15.13:239][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.06-01.15.13:239][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.06-01.15.13:325][  0]LogInit: Display: Starting Game.
+[2018.09.06-01.15.13:325][  0]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
+[2018.09.06-01.15.13:325][  0]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
+[2018.09.06-01.15.13:342][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a5f9f4da8, Size=8, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.09.06-01.15.13:344][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a600dbd58, Size=40, Default__DAUTHER_BP_C Function /Game/ThirdPersonBP/Character/Dauther/DAUTHER_BP.DAUTHER_BP_C:ExecuteUbergraph_DAUTHER_BP
+[2018.09.06-01.15.13:349][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a6011a080, Size=2008, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Character_BP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.09.06-01.15.13:351][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a5eff9fc0, Size=172, Default__COIN_BP_C Function /Game/ThirdPersonBP/Env/Coin/COIN_BP.COIN_BP_C:ExecuteUbergraph_COIN_BP
+[2018.09.06-01.15.13:365][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a5ed33ac0, Size=184, Default__BROKEN_FENCE_BP_C Function /Game/ThirdPersonBP/Env/Fence/BROKEN_FENCE_BP.BROKEN_FENCE_BP_C:ExecuteUbergraph_BROKEN_FENCE_BP
+[2018.09.06-01.15.13:371][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a5ed4c1c0, Size=172, Default__STAR_BP_C Function /Game/ThirdPersonBP/Env/Star/STAR_BP.STAR_BP_C:ExecuteUbergraph_STAR_BP
+[2018.09.06-01.15.13:400][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a42c77e70, Size=72, Default__ANIM_PEASANT_BP_C Function /Game/ThirdPersonBP/Character/Animation/ANIM_PEASANT_BP.ANIM_PEASANT_BP_C:ExecuteUbergraph_ANIM_PEASANT_BP
+[2018.09.06-01.15.13:421][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a601049c0, Size=104, Default__WIDJET_MENU_IN_GAME_C Function /Game/ThirdPersonBP/Character_BP/WIDJET_MENU_IN_GAME.WIDJET_MENU_IN_GAME_C:ExecuteUbergraph_WIDJET_MENU_IN_GAME
+[2018.09.06-01.15.13:479][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a5fd72cc8, Size=4, Default__DAUTHER_ANIM_BP_C Function /Game/ThirdPersonBP/Character/Dauther/Amination/DAUTHER_ANIM_BP.DAUTHER_ANIM_BP_C:ExecuteUbergraph_DAUTHER_ANIM_BP
+[2018.09.06-01.15.13:489][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a63217100, Size=720, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
+[2018.09.06-01.15.13:491][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a6320b940, Size=168, Default__BULLET_BP_C Function /Game/ThirdPersonBP/Character/Weapon/BULLET_BP.BULLET_BP_C:ExecuteUbergraph_BULLET_BP
+[2018.09.06-01.15.13:538][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a63dfe5c0, Size=208, Default__spawn_point_C Function /Game/Enemies/Zombie/spawn_point.spawn_point_C:ExecuteUbergraph_spawn_point
+[2018.09.06-01.15.13:540][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a63db36a0, Size=72, Default__spawn_Legioners_C Function /Game/Enemies/Zombie_Warrior/spawn_Legioners.spawn_Legioners_C:ExecuteUbergraph_spawn_Legioners
+[2018.09.06-01.15.13:545][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a63dab740, Size=288, Default__ENEMY_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.06-01.15.13:547][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a63e42cc0, Size=448, Default__BP_FENCE_C Function /Game/ThirdPersonBP/Env/Fence/BP_FENCE.BP_FENCE_C:ExecuteUbergraph_BP_FENCE
+[2018.09.06-01.15.13:561][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a63a810c0, Size=2752, Default__LEGIONER_BP_C Function /Game/Enemies/Zombie_Warrior/LEGIONER_BP.LEGIONER_BP_C:ExecuteUbergraph_LEGIONER_BP
+[2018.09.06-01.15.13:561][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a63da9580, Size=288, Default__LEGIONER_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.06-01.15.13:567][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a63d73580, Size=104, Default__ANIM_LEGIONER_BP_C Function /Game/Enemies/Zombie_Warrior/Animation/ANIM_LEGIONER_BP.ANIM_LEGIONER_BP_C:ExecuteUbergraph_ANIM_LEGIONER_BP
+[2018.09.06-01.15.13:577][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a636a7a80, Size=64, Default__BARB_SHIELD_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/Barbarian/BARB_SHIELD_BP.BARB_SHIELD_BP_C:ExecuteUbergraph_BARB_SHIELD_BP
+[2018.09.06-01.15.13:584][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a63a7a740, Size=32, Default__HELMET_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Helmet/HELMET_BP.HELMET_BP_C:ExecuteUbergraph_HELMET_BP
+[2018.09.06-01.15.13:586][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a5fd71a78, Size=4, Default__HELMET2_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Helmet/HELMET2_BP.HELMET2_BP_C:ExecuteUbergraph_HELMET2_BP
+[2018.09.06-01.15.13:590][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a636a5ac0, Size=64, Default__SHIELD3_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/Macedonian/SHIELD3_BP.SHIELD3_BP_C:ExecuteUbergraph_SHIELD3_BP
+[2018.09.06-01.15.13:601][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a601234d8, Size=56, Default__SHIELD2_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/SHIELD2_BP.SHIELD2_BP_C:ExecuteUbergraph_SHIELD2_BP
+[2018.09.06-01.15.13:608][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a60123078, Size=56, Default__SHIELD_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/SHIELD_BP.SHIELD_BP_C:ExecuteUbergraph_SHIELD_BP
+[2018.09.06-01.15.13:618][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a63a98ec0, Size=16, Default__GLADIUS_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Sword/GLADIUS_BP.GLADIUS_BP_C:ExecuteUbergraph_GLADIUS_BP
+[2018.09.06-01.15.13:700][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a59d40100, Size=3248, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+[2018.09.06-01.15.13:700][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a641bd800, Size=288, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.06-01.15.13:703][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a66a27100, Size=256, Default__CORN_BP_C Function /Game/ThirdPersonBP/Env/Corn/CORN_BP.CORN_BP_C:ExecuteUbergraph_CORN_BP
+[2018.09.06-01.15.13:755][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a6422c6a0, Size=96, Default__ANIM_ZOMBIE_BP_C Function /Game/Enemies/Zombie/Animation/ANIM_ZOMBIE_BP.ANIM_ZOMBIE_BP_C:ExecuteUbergraph_ANIM_ZOMBIE_BP
+[2018.09.06-01.15.13:776][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a66a24600, Size=248, Default__GRASS_BP_C Function /Game/ThirdPersonBP/Env/Grass/GRASS_BP.GRASS_BP_C:ExecuteUbergraph_GRASS_BP
+[2018.09.06-01.15.13:782][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a66a24500, Size=248, Default__PEPPER_BP_C Function /Game/ThirdPersonBP/Env/Pepper/PEPPER_BP.PEPPER_BP_C:ExecuteUbergraph_PEPPER_BP
+[2018.09.06-01.15.13:788][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a64457d00, Size=256, Default__PUMPKIN_BP_C Function /Game/ThirdPersonBP/Env/Pumpkin/PUMPKIN_BP.PUMPKIN_BP_C:ExecuteUbergraph_PUMPKIN_BP
+[2018.09.06-01.15.13:797][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a6444b940, Size=88, Default__SUNFLOWER_BP_C Function /Game/ThirdPersonBP/Env/Sunflower/SUNFLOWER_BP.SUNFLOWER_BP_C:ExecuteUbergraph_SUNFLOWER_BP
+[2018.09.06-01.15.13:803][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a64457c00, Size=256, Default__TOMATO_BP_C Function /Game/ThirdPersonBP/Env/Tomato/TOMATO_BP.TOMATO_BP_C:ExecuteUbergraph_TOMATO_BP
+[2018.09.06-01.15.13:863][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a59d40100, Size=3248
+[2018.09.06-01.15.13:863][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a641bd800, Size=288
+[2018.09.06-01.15.13:863][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a67503040, Size=3248, Default__ZOMBIE_BP_C Function /Engine/Transient.REINST_ZOMBIE_BP_C_1:ExecuteUbergraph_ZOMBIE_BP
+[2018.09.06-01.15.13:863][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a64420cc0, Size=288, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.06-01.15.13:867][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a675010c0, Size=3248, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+[2018.09.06-01.15.13:867][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a64420b80, Size=288, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.06-01.15.13:874][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a680d62c0, Size=24, Default__HAMMER_BP_C Function /Game/ThirdPersonBP/Character/Tools/HAMMER_BP.HAMMER_BP_C:ExecuteUbergraph_HAMMER_BP
+[2018.09.06-01.15.13:928][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a645d9bc8, Size=8, Default__CRYPT_BP_C Function /Game/ThirdPersonBP/Env/Cemetery/Crypt/CRYPT_BP.CRYPT_BP_C:ExecuteUbergraph_CRYPT_BP
+[2018.09.06-01.15.13:972][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a6c301e80, Size=64, Default__spawn_corn_C Function /Game/ThirdPersonBP/Env/Corn/spawn_corn.spawn_corn_C:ExecuteUbergraph_spawn_corn
+[2018.09.06-01.15.14:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70381670, Size=104, Default__Spawn_FENCE_01_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_01.Spawn_FENCE_01_C:ExecuteUbergraph_Spawn_FENCE_01
+[2018.09.06-01.15.14:498][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70381750, Size=104, Default__Spawn_FENCE_02_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_02.Spawn_FENCE_02_C:ExecuteUbergraph_Spawn_FENCE_02
+[2018.09.06-01.15.14:501][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70380f00, Size=104, Default__Spawn_FENCE_03_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_03.Spawn_FENCE_03_C:ExecuteUbergraph_Spawn_FENCE_03
+[2018.09.06-01.15.14:505][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70380e20, Size=104, Default__Spawn_FENCE_04_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_04.Spawn_FENCE_04_C:ExecuteUbergraph_Spawn_FENCE_04
+[2018.09.06-01.15.14:513][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a705fdad0, Size=40, Default__spawn_point_GRASS_C Function /Game/ThirdPersonBP/Env/Grass/spawn_point_GRASS.spawn_point_GRASS_C:ExecuteUbergraph_spawn_point_GRASS
+[2018.09.06-01.15.14:518][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a71343c20, Size=4, Default__TREE_BP_C Function /Game/ThirdPersonBP/Env/House/TREE_BP.TREE_BP_C:ExecuteUbergraph_TREE_BP
+[2018.09.06-01.15.14:535][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70f77c40, Size=164, Default__LEAF_BP_C Function /Game/ThirdPersonBP/Env/Leaf/LEAF_BP.LEAF_BP_C:ExecuteUbergraph_LEAF_BP
+[2018.09.06-01.15.14:537][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a6cf737f0, Size=48, Default__spawn_pepper_C Function /Game/ThirdPersonBP/Env/Pepper/spawn_pepper.spawn_pepper_C:ExecuteUbergraph_spawn_pepper
+[2018.09.06-01.15.14:540][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a6769d8a0, Size=56, Default__spawn_pumpkin_C Function /Game/ThirdPersonBP/Env/Pumpkin/spawn_pumpkin.spawn_pumpkin_C:ExecuteUbergraph_spawn_pumpkin
+[2018.09.06-01.15.14:543][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70f76740, Size=184, Default__SCARECROW_BP_C Function /Game/ThirdPersonBP/Env/ScareCrow/SCARECROW_BP.SCARECROW_BP_C:ExecuteUbergraph_SCARECROW_BP
+[2018.09.06-01.15.14:546][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a713002c0, Size=64, Default__spawn_sunflower_C Function /Game/ThirdPersonBP/Env/Sunflower/spawn_sunflower.spawn_sunflower_C:ExecuteUbergraph_spawn_sunflower
+[2018.09.06-01.15.14:549][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a6cf733d0, Size=48, Default__spawn_tomatoes_C Function /Game/ThirdPersonBP/Env/Tomato/spawn_tomatoes.spawn_tomatoes_C:ExecuteUbergraph_spawn_tomatoes
+[2018.09.06-01.15.14:667][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a63d73580, Size=104
+[2018.09.06-01.15.14:667][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a714f1440, Size=104, Default__ANIM_LEGIONER_BP_C Function /Engine/Transient.REINST_ANIM_LEGIONER_BP_C_0:ExecuteUbergraph_ANIM_LEGIONER_BP
+[2018.09.06-01.15.14:667][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a42c77e70, Size=72
+[2018.09.06-01.15.14:667][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a71649ee0, Size=72, Default__ANIM_PEASANT_BP_C Function /Engine/Transient.REINST_ANIM_PEASANT_BP_C_1:ExecuteUbergraph_ANIM_PEASANT_BP
+[2018.09.06-01.15.14:668][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a6422c6a0, Size=96
+[2018.09.06-01.15.14:668][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70961660, Size=96, Default__ANIM_ZOMBIE_BP_C Function /Engine/Transient.REINST_ANIM_ZOMBIE_BP_C_2:ExecuteUbergraph_ANIM_ZOMBIE_BP
+[2018.09.06-01.15.14:668][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a636a7a80, Size=64
+[2018.09.06-01.15.14:668][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72347a40, Size=64, Default__BARB_SHIELD_BP_C Function /Engine/Transient.REINST_BARB_SHIELD_BP_C_6:ExecuteUbergraph_BARB_SHIELD_BP
+[2018.09.06-01.15.14:669][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a5ed33ac0, Size=184
+[2018.09.06-01.15.14:669][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a708501c0, Size=184, Default__BROKEN_FENCE_BP_C Function /Engine/Transient.REINST_BROKEN_FENCE_BP_C_10:ExecuteUbergraph_BROKEN_FENCE_BP
+[2018.09.06-01.15.14:670][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a6320b940, Size=168
+[2018.09.06-01.15.14:670][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7232fd00, Size=168, Default__BULLET_BP_C Function /Engine/Transient.REINST_BULLET_BP_C_12:ExecuteUbergraph_BULLET_BP
+[2018.09.06-01.15.14:671][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a5eff9fc0, Size=172
+[2018.09.06-01.15.14:671][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7232fb80, Size=172, Default__COIN_BP_C Function /Engine/Transient.REINST_COIN_BP_C_15:ExecuteUbergraph_COIN_BP
+[2018.09.06-01.15.14:678][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a645d9bc8, Size=8
+[2018.09.06-01.15.14:678][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7167c620, Size=8, Default__CRYPT_BP_C Function /Engine/Transient.REINST_CRYPT_BP_C_22:ExecuteUbergraph_CRYPT_BP
+[2018.09.06-01.15.14:678][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a5fd72cc8, Size=4
+[2018.09.06-01.15.14:678][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7167c618, Size=4, Default__DAUTHER_ANIM_BP_C Function /Engine/Transient.REINST_DAUTHER_ANIM_BP_C_3:ExecuteUbergraph_DAUTHER_ANIM_BP
+[2018.09.06-01.15.14:679][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a63a98ec0, Size=16
+[2018.09.06-01.15.14:679][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a722bbfe0, Size=16, Default__GLADIUS_BP_C Function /Engine/Transient.REINST_GLADIUS_BP_C_26:ExecuteUbergraph_GLADIUS_BP
+[2018.09.06-01.15.14:679][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a680d62c0, Size=24
+[2018.09.06-01.15.14:679][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7144e830, Size=24, Default__HAMMER_BP_C Function /Engine/Transient.REINST_HAMMER_BP_C_28:ExecuteUbergraph_HAMMER_BP
+[2018.09.06-01.15.14:679][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a5fd71a78, Size=4
+[2018.09.06-01.15.14:679][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7167c5a8, Size=4, Default__HELMET2_BP_C Function /Engine/Transient.REINST_HELMET2_BP_C_29:ExecuteUbergraph_HELMET2_BP
+[2018.09.06-01.15.14:679][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a63a7a740, Size=32
+[2018.09.06-01.15.14:679][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a713c4dc0, Size=32, Default__HELMET_BP_C Function /Engine/Transient.REINST_HELMET_BP_C_30:ExecuteUbergraph_HELMET_BP
+[2018.09.06-01.15.14:680][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70f77c40, Size=164
+[2018.09.06-01.15.14:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7232f400, Size=164, Default__LEAF_BP_C Function /Engine/Transient.REINST_LEAF_BP_C_32:ExecuteUbergraph_LEAF_BP
+[2018.09.06-01.15.14:680][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70f76740, Size=184
+[2018.09.06-01.15.14:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7232ef80, Size=184, Default__SCARECROW_BP_C Function /Engine/Transient.REINST_SCARECROW_BP_C_36:ExecuteUbergraph_SCARECROW_BP
+[2018.09.06-01.15.14:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a601234d8, Size=56
+[2018.09.06-01.15.14:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a714dbc48, Size=56, Default__SHIELD2_BP_C Function /Engine/Transient.REINST_SHIELD2_BP_C_37:ExecuteUbergraph_SHIELD2_BP
+[2018.09.06-01.15.14:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a636a5ac0, Size=64
+[2018.09.06-01.15.14:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a722c45c0, Size=64, Default__SHIELD3_BP_C Function /Engine/Transient.REINST_SHIELD3_BP_C_38:ExecuteUbergraph_SHIELD3_BP
+[2018.09.06-01.15.14:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a60123078, Size=56
+[2018.09.06-01.15.14:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a714dbbd8, Size=56, Default__SHIELD_BP_C Function /Engine/Transient.REINST_SHIELD_BP_C_39:ExecuteUbergraph_SHIELD_BP
+[2018.09.06-01.15.14:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a6c301e80, Size=64
+[2018.09.06-01.15.14:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72267ec0, Size=64, Default__spawn_corn_C Function /Engine/Transient.REINST_spawn_corn_C_40:ExecuteUbergraph_spawn_corn
+[2018.09.06-01.15.14:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70381670, Size=104
+[2018.09.06-01.15.14:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a714f13d0, Size=104, Default__Spawn_FENCE_01_C Function /Engine/Transient.REINST_Spawn_FENCE_01_C_41:ExecuteUbergraph_Spawn_FENCE_01
+[2018.09.06-01.15.14:682][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70381750, Size=104
+[2018.09.06-01.15.14:682][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a714f1360, Size=104, Default__Spawn_FENCE_02_C Function /Engine/Transient.REINST_Spawn_FENCE_02_C_42:ExecuteUbergraph_Spawn_FENCE_02
+[2018.09.06-01.15.14:682][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70380f00, Size=104
+[2018.09.06-01.15.14:682][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a714f12f0, Size=104, Default__Spawn_FENCE_03_C Function /Engine/Transient.REINST_Spawn_FENCE_03_C_43:ExecuteUbergraph_Spawn_FENCE_03
+[2018.09.06-01.15.14:682][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70380e20, Size=104
+[2018.09.06-01.15.14:682][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a714f1280, Size=104, Default__Spawn_FENCE_04_C Function /Engine/Transient.REINST_Spawn_FENCE_04_C_44:ExecuteUbergraph_Spawn_FENCE_04
+[2018.09.06-01.15.14:682][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a63db36a0, Size=72
+[2018.09.06-01.15.14:682][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a722a0950, Size=72, Default__spawn_Legioners_C Function /Engine/Transient.REINST_spawn_Legioners_C_45:ExecuteUbergraph_spawn_Legioners
+[2018.09.06-01.15.14:683][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a6cf737f0, Size=48
+[2018.09.06-01.15.14:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70968bb0, Size=48, Default__spawn_pepper_C Function /Engine/Transient.REINST_spawn_pepper_C_46:ExecuteUbergraph_spawn_pepper
+[2018.09.06-01.15.14:683][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a63dfe5c0, Size=208
+[2018.09.06-01.15.14:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7226cd40, Size=208, Default__spawn_point_C Function /Engine/Transient.REINST_spawn_point_C_47:ExecuteUbergraph_spawn_point
+[2018.09.06-01.15.14:683][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a705fdad0, Size=40
+[2018.09.06-01.15.14:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a716660c0, Size=40, Default__spawn_point_GRASS_C Function /Engine/Transient.REINST_spawn_point_GRASS_C_48:ExecuteUbergraph_spawn_point_GRASS
+[2018.09.06-01.15.14:683][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a6769d8a0, Size=56
+[2018.09.06-01.15.14:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a714dbb68, Size=56, Default__spawn_pumpkin_C Function /Engine/Transient.REINST_spawn_pumpkin_C_49:ExecuteUbergraph_spawn_pumpkin
+[2018.09.06-01.15.14:683][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a713002c0, Size=64
+[2018.09.06-01.15.14:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a722665c0, Size=64, Default__spawn_sunflower_C Function /Engine/Transient.REINST_spawn_sunflower_C_50:ExecuteUbergraph_spawn_sunflower
+[2018.09.06-01.15.14:683][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a6cf733d0, Size=48
+[2018.09.06-01.15.14:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70968be0, Size=48, Default__spawn_tomatoes_C Function /Engine/Transient.REINST_spawn_tomatoes_C_51:ExecuteUbergraph_spawn_tomatoes
+[2018.09.06-01.15.14:684][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a5ed4c1c0, Size=172
+[2018.09.06-01.15.14:684][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7232df00, Size=172, Default__STAR_BP_C Function /Engine/Transient.REINST_STAR_BP_C_53:ExecuteUbergraph_STAR_BP
+[2018.09.06-01.15.14:685][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a71343c20, Size=4
+[2018.09.06-01.15.14:685][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7167c3f8, Size=4, Default__TREE_BP_C Function /Engine/Transient.REINST_TREE_BP_C_58:ExecuteUbergraph_TREE_BP
+[2018.09.06-01.15.14:685][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a63e42cc0, Size=448
+[2018.09.06-01.15.14:685][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72234640, Size=448, Default__BP_FENCE_C Function /Engine/Transient.REINST_BP_FENCE_C_61:ExecuteUbergraph_BP_FENCE
+[2018.09.06-01.15.14:686][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a63217100, Size=720
+[2018.09.06-01.15.14:686][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7223a200, Size=720, Default__MUSCETS_BP_C Function /Engine/Transient.REINST_MUSCETS_BP_C_62:ExecuteUbergraph_MUSCETS_BP
+[2018.09.06-01.15.14:686][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a66a27100, Size=256
+[2018.09.06-01.15.14:686][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7091a200, Size=256, Default__CORN_BP_C Function /Engine/Transient.REINST_CORN_BP_C_65:ExecuteUbergraph_CORN_BP
+[2018.09.06-01.15.14:687][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a600dbd58, Size=40
+[2018.09.06-01.15.14:687][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a71666020, Size=40, Default__DAUTHER_BP_C Function /Engine/Transient.REINST_DAUTHER_BP_C_66:ExecuteUbergraph_DAUTHER_BP
+[2018.09.06-01.15.14:687][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a63dab740, Size=288
+[2018.09.06-01.15.14:687][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7168dbc0, Size=288, Default__ENEMY_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_67:ExecuteUbergraph_ENEMY_BP
+[2018.09.06-01.15.14:687][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a66a24600, Size=248
+[2018.09.06-01.15.14:687][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7091a000, Size=248, Default__GRASS_BP_C Function /Engine/Transient.REINST_GRASS_BP_C_68:ExecuteUbergraph_GRASS_BP
+[2018.09.06-01.15.14:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a66a24500, Size=248
+[2018.09.06-01.15.14:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70919f00, Size=248, Default__PEPPER_BP_C Function /Engine/Transient.REINST_PEPPER_BP_C_69:ExecuteUbergraph_PEPPER_BP
+[2018.09.06-01.15.14:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a64457d00, Size=256
+[2018.09.06-01.15.14:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70919d00, Size=256, Default__PUMPKIN_BP_C Function /Engine/Transient.REINST_PUMPKIN_BP_C_70:ExecuteUbergraph_PUMPKIN_BP
+[2018.09.06-01.15.14:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a6444b940, Size=88
+[2018.09.06-01.15.14:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70960c40, Size=88, Default__SUNFLOWER_BP_C Function /Engine/Transient.REINST_SUNFLOWER_BP_C_71:ExecuteUbergraph_SUNFLOWER_BP
+[2018.09.06-01.15.14:689][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a6011a080, Size=2008
+[2018.09.06-01.15.14:689][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72359600, Size=2008, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_72:ExecuteUbergraph_ThirdPersonCharacter
+[2018.09.06-01.15.14:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a64457c00, Size=256
+[2018.09.06-01.15.14:690][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a70919c00, Size=256, Default__TOMATO_BP_C Function /Engine/Transient.REINST_TOMATO_BP_C_73:ExecuteUbergraph_TOMATO_BP
+[2018.09.06-01.15.14:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a601049c0, Size=104
+[2018.09.06-01.15.14:690][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a714f1210, Size=104, Default__WIDJET_MENU_IN_GAME_C Function /Engine/Transient.REINST_WIDJET_MENU_IN_GAME_C_8:ExecuteUbergraph_WIDJET_MENU_IN_GAME
+[2018.09.06-01.15.14:692][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a63a810c0, Size=2752
+[2018.09.06-01.15.14:692][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a63da9580, Size=288
+[2018.09.06-01.15.14:692][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a721e0100, Size=2752, Default__LEGIONER_BP_C Function /Engine/Transient.REINST_LEGIONER_BP_C_74:ExecuteUbergraph_LEGIONER_BP
+[2018.09.06-01.15.14:692][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7168cf40, Size=288, Default__LEGIONER_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_67:ExecuteUbergraph_ENEMY_BP
+[2018.09.06-01.15.14:693][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a675010c0, Size=3248
+[2018.09.06-01.15.14:693][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a64420b80, Size=288
+[2018.09.06-01.15.14:693][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a721e10c0, Size=3248, Default__ZOMBIE_BP_C Function /Engine/Transient.REINST_ZOMBIE_BP_C_75:ExecuteUbergraph_ZOMBIE_BP
+[2018.09.06-01.15.14:693][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7168ce00, Size=288, Default__ZOMBIE_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_67:ExecuteUbergraph_ENEMY_BP
+[2018.09.06-01.15.14:943][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72d724e0, Size=104, Default__ANIM_LEGIONER_BP_C Function /Game/Enemies/Zombie_Warrior/Animation/ANIM_LEGIONER_BP.ANIM_LEGIONER_BP_C:ExecuteUbergraph_ANIM_LEGIONER_BP
+[2018.09.06-01.15.14:944][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72da8e50, Size=72, Default__ANIM_PEASANT_BP_C Function /Game/ThirdPersonBP/Character/Animation/ANIM_PEASANT_BP.ANIM_PEASANT_BP_C:ExecuteUbergraph_ANIM_PEASANT_BP
+[2018.09.06-01.15.14:946][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72d651e0, Size=88, Default__ANIM_ZOMBIE_BP_C Function /Game/Enemies/Zombie/Animation/ANIM_ZOMBIE_BP.ANIM_ZOMBIE_BP_C:ExecuteUbergraph_ANIM_ZOMBIE_BP
+[2018.09.06-01.15.14:947][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72d76180, Size=64, Default__BARB_SHIELD_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/Barbarian/BARB_SHIELD_BP.BARB_SHIELD_BP_C:ExecuteUbergraph_BARB_SHIELD_BP
+[2018.09.06-01.15.14:949][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72ccf100, Size=184, Default__BROKEN_FENCE_BP_C Function /Game/ThirdPersonBP/Env/Fence/BROKEN_FENCE_BP.BROKEN_FENCE_BP_C:ExecuteUbergraph_BROKEN_FENCE_BP
+[2018.09.06-01.15.14:950][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72ccdd80, Size=168, Default__BULLET_BP_C Function /Game/ThirdPersonBP/Character/Weapon/BULLET_BP.BULLET_BP_C:ExecuteUbergraph_BULLET_BP
+[2018.09.06-01.15.14:951][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72ccd540, Size=172, Default__COIN_BP_C Function /Game/ThirdPersonBP/Env/Coin/COIN_BP.COIN_BP_C:ExecuteUbergraph_COIN_BP
+[2018.09.06-01.15.14:953][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72625838, Size=8, Default__CRYPT_BP_C Function /Game/ThirdPersonBP/Env/Cemetery/Crypt/CRYPT_BP.CRYPT_BP_C:ExecuteUbergraph_CRYPT_BP
+[2018.09.06-01.15.14:953][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72625818, Size=4, Default__DAUTHER_ANIM_BP_C Function /Game/ThirdPersonBP/Character/Dauther/Amination/DAUTHER_ANIM_BP.DAUTHER_ANIM_BP_C:ExecuteUbergraph_DAUTHER_ANIM_BP
+[2018.09.06-01.15.14:954][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72b67fd0, Size=16, Default__GLADIUS_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Sword/GLADIUS_BP.GLADIUS_BP_C:ExecuteUbergraph_GLADIUS_BP
+[2018.09.06-01.15.14:954][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72d4a488, Size=24, Default__HAMMER_BP_C Function /Game/ThirdPersonBP/Character/Tools/HAMMER_BP.HAMMER_BP_C:ExecuteUbergraph_HAMMER_BP
+[2018.09.06-01.15.14:954][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72625730, Size=4, Default__HELMET2_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Helmet/HELMET2_BP.HELMET2_BP_C:ExecuteUbergraph_HELMET2_BP
+[2018.09.06-01.15.14:954][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72b7e580, Size=32, Default__HELMET_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Helmet/HELMET_BP.HELMET_BP_C:ExecuteUbergraph_HELMET_BP
+[2018.09.06-01.15.14:955][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72b53700, Size=164, Default__LEAF_BP_C Function /Game/ThirdPersonBP/Env/Leaf/LEAF_BP.LEAF_BP_C:ExecuteUbergraph_LEAF_BP
+[2018.09.06-01.15.14:955][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72b52f80, Size=184, Default__SCARECROW_BP_C Function /Game/ThirdPersonBP/Env/ScareCrow/SCARECROW_BP.SCARECROW_BP_C:ExecuteUbergraph_SCARECROW_BP
+[2018.09.06-01.15.14:956][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72d18100, Size=56, Default__SHIELD2_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/SHIELD2_BP.SHIELD2_BP_C:ExecuteUbergraph_SHIELD2_BP
+[2018.09.06-01.15.14:957][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72b79580, Size=64, Default__SHIELD3_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/Macedonian/SHIELD3_BP.SHIELD3_BP_C:ExecuteUbergraph_SHIELD3_BP
+[2018.09.06-01.15.14:957][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72b1f8c8, Size=56, Default__SHIELD_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/SHIELD_BP.SHIELD_BP_C:ExecuteUbergraph_SHIELD_BP
+[2018.09.06-01.15.14:958][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72b78f00, Size=64, Default__spawn_corn_C Function /Game/ThirdPersonBP/Env/Corn/spawn_corn.spawn_corn_C:ExecuteUbergraph_spawn_corn
+[2018.09.06-01.15.14:959][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72ae7740, Size=104, Default__Spawn_FENCE_01_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_01.Spawn_FENCE_01_C:ExecuteUbergraph_Spawn_FENCE_01
+[2018.09.06-01.15.14:960][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72adb0b0, Size=104, Default__Spawn_FENCE_02_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_02.Spawn_FENCE_02_C:ExecuteUbergraph_Spawn_FENCE_02
+[2018.09.06-01.15.14:960][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72ac2a20, Size=104, Default__Spawn_FENCE_03_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_03.Spawn_FENCE_03_C:ExecuteUbergraph_Spawn_FENCE_03
+[2018.09.06-01.15.14:961][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72ab2390, Size=104, Default__Spawn_FENCE_04_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_04.Spawn_FENCE_04_C:ExecuteUbergraph_Spawn_FENCE_04
+[2018.09.06-01.15.14:962][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72ac6070, Size=72, Default__spawn_Legioners_C Function /Game/Enemies/Zombie_Warrior/spawn_Legioners.spawn_Legioners_C:ExecuteUbergraph_spawn_Legioners
+[2018.09.06-01.15.14:962][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72ae9000, Size=48, Default__spawn_pepper_C Function /Game/ThirdPersonBP/Env/Pepper/spawn_pepper.spawn_pepper_C:ExecuteUbergraph_spawn_pepper
+[2018.09.06-01.15.14:964][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72d425c0, Size=208, Default__spawn_point_C Function /Game/Enemies/Zombie/spawn_point.spawn_point_C:ExecuteUbergraph_spawn_point
+[2018.09.06-01.15.14:964][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72aaff38, Size=40, Default__spawn_point_GRASS_C Function /Game/ThirdPersonBP/Env/Grass/spawn_point_GRASS.spawn_point_GRASS_C:ExecuteUbergraph_spawn_point_GRASS
+[2018.09.06-01.15.14:965][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72b1d4e8, Size=56, Default__spawn_pumpkin_C Function /Game/ThirdPersonBP/Env/Pumpkin/spawn_pumpkin.spawn_pumpkin_C:ExecuteUbergraph_spawn_pumpkin
+[2018.09.06-01.15.14:965][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72abdd40, Size=64, Default__spawn_sunflower_C Function /Game/ThirdPersonBP/Env/Sunflower/spawn_sunflower.spawn_sunflower_C:ExecuteUbergraph_spawn_sunflower
+[2018.09.06-01.15.14:966][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72aafe20, Size=40, Default__spawn_tomatoes_C Function /Game/ThirdPersonBP/Env/Tomato/spawn_tomatoes.spawn_tomatoes_C:ExecuteUbergraph_spawn_tomatoes
+[2018.09.06-01.15.14:966][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72a5ec80, Size=172, Default__STAR_BP_C Function /Game/ThirdPersonBP/Env/Star/STAR_BP.STAR_BP_C:ExecuteUbergraph_STAR_BP
+[2018.09.06-01.15.14:967][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72624db8, Size=4, Default__TREE_BP_C Function /Game/ThirdPersonBP/Env/House/TREE_BP.TREE_BP_C:ExecuteUbergraph_TREE_BP
+[2018.09.06-01.15.14:969][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72d93000, Size=464, Default__BP_FENCE_C Function /Game/ThirdPersonBP/Env/Fence/BP_FENCE.BP_FENCE_C:ExecuteUbergraph_BP_FENCE
+[2018.09.06-01.15.14:972][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a71abae00, Size=736, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
+[2018.09.06-01.15.14:974][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a729b0900, Size=256, Default__CORN_BP_C Function /Game/ThirdPersonBP/Env/Corn/CORN_BP.CORN_BP_C:ExecuteUbergraph_CORN_BP
+[2018.09.06-01.15.14:975][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72aaf880, Size=40, Default__DAUTHER_BP_C Function /Game/ThirdPersonBP/Character/Dauther/DAUTHER_BP.DAUTHER_BP_C:ExecuteUbergraph_DAUTHER_BP
+[2018.09.06-01.15.14:976][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7299ec00, Size=288, Default__ENEMY_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.06-01.15.14:977][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7294f600, Size=248, Default__GRASS_BP_C Function /Game/ThirdPersonBP/Env/Grass/GRASS_BP.GRASS_BP_C:ExecuteUbergraph_GRASS_BP
+[2018.09.06-01.15.14:978][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72940600, Size=248, Default__PEPPER_BP_C Function /Game/ThirdPersonBP/Env/Pepper/PEPPER_BP.PEPPER_BP_C:ExecuteUbergraph_PEPPER_BP
+[2018.09.06-01.15.14:980][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7290bc00, Size=256, Default__PUMPKIN_BP_C Function /Game/ThirdPersonBP/Env/Pumpkin/PUMPKIN_BP.PUMPKIN_BP_C:ExecuteUbergraph_PUMPKIN_BP
+[2018.09.06-01.15.14:982][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a729e01c0, Size=88, Default__SUNFLOWER_BP_C Function /Game/ThirdPersonBP/Env/Sunflower/SUNFLOWER_BP.SUNFLOWER_BP_C:ExecuteUbergraph_SUNFLOWER_BP
+[2018.09.06-01.15.14:996][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a72838100, Size=2032, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Character_BP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.09.06-01.15.15:001][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a727b9f00, Size=248, Default__TOMATO_BP_C Function /Game/ThirdPersonBP/Env/Tomato/TOMATO_BP.TOMATO_BP_C:ExecuteUbergraph_TOMATO_BP
+[2018.09.06-01.15.15:005][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7305f970, Size=104, Default__WIDJET_MENU_IN_GAME_C Function /Game/ThirdPersonBP/Character_BP/WIDJET_MENU_IN_GAME.WIDJET_MENU_IN_GAME_C:ExecuteUbergraph_WIDJET_MENU_IN_GAME
+[2018.09.06-01.15.15:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7282d0c0, Size=2736, Default__LEGIONER_BP_C Function /Game/Enemies/Zombie_Warrior/LEGIONER_BP.LEGIONER_BP_C:ExecuteUbergraph_LEGIONER_BP
+[2018.09.06-01.15.15:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a73079f80, Size=288, Default__LEGIONER_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.06-01.15.15:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a736ed0c0, Size=3216, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+[2018.09.06-01.15.15:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7369f9c0, Size=288, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.06-01.15.15:156][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a5f9f4da8, Size=8
+[2018.09.06-01.15.15:156][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7284a5e8, Size=8, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_165:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.09.06-01.15.15:157][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a7284ae50, Size=8, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.09.06-01.15.15:465][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
+[2018.09.06-01.15.15:465][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
+[2018.09.06-01.15.15:465][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
+[2018.09.06-01.15.15:465][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
+[2018.09.06-01.15.15:465][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
+[2018.09.06-01.15.15:465][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
+[2018.09.06-01.15.15:465][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
+[2018.09.06-01.15.15:465][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
+[2018.09.06-01.15.15:465][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
+[2018.09.06-01.15.15:466][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
+[2018.09.06-01.15.15:466][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
+[2018.09.06-01.15.15:466][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
+[2018.09.06-01.15.16:019][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.662261ms] /Game/ThirdPersonBP/Character/peasant.peasant
+[2018.09.06-01.15.16:040][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.733681ms] /Game/ThirdPersonBP/Character/Dauther/peasant_girl.peasant_girl
+[2018.09.06-01.15.16:837][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.779594ms] /Game/Enemies/Zombie_Warrior/Gear/Shields/Barbarian/barb_shield.barb_shield
+[2018.09.06-01.15.16:865][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.576928ms] /Game/Enemies/Zombie/Zombie.Zombie
+[2018.09.06-01.15.16:892][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.578783ms] /Game/Enemies/Zombie_Warrior/Legioner_Zombie.Legioner_Zombie
+[2018.09.06-01.15.18:012][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.349101ms] /Game/ThirdPersonBP/Env/ScareCrow/scarecrow.scarecrow
+[2018.09.06-01.15.18:391][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.06-01.15.18:391][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.09.06-01.15.18:391][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.09.06-01.15.18:391][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.09.06-01.15.18:391][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.09.06-01.15.18:391][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2018.09.06-01.15.18:392][  0]LogLoad: Game class is 'GameModeBase'
+[2018.09.06-01.15.18:567][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.05-21.15.18
+[2018.09.06-01.15.18:573][  0]LogWorld: Bringing up level for play took: 0.180187
+[2018.09.06-01.15.18:619][  0]LogLoad: Took 5.294676 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.09.06-01.15.18:678][  0]LogLoad: (Engine Initialization) Total time: 12.44 seconds
+[2018.09.06-01.15.18:678][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.06-01.15.18:705][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.09.06-01.15.18:768][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.06-01.15.18:771][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.06-01.15.18:781][  1]LogAudio: Warning: Detected orphaned looping sound 'level01_music_Cue'.
+[2018.09.06-01.15.22:767][240]LogBlueprintUserMessages: [spawn_point2_16] 
+[2018.09.06-01.15.22:771][240]LogBlueprintUserMessages: [spawn_point3_270] 
+[2018.09.06-01.15.22:775][240]LogBlueprintUserMessages: [spawn_point_3447] 
+[2018.09.06-01.15.22:959][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.15.25:171][389]LogBlueprintUserMessages: [ZOMBIE_BP_C_0] End Overlap with Fence
+[2018.09.06-01.15.25:381][402]LogBlueprintUserMessages: [ZOMBIE_BP_C_0] End Overlap with Fence
+[2018.09.06-01.15.25:493][409]LogBlueprintUserMessages: [ZOMBIE_BP_C_0] End Overlap with Fence
+[2018.09.06-01.15.25:961][438]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.26:203][453]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.27:107][509]LogBlueprintUserMessages: [ZOMBIE_BP_C_0] End Overlap with Fence
+[2018.09.06-01.15.27:124][510]LogBlueprintUserMessages: [ZOMBIE_BP_C_0] End Overlap with Fence
+[2018.09.06-01.15.27:494][533]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.27:962][562]LogBlueprintUserMessages: [ZOMBIE_BP_C_0] End Overlap with Fence
+[2018.09.06-01.15.27:995][564]LogBlueprintUserMessages: [ZOMBIE_BP_C_0] End Overlap with Fence
+[2018.09.06-01.15.28:011][565]LogBlueprintUserMessages: [ZOMBIE_BP_C_0] End Overlap with Fence
+[2018.09.06-01.15.28:172][575]LogBlueprintUserMessages: [ZOMBIE_BP_C_0] End Overlap with Fence
+[2018.09.06-01.15.28:542][598]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.29:542][660]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.29:833][678]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.30:881][743]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.31:672][792]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.32:156][822]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.32:961][872]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.33:204][887]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.33:801][924]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.34:494][967]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.35:384][ 22]LogBlueprintUserMessages: [ZOMBIE_BP_C_1] End Overlap with Fence
+[2018.09.06-01.15.39:964][306]LogBlueprintUserMessages: [ZOMBIE_BP_C_0] End Overlap with Fence
+[2018.09.06-01.15.42:769][480]LogBlueprintUserMessages: [spawn_point3_270] 
+[2018.09.06-01.15.42:774][480]LogBlueprintUserMessages: [spawn_point2_16] 
+[2018.09.06-01.15.42:778][480]LogBlueprintUserMessages: [spawn_point_3447] 
+[2018.09.06-01.15.45:356][619]LogBlueprintUserMessages: [ZOMBIE_BP_C_4] End Overlap with Fence
+[2018.09.06-01.15.56:446][215]LogBlueprintUserMessages: [ZOMBIE_BP_C_4] End Overlap with Fence
+[2018.09.06-01.15.59:861][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.06-01.15.59:974][379]Closing by request
+[2018.09.06-01.15.59:974][379]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.09.06-01.16.00:930][380]LogSlate: Window 'farmerVSzombies (64-bit, PCD3D_SM5) ' being destroyed
+[2018.09.06-01.16.00:933][380]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.06-01.16.00:940][380]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.06-01.16.00:941][380]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.06-01.16.00:941][380]LogExit: Preparing to exit.
+[2018.09.06-01.16.00:941][380]LogMoviePlayer: Shutting down movie player
+[2018.09.06-01.16.01:181][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7284a5e8, Size=8
+[2018.09.06-01.16.01:181][380]LogExit: Game engine shut down
+[2018.09.06-01.16.01:186][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a71666020, Size=40
+[2018.09.06-01.16.01:186][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72359600, Size=2008
+[2018.09.06-01.16.01:186][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7232fb80, Size=172
+[2018.09.06-01.16.01:186][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a708501c0, Size=184
+[2018.09.06-01.16.01:186][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7232df00, Size=172
+[2018.09.06-01.16.01:186][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a71649ee0, Size=72
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a714f1210, Size=104
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7167c618, Size=4
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7223a200, Size=720
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7232fd00, Size=168
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7226cd40, Size=208
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a722a0950, Size=72
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7168dbc0, Size=288
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72234640, Size=448
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a721e0100, Size=2752
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7168cf40, Size=288
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a714f1440, Size=104
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72347a40, Size=64
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a713c4dc0, Size=32
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7167c5a8, Size=4
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a722c45c0, Size=64
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a714dbc48, Size=56
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a714dbbd8, Size=56
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a722bbfe0, Size=16
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a67503040, Size=3248
+[2018.09.06-01.16.01:187][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a64420cc0, Size=288
+[2018.09.06-01.16.01:188][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7091a200, Size=256
+[2018.09.06-01.16.01:188][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70961660, Size=96
+[2018.09.06-01.16.01:188][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7091a000, Size=248
+[2018.09.06-01.16.01:188][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70919f00, Size=248
+[2018.09.06-01.16.01:188][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70919d00, Size=256
+[2018.09.06-01.16.01:188][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70960c40, Size=88
+[2018.09.06-01.16.01:188][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70919c00, Size=256
+[2018.09.06-01.16.01:188][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a721e10c0, Size=3248
+[2018.09.06-01.16.01:188][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7168ce00, Size=288
+[2018.09.06-01.16.01:188][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7144e830, Size=24
+[2018.09.06-01.16.01:188][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7167c620, Size=8
+[2018.09.06-01.16.01:188][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72267ec0, Size=64
+[2018.09.06-01.16.01:189][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a714f13d0, Size=104
+[2018.09.06-01.16.01:189][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a714f1360, Size=104
+[2018.09.06-01.16.01:189][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a714f12f0, Size=104
+[2018.09.06-01.16.01:189][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a714f1280, Size=104
+[2018.09.06-01.16.01:189][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a716660c0, Size=40
+[2018.09.06-01.16.01:189][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7167c3f8, Size=4
+[2018.09.06-01.16.01:189][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7232f400, Size=164
+[2018.09.06-01.16.01:189][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70968bb0, Size=48
+[2018.09.06-01.16.01:189][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a714dbb68, Size=56
+[2018.09.06-01.16.01:189][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7232ef80, Size=184
+[2018.09.06-01.16.01:189][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a722665c0, Size=64
+[2018.09.06-01.16.01:190][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a70968be0, Size=48
+[2018.09.06-01.16.01:190][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72d724e0, Size=104
+[2018.09.06-01.16.01:190][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72da8e50, Size=72
+[2018.09.06-01.16.01:190][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72d651e0, Size=88
+[2018.09.06-01.16.01:190][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72d76180, Size=64
+[2018.09.06-01.16.01:190][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72ccf100, Size=184
+[2018.09.06-01.16.01:190][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72ccdd80, Size=168
+[2018.09.06-01.16.01:190][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72ccd540, Size=172
+[2018.09.06-01.16.01:190][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72625838, Size=8
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72625818, Size=4
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72b67fd0, Size=16
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72d4a488, Size=24
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72625730, Size=4
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72b7e580, Size=32
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72b53700, Size=164
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72b52f80, Size=184
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72d18100, Size=56
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72b79580, Size=64
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72b1f8c8, Size=56
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72b78f00, Size=64
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72ae7740, Size=104
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72adb0b0, Size=104
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72ac2a20, Size=104
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72ab2390, Size=104
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72ac6070, Size=72
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72ae9000, Size=48
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72d425c0, Size=208
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72aaff38, Size=40
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72b1d4e8, Size=56
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72abdd40, Size=64
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72aafe20, Size=40
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72a5ec80, Size=172
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72624db8, Size=4
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72d93000, Size=464
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a71abae00, Size=736
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a729b0900, Size=256
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72aaf880, Size=40
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7299ec00, Size=288
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7294f600, Size=248
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72940600, Size=248
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7290bc00, Size=256
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a729e01c0, Size=88
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a72838100, Size=2032
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a727b9f00, Size=248
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7305f970, Size=104
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7282d0c0, Size=2736
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a73079f80, Size=288
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a736ed0c0, Size=3216
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7369f9c0, Size=288
+[2018.09.06-01.16.01:191][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a7284ae50, Size=8
+[2018.09.06-01.16.01:330][380]LogExit: Object subsystem successfully closed.
+[2018.09.06-01.16.01:352][380]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.06-01.16.01:356][380]LogD3D11RHI: Shutdown
+[2018.09.06-01.16.01:356][380]LogD3D11RHI: CleanupD3DDevice
+[2018.09.06-01.16.01:358][380]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (332)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module SequenceRecorder (330)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module AutomationController (328)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module AutomationWorker (326)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module AIModule (324)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module GameplayDebugger (323)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module AITestSuite (321)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (318)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (316)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (314)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (312)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module CharacterAI (310)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module SessionServices (308)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (306)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (304)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module MovieScene (302)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module GeometryCache (300)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (299)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (296)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module PortalServices (294)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module PortalRpc (292)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module MessagingRpc (290)
+[2018.09.06-01.16.01:363][380]LogModuleManager: Shutting down and abandoning module ProfilerService (288)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module TaskGraph (286)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module SteamVRController (284)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (282)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module OculusInput (280)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (278)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (276)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module CableComponent (274)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module AudioCapture (272)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (270)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module AndroidPermission (268)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (264)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (262)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module MediaCompositing (260)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module LinearTimecode (258)
+[2018.09.06-01.16.01:412][380]LogModuleManager: Shutting down and abandoning module ImgMedia (256)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module HTML5Networking (254)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module DatasmithContent (252)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (250)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module CryptoKeys (248)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (246)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module HotReload (245)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (244)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (240)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module UObjectPlugin (238)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (236)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (234)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module SourceControl (233)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (230)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (228)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (226)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module PhysXVehicles (224)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (222)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (220)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (218)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module ActorSequence (216)
+[2018.09.06-01.16.01:415][380]LogModuleManager: Shutting down and abandoning module UdpMessaging (214)
+[2018.09.06-01.16.01:516][380]LogModuleManager: Shutting down and abandoning module TcpMessaging (212)
+[2018.09.06-01.16.02:050][380]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (210)
+[2018.09.06-01.16.02:050][380]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
+[2018.09.06-01.16.02:050][380]LogModuleManager: Shutting down and abandoning module DataValidation (206)
+[2018.09.06-01.16.02:050][380]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (204)
+[2018.09.06-01.16.02:050][380]LogModuleManager: Shutting down and abandoning module TreeMap (203)
+[2018.09.06-01.16.02:050][380]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (200)
+[2018.09.06-01.16.02:050][380]LogModuleManager: Shutting down and abandoning module LiveLink (198)
+[2018.09.06-01.16.02:938][380]LogModuleManager: Shutting down and abandoning module Paper2D (196)
+[2018.09.06-01.16.02:938][380]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (194)
+[2018.09.06-01.16.02:938][380]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (192)
+[2018.09.06-01.16.02:938][380]LogModuleManager: Shutting down and abandoning module WmfMedia (190)
+[2018.09.06-01.16.02:941][380]LogModuleManager: Shutting down and abandoning module Media (189)
+[2018.09.06-01.16.02:948][380]LogModuleManager: Shutting down and abandoning module PacketHandler (186)
+[2018.09.06-01.16.02:948][380]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (184)
+[2018.09.06-01.16.02:948][380]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (182)
+[2018.09.06-01.16.02:948][380]LogModuleManager: Shutting down and abandoning module MediaAssets (180)
+[2018.09.06-01.16.02:948][380]LogModuleManager: Shutting down and abandoning module Overlay (178)
+[2018.09.06-01.16.02:948][380]LogModuleManager: Shutting down and abandoning module OverlayEditor (177)
+[2018.09.06-01.16.02:948][380]LogModuleManager: Shutting down and abandoning module VREditor (174)
+[2018.09.06-01.16.02:948][380]LogModuleManager: Shutting down and abandoning module StringTableEditor (172)
+[2018.09.06-01.16.02:948][380]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (170)
+[2018.09.06-01.16.02:948][380]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (168)
+[2018.09.06-01.16.02:948][380]LogModuleManager: Shutting down and abandoning module FunctionalTesting (166)
+[2018.09.06-01.16.02:948][380]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (164)
+[2018.09.06-01.16.02:949][380]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (163)
+[2018.09.06-01.16.02:949][380]LogModuleManager: Shutting down and abandoning module UMG (160)
+[2018.09.06-01.16.02:949][380]LogModuleManager: Shutting down and abandoning module UMGEditor (159)
+[2018.09.06-01.16.02:949][380]LogModuleManager: Shutting down and abandoning module Sequencer (158)
+[2018.09.06-01.16.02:949][380]LogModuleManager: Shutting down and abandoning module MessageLog (155)
+[2018.09.06-01.16.02:949][380]LogModuleManager: Shutting down and abandoning module SlateReflector (150)
+[2018.09.06-01.16.02:949][380]LogModuleManager: Shutting down and abandoning module Slate (148)
+[2018.09.06-01.16.02:949][380]LogModuleManager: Shutting down and abandoning module EditorStyle (146)
+[2018.09.06-01.16.02:953][380]LogModuleManager: Shutting down and abandoning module MRMesh (144)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module Messaging (142)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (140)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (138)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module XAudio2 (136)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module Networking (134)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module Core (132)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module LevelSequence (130)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module KismetCompiler (128)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module MeshUtilities (126)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (125)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (124)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (123)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (121)
+[2018.09.06-01.16.02:954][380]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (119)
+[2018.09.06-01.16.02:955][380]LogModuleManager: Shutting down and abandoning module MaterialBaking (115)
+[2018.09.06-01.16.02:955][380]LogModuleManager: Shutting down and abandoning module DerivedDataCache (110)
+[2018.09.06-01.16.03:138][380]LogDerivedDataCache: Shutdown
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module XGEController (108)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module TargetPlatform (106)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (105)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (103)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (101)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (99)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (97)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (95)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (93)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (91)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (89)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (87)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module ImageWrapper (86)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (83)
+[2018.09.06-01.16.03:138][380]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (81)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (79)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (77)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (75)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (73)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (71)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (69)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.09.06-01.16.03:139][380]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.09.06-01.16.03:159][380]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.09.06-01.16.03:161][380]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.06-01.16.03:162][380]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.06-01.16.03:162][380]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.06-01.16.03:162][380]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.06-01.16.03:162][380]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.06-01.16.03:162][380]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.06-01.16.03:162][380]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.06-01.16.03:163][380]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.06-01.16.03:163][380]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.06-01.16.03:163][380]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.06-01.16.03:163][380]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.06-01.16.03:163][380]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.06-01.16.03:163][380]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.06-01.16.03:163][380]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.06-01.16.03:163][380]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.06-01.16.03:163][380]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.06-01.16.03:163][380]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.06-01.16.03:163][380]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.06-01.16.03:169][380]LogExit: Exiting.
+[2018.09.06-01.16.03:170][380]Log file closed, 09/05/18 21:16:03
