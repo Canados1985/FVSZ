@@ -1,0 +1,1572 @@
+﻿Log file open, 09/07/18 19:52:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: farmerVSzombies
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(500126152) SRandInit(500126152).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.397538
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.821s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-J54LIC6 (10.6.200.123:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  /Game/ThirdPersonBP/Levels/Level01 -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base Directory: D:/GameDev/UE4/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.07-23.52.37:507][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.07-23.52.37:507][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.07-23.52.37:513][  0]LogInit: Computer: DESKTOP-J54LIC6
+[2018.09.07-23.52.37:513][  0]LogInit: User: Canados
+[2018.09.07-23.52.37:513][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.09.07-23.52.37:513][  0]LogInit: High frequency timer resolution =2.156252 MHz
+[2018.09.07-23.52.37:513][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.07-23.52.37:513][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.07-23.52.37:513][  0]LogMemory: Process Physical Memory: 276.69 MB used, 276.69 MB peak
+[2018.09.07-23.52.37:513][  0]LogMemory: Process Virtual Memory: 279.45 MB used, 279.45 MB peak
+[2018.09.07-23.52.37:513][  0]LogMemory: Physical Memory: 11545.60 MB used,  4697.27 MB free, 16242.87 MB total
+[2018.09.07-23.52.37:513][  0]LogMemory: Virtual Memory: 4823.98 MB used,  4697.27 MB free, 134217728.00 MB total
+[2018.09.07-23.52.37:937][  0]LogInit: Using OS detected language (en-US).
+[2018.09.07-23.52.37:937][  0]LogInit: Using OS detected locale (en-CA).
+[2018.09.07-23.52.37:937][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2018.09.07-23.52.37:937][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2018.09.07-23.52.38:325][  0]LogStreaming: Display: Took  0.388s to EndInitTextLocalization.
+[2018.09.07-23.52.38:355][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.07-23.52.38:355][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.07-23.52.38:359][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.07-23.52.38:403][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.09.07-23.52.38:403][  0]LogD3D11RHI:       6061/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.07-23.52.38:430][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2018.09.07-23.52.38:430][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.07-23.52.38:432][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.07-23.52.38:432][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.07-23.52.38:432][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.07-23.52.38:439][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.07-23.52.38:439][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.07-23.52.38:439][  0]LogWindows: EnumDisplayDevices:
+[2018.09.07-23.52.38:439][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.09.07-23.52.38:439][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.09.07-23.52.38:439][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.09.07-23.52.38:440][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.09.07-23.52.38:440][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.09.07-23.52.38:440][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.09.07-23.52.38:440][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.09.07-23.52.38:440][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.07-23.52.38:440][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.09.07-23.52.38:440][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.07-23.52.38:440][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.07-23.52.38:440][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.09.07-23.52.38:466][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.07-23.52.38:466][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.07-23.52.38:466][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.07-23.52.38:477][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.09.07-23.52.38:522][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Unreal_Projects/farmerVSzombies/Intermediate/Shaders/WorkingDirectory/13796/).
+[2018.09.07-23.52.38:522][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Canados/AppData/Local/Temp/UnrealShaderWorkingDir/F7CB741A4384423CA937BF97C77CEBE8/'.
+[2018.09.07-23.52.38:708][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.07-23.52.38:719][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.07-23.52.38:730][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.07-23.52.38:742][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.07-23.52.38:742][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.07-23.52.38:840][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.07-23.52.38:840][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.07-23.52.38:840][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.07-23.52.39:499][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.07-23.52.39:558][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Canados/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.07-23.52.39:558][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Canados/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.07-23.52.39:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal_Projects/farmerVSzombies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.07-23.52.39:558][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.07-23.52.39:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal_Projects/farmerVSzombies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.07-23.52.39:558][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.07-23.52.39:571][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.07-23.52.39:584][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Canados/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.07-23.52.39:584][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.07-23.52.39:584][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.07-23.52.39:594][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.07-23.52.39:594][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.07-23.52.39:596][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.07-23.52.39:596][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.07-23.52.39:764][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2018.09.07-23.52.39:916][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.006403 seconds
+[2018.09.07-23.52.40:002][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.07-23.52.40:131][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.07-23.52.40:134][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.07-23.52.40:134][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.07-23.52.40:134][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.07-23.52.40:134][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.07-23.52.40:134][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.07-23.52.40:161][  0]LogNetVersion: farmerVSzombies , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3168997086)
+[2018.09.07-23.52.40:727][  0]LogMoviePlayer: Initializing movie player
+[2018.09.07-23.52.41:000][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.07-23.52.41:027][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.07-23.52.41:248][  0]SourceControl: Source control is disabled
+[2018.09.07-23.52.41:248][  0]SourceControl: Source control is disabled
+[2018.09.07-23.52.41:264][  0]SourceControl: Source control is disabled
+[2018.09.07-23.52.41:582][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.07-23.52.41:716][  0]LogOcInput: OculusInput pre-init called
+[2018.09.07-23.52.41:752][  0]LogUObjectArray: 40124 objects as part of root set at end of initial load.
+[2018.09.07-23.52.41:752][  0]LogUObjectAllocator: 8364208 out of 0 bytes used by permanent object pool.
+[2018.09.07-23.52.41:752][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.07-23.52.41:808][  0]LogEngine: Initializing Engine...
+[2018.09.07-23.52.41:809][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.07-23.52.41:827][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.07-23.52.41:827][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.07-23.52.42:013][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.09.07-23.52.42:074][  0]LogInit: FAudioDevice initialized.
+[2018.09.07-23.52.42:097][  0]LogInit: Texture streaming: Enabled
+[2018.09.07-23.52.42:212][  0]LogInit: Display: Game Engine Initialized.
+[2018.09.07-23.52.42:212][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.07-23.52.42:212][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.07-23.52.42:212][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.07-23.52.42:296][  0]LogInit: Display: Starting Game.
+[2018.09.07-23.52.42:296][  0]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level01?Name=Player
+[2018.09.07-23.52.42:296][  0]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level01?Name=Player
+[2018.09.07-23.52.42:317][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd74aaa20, Size=224, Default__Level01_C Function /Game/ThirdPersonBP/Levels/Level01.Level01_C:ExecuteUbergraph_Level01
+[2018.09.07-23.52.42:323][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd7549600, Size=2064, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Character_BP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.09.07-23.52.42:324][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd74b89e0, Size=32, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Character_BP/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.09.07-23.52.42:340][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd5ffb940, Size=172, Default__COIN_BP_C Function /Game/ThirdPersonBP/Env/Coin/COIN_BP.COIN_BP_C:ExecuteUbergraph_COIN_BP
+[2018.09.07-23.52.42:344][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffba5944c0, Size=184, Default__BROKEN_FENCE_BP_C Function /Game/ThirdPersonBP/Env/Fence/BROKEN_FENCE_BP.BROKEN_FENCE_BP_C:ExecuteUbergraph_BROKEN_FENCE_BP
+[2018.09.07-23.52.42:350][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffba596980, Size=172, Default__STAR_BP_C Function /Game/ThirdPersonBP/Env/Star/STAR_BP.STAR_BP_C:ExecuteUbergraph_STAR_BP
+[2018.09.07-23.52.42:377][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd7026610, Size=72, Default__ANIM_PEASANT_BP_C Function /Game/ThirdPersonBP/Character/Animation/ANIM_PEASANT_BP.ANIM_PEASANT_BP_C:ExecuteUbergraph_ANIM_PEASANT_BP
+[2018.09.07-23.52.42:398][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd7564250, Size=104, Default__WIDJET_MENU_IN_GAME_C Function /Game/ThirdPersonBP/Character_BP/WIDJET_MENU_IN_GAME.WIDJET_MENU_IN_GAME_C:ExecuteUbergraph_WIDJET_MENU_IN_GAME
+[2018.09.07-23.52.42:459][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffced029a8, Size=40, Default__DAUTHER_BP_C Function /Game/ThirdPersonBP/Character/Dauther/DAUTHER_BP.DAUTHER_BP_C:ExecuteUbergraph_DAUTHER_BP
+[2018.09.07-23.52.42:462][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd9e12558, Size=4, Default__DAUTHER_ANIM_BP_C Function /Game/ThirdPersonBP/Character/Dauther/Amination/DAUTHER_ANIM_BP.DAUTHER_ANIM_BP_C:ExecuteUbergraph_DAUTHER_ANIM_BP
+[2018.09.07-23.52.42:472][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd572c100, Size=720, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
+[2018.09.07-23.52.42:474][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffda5204c0, Size=168, Default__BULLET_BP_C Function /Game/ThirdPersonBP/Character/Weapon/BULLET_BP.BULLET_BP_C:ExecuteUbergraph_BULLET_BP
+[2018.09.07-23.52.42:519][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffda958f00, Size=208, Default__spawn_point_1_C Function /Game/Enemies/Zombie/spawn_point_1.spawn_point_1_C:ExecuteUbergraph_spawn_point_1
+[2018.09.07-23.52.42:520][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffdae22ca0, Size=72, Default__spawn_Legioners_C Function /Game/Enemies/Zombie_Warrior/spawn_Legioners.spawn_Legioners_C:ExecuteUbergraph_spawn_Legioners
+[2018.09.07-23.52.42:524][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffda36ac98, Size=24, Default__ENEMY_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.07-23.52.42:526][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffda765980, Size=448, Default__BP_FENCE_C Function /Game/ThirdPersonBP/Env/Fence/BP_FENCE.BP_FENCE_C:ExecuteUbergraph_BP_FENCE
+[2018.09.07-23.52.42:539][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd70790c0, Size=2752, Default__LEGIONER_BP_C Function /Game/Enemies/Zombie_Warrior/LEGIONER_BP.LEGIONER_BP_C:ExecuteUbergraph_LEGIONER_BP
+[2018.09.07-23.52.42:539][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffda36ad10, Size=24, Default__LEGIONER_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.07-23.52.42:545][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd75196e0, Size=104, Default__ANIM_LEGIONER_BP_C Function /Game/Enemies/Zombie_Warrior/Animation/ANIM_LEGIONER_BP.ANIM_LEGIONER_BP_C:ExecuteUbergraph_ANIM_LEGIONER_BP
+[2018.09.07-23.52.42:554][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffdba0fd80, Size=64, Default__BARB_SHIELD_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/Barbarian/BARB_SHIELD_BP.BARB_SHIELD_BP_C:ExecuteUbergraph_BARB_SHIELD_BP
+[2018.09.07-23.52.42:562][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffda26dea0, Size=32, Default__HELMET_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Helmet/HELMET_BP.HELMET_BP_C:ExecuteUbergraph_HELMET_BP
+[2018.09.07-23.52.42:564][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd9e11320, Size=4, Default__HELMET2_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Helmet/HELMET2_BP.HELMET2_BP_C:ExecuteUbergraph_HELMET2_BP
+[2018.09.07-23.52.42:568][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffdba0e0c0, Size=64, Default__SHIELD3_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/Macedonian/SHIELD3_BP.SHIELD3_BP_C:ExecuteUbergraph_SHIELD3_BP
+[2018.09.07-23.52.42:578][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd74f20f0, Size=56, Default__SHIELD2_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/SHIELD2_BP.SHIELD2_BP_C:ExecuteUbergraph_SHIELD2_BP
+[2018.09.07-23.52.42:584][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd74f24a8, Size=56, Default__SHIELD_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/SHIELD_BP.SHIELD_BP_C:ExecuteUbergraph_SHIELD_BP
+[2018.09.07-23.52.42:595][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffdb633150, Size=16, Default__GLADIUS_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Sword/GLADIUS_BP.GLADIUS_BP_C:ExecuteUbergraph_GLADIUS_BP
+[2018.09.07-23.52.42:739][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffde9ee080, Size=3488, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+[2018.09.07-23.52.42:740][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffdea5f1a8, Size=24, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.07-23.52.42:742][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd11a9300, Size=256, Default__CORN_BP_C Function /Game/ThirdPersonBP/Env/Corn/CORN_BP.CORN_BP_C:ExecuteUbergraph_CORN_BP
+[2018.09.07-23.52.42:796][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffddeb6fe0, Size=96, Default__ANIM_ZOMBIE_BP_C Function /Game/Enemies/Zombie/Animation/ANIM_ZOMBIE_BP.ANIM_ZOMBIE_BP_C:ExecuteUbergraph_ANIM_ZOMBIE_BP
+[2018.09.07-23.52.42:818][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffde67a400, Size=248, Default__GRASS_BP_C Function /Game/ThirdPersonBP/Env/Grass/GRASS_BP.GRASS_BP_C:ExecuteUbergraph_GRASS_BP
+[2018.09.07-23.52.42:824][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffde67a300, Size=248, Default__PEPPER_BP_C Function /Game/ThirdPersonBP/Env/Pepper/PEPPER_BP.PEPPER_BP_C:ExecuteUbergraph_PEPPER_BP
+[2018.09.07-23.52.42:830][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffde67a200, Size=256, Default__PUMPKIN_BP_C Function /Game/ThirdPersonBP/Env/Pumpkin/PUMPKIN_BP.PUMPKIN_BP_C:ExecuteUbergraph_PUMPKIN_BP
+[2018.09.07-23.52.42:840][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffddeb64a0, Size=88, Default__SUNFLOWER_BP_C Function /Game/ThirdPersonBP/Env/Sunflower/SUNFLOWER_BP.SUNFLOWER_BP_C:ExecuteUbergraph_SUNFLOWER_BP
+[2018.09.07-23.52.42:846][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffde679b00, Size=256, Default__TOMATO_BP_C Function /Game/ThirdPersonBP/Env/Tomato/TOMATO_BP.TOMATO_BP_C:ExecuteUbergraph_TOMATO_BP
+[2018.09.07-23.52.42:925][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffdf1df7c0, Size=24, Default__HAMMER_BP_C Function /Game/ThirdPersonBP/Character/Tools/HAMMER_BP.HAMMER_BP_C:ExecuteUbergraph_HAMMER_BP
+[2018.09.07-23.52.42:977][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffdea692b0, Size=8, Default__CRYPT_BP_C Function /Game/ThirdPersonBP/Env/Cemetery/Crypt/CRYPT_BP.CRYPT_BP_C:ExecuteUbergraph_CRYPT_BP
+[2018.09.07-23.52.43:025][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe3f04f80, Size=64, Default__spawn_corn_C Function /Game/ThirdPersonBP/Env/Corn/spawn_corn.spawn_corn_C:ExecuteUbergraph_spawn_corn
+[2018.09.07-23.52.43:482][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe7727e40, Size=104, Default__Spawn_FENCE_01_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_01.Spawn_FENCE_01_C:ExecuteUbergraph_Spawn_FENCE_01
+[2018.09.07-23.52.43:486][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe7727cf0, Size=104, Default__Spawn_FENCE_02_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_02.Spawn_FENCE_02_C:ExecuteUbergraph_Spawn_FENCE_02
+[2018.09.07-23.52.43:490][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe7727dd0, Size=104, Default__Spawn_FENCE_03_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_03.Spawn_FENCE_03_C:ExecuteUbergraph_Spawn_FENCE_03
+[2018.09.07-23.52.43:493][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe77277b0, Size=104, Default__Spawn_FENCE_04_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_04.Spawn_FENCE_04_C:ExecuteUbergraph_Spawn_FENCE_04
+[2018.09.07-23.52.43:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe7739698, Size=40, Default__spawn_point_GRASS_C Function /Game/ThirdPersonBP/Env/Grass/spawn_point_GRASS.spawn_point_GRASS_C:ExecuteUbergraph_spawn_point_GRASS
+[2018.09.07-23.52.43:505][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe66e3308, Size=4, Default__TREE_BP_C Function /Game/ThirdPersonBP/Env/House/TREE_BP.TREE_BP_C:ExecuteUbergraph_TREE_BP
+[2018.09.07-23.52.43:521][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe82b7c40, Size=164, Default__LEAF_BP_C Function /Game/ThirdPersonBP/Env/Leaf/LEAF_BP.LEAF_BP_C:ExecuteUbergraph_LEAF_BP
+[2018.09.07-23.52.43:524][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffdf666f80, Size=48, Default__spawn_pepper_C Function /Game/ThirdPersonBP/Env/Pepper/spawn_pepper.spawn_pepper_C:ExecuteUbergraph_spawn_pepper
+[2018.09.07-23.52.43:526][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffdee49c58, Size=56, Default__spawn_pumpkin_C Function /Game/ThirdPersonBP/Env/Pumpkin/spawn_pumpkin.spawn_pumpkin_C:ExecuteUbergraph_spawn_pumpkin
+[2018.09.07-23.52.43:529][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe82b6740, Size=184, Default__SCARECROW_BP_C Function /Game/ThirdPersonBP/Env/ScareCrow/SCARECROW_BP.SCARECROW_BP_C:ExecuteUbergraph_SCARECROW_BP
+[2018.09.07-23.52.43:533][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe833a020, Size=88, Default__spawn_sunflower_C Function /Game/ThirdPersonBP/Env/Sunflower/spawn_sunflower.spawn_sunflower_C:ExecuteUbergraph_spawn_sunflower
+[2018.09.07-23.52.43:536][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffdf666b60, Size=48, Default__spawn_tomatoes_C Function /Game/ThirdPersonBP/Env/Tomato/spawn_tomatoes.spawn_tomatoes_C:ExecuteUbergraph_spawn_tomatoes
+[2018.09.07-23.52.43:664][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd75196e0, Size=104
+[2018.09.07-23.52.43:665][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe85725c0, Size=104, Default__ANIM_LEGIONER_BP_C Function /Engine/Transient.REINST_ANIM_LEGIONER_BP_C_0:ExecuteUbergraph_ANIM_LEGIONER_BP
+[2018.09.07-23.52.43:665][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd7026610, Size=72
+[2018.09.07-23.52.43:665][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe858b1f0, Size=72, Default__ANIM_PEASANT_BP_C Function /Engine/Transient.REINST_ANIM_PEASANT_BP_C_1:ExecuteUbergraph_ANIM_PEASANT_BP
+[2018.09.07-23.52.43:666][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffddeb6fe0, Size=96
+[2018.09.07-23.52.43:666][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8ae5f00, Size=96, Default__ANIM_ZOMBIE_BP_C Function /Engine/Transient.REINST_ANIM_ZOMBIE_BP_C_2:ExecuteUbergraph_ANIM_ZOMBIE_BP
+[2018.09.07-23.52.43:666][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffdba0fd80, Size=64
+[2018.09.07-23.52.43:666][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe862c500, Size=64, Default__BARB_SHIELD_BP_C Function /Engine/Transient.REINST_BARB_SHIELD_BP_C_7:ExecuteUbergraph_BARB_SHIELD_BP
+[2018.09.07-23.52.43:667][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffba5944c0, Size=184
+[2018.09.07-23.52.43:667][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe842fac0, Size=184, Default__BROKEN_FENCE_BP_C Function /Engine/Transient.REINST_BROKEN_FENCE_BP_C_11:ExecuteUbergraph_BROKEN_FENCE_BP
+[2018.09.07-23.52.43:668][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffda5204c0, Size=168
+[2018.09.07-23.52.43:668][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe842f7c0, Size=168, Default__BULLET_BP_C Function /Engine/Transient.REINST_BULLET_BP_C_13:ExecuteUbergraph_BULLET_BP
+[2018.09.07-23.52.43:669][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd5ffb940, Size=172
+[2018.09.07-23.52.43:669][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe842f640, Size=172, Default__COIN_BP_C Function /Engine/Transient.REINST_COIN_BP_C_16:ExecuteUbergraph_COIN_BP
+[2018.09.07-23.52.43:679][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffdea692b0, Size=8
+[2018.09.07-23.52.43:679][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe856b3e0, Size=8, Default__CRYPT_BP_C Function /Engine/Transient.REINST_CRYPT_BP_C_23:ExecuteUbergraph_CRYPT_BP
+[2018.09.07-23.52.43:679][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd9e12558, Size=4
+[2018.09.07-23.52.43:679][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe856b3d8, Size=4, Default__DAUTHER_ANIM_BP_C Function /Engine/Transient.REINST_DAUTHER_ANIM_BP_C_3:ExecuteUbergraph_DAUTHER_ANIM_BP
+[2018.09.07-23.52.43:679][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffdb633150, Size=16
+[2018.09.07-23.52.43:679][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe83cfff0, Size=16, Default__GLADIUS_BP_C Function /Engine/Transient.REINST_GLADIUS_BP_C_27:ExecuteUbergraph_GLADIUS_BP
+[2018.09.07-23.52.43:680][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffdf1df7c0, Size=24
+[2018.09.07-23.52.43:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe849f370, Size=24, Default__HAMMER_BP_C Function /Engine/Transient.REINST_HAMMER_BP_C_29:ExecuteUbergraph_HAMMER_BP
+[2018.09.07-23.52.43:680][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd9e11320, Size=4
+[2018.09.07-23.52.43:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe856b368, Size=4, Default__HELMET2_BP_C Function /Engine/Transient.REINST_HELMET2_BP_C_30:ExecuteUbergraph_HELMET2_BP
+[2018.09.07-23.52.43:680][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffda26dea0, Size=32
+[2018.09.07-23.52.43:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8443cc0, Size=32, Default__HELMET_BP_C Function /Engine/Transient.REINST_HELMET_BP_C_31:ExecuteUbergraph_HELMET_BP
+[2018.09.07-23.52.43:680][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe82b7c40, Size=164
+[2018.09.07-23.52.43:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe842eec0, Size=164, Default__LEAF_BP_C Function /Engine/Transient.REINST_LEAF_BP_C_33:ExecuteUbergraph_LEAF_BP
+[2018.09.07-23.52.43:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe82b6740, Size=184
+[2018.09.07-23.52.43:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe842ea40, Size=184, Default__SCARECROW_BP_C Function /Engine/Transient.REINST_SCARECROW_BP_C_37:ExecuteUbergraph_SCARECROW_BP
+[2018.09.07-23.52.43:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd74f20f0, Size=56
+[2018.09.07-23.52.43:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8973628, Size=56, Default__SHIELD2_BP_C Function /Engine/Transient.REINST_SHIELD2_BP_C_38:ExecuteUbergraph_SHIELD2_BP
+[2018.09.07-23.52.43:682][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffdba0e0c0, Size=64
+[2018.09.07-23.52.43:682][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffcd25f740, Size=64, Default__SHIELD3_BP_C Function /Engine/Transient.REINST_SHIELD3_BP_C_39:ExecuteUbergraph_SHIELD3_BP
+[2018.09.07-23.52.43:682][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd74f24a8, Size=56
+[2018.09.07-23.52.43:682][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe89735b8, Size=56, Default__SHIELD_BP_C Function /Engine/Transient.REINST_SHIELD_BP_C_40:ExecuteUbergraph_SHIELD_BP
+[2018.09.07-23.52.43:682][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe3f04f80, Size=64
+[2018.09.07-23.52.43:682][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffcd25f1c0, Size=64, Default__spawn_corn_C Function /Engine/Transient.REINST_spawn_corn_C_41:ExecuteUbergraph_spawn_corn
+[2018.09.07-23.52.43:682][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe7727e40, Size=104
+[2018.09.07-23.52.43:682][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8572550, Size=104, Default__Spawn_FENCE_01_C Function /Engine/Transient.REINST_Spawn_FENCE_01_C_42:ExecuteUbergraph_Spawn_FENCE_01
+[2018.09.07-23.52.43:682][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe7727cf0, Size=104
+[2018.09.07-23.52.43:682][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe85724e0, Size=104, Default__Spawn_FENCE_02_C Function /Engine/Transient.REINST_Spawn_FENCE_02_C_43:ExecuteUbergraph_Spawn_FENCE_02
+[2018.09.07-23.52.43:683][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe7727dd0, Size=104
+[2018.09.07-23.52.43:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8572470, Size=104, Default__Spawn_FENCE_03_C Function /Engine/Transient.REINST_Spawn_FENCE_03_C_44:ExecuteUbergraph_Spawn_FENCE_03
+[2018.09.07-23.52.43:683][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe77277b0, Size=104
+[2018.09.07-23.52.43:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8572400, Size=104, Default__Spawn_FENCE_04_C Function /Engine/Transient.REINST_Spawn_FENCE_04_C_45:ExecuteUbergraph_Spawn_FENCE_04
+[2018.09.07-23.52.43:683][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffdae22ca0, Size=72
+[2018.09.07-23.52.43:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8345fd0, Size=72, Default__spawn_Legioners_C Function /Engine/Transient.REINST_spawn_Legioners_C_46:ExecuteUbergraph_spawn_Legioners
+[2018.09.07-23.52.43:683][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffdf666f80, Size=48
+[2018.09.07-23.52.43:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8a1b9a0, Size=48, Default__spawn_pepper_C Function /Engine/Transient.REINST_spawn_pepper_C_47:ExecuteUbergraph_spawn_pepper
+[2018.09.07-23.52.43:684][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffda958f00, Size=208
+[2018.09.07-23.52.43:684][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd5480b80, Size=208, Default__spawn_point_1_C Function /Engine/Transient.REINST_spawn_point_1_C_48:ExecuteUbergraph_spawn_point_1
+[2018.09.07-23.52.43:684][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe7739698, Size=40
+[2018.09.07-23.52.43:684][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe87b1d00, Size=40, Default__spawn_point_GRASS_C Function /Engine/Transient.REINST_spawn_point_GRASS_C_49:ExecuteUbergraph_spawn_point_GRASS
+[2018.09.07-23.52.43:684][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffdee49c58, Size=56
+[2018.09.07-23.52.43:684][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8973548, Size=56, Default__spawn_pumpkin_C Function /Engine/Transient.REINST_spawn_pumpkin_C_50:ExecuteUbergraph_spawn_pumpkin
+[2018.09.07-23.52.43:684][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe833a020, Size=88
+[2018.09.07-23.52.43:684][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8ae5840, Size=88, Default__spawn_sunflower_C Function /Engine/Transient.REINST_spawn_sunflower_C_51:ExecuteUbergraph_spawn_sunflower
+[2018.09.07-23.52.43:684][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffdf666b60, Size=48
+[2018.09.07-23.52.43:684][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8a1bc70, Size=48, Default__spawn_tomatoes_C Function /Engine/Transient.REINST_spawn_tomatoes_C_52:ExecuteUbergraph_spawn_tomatoes
+[2018.09.07-23.52.43:685][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffba596980, Size=172
+[2018.09.07-23.52.43:685][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe842d9c0, Size=172, Default__STAR_BP_C Function /Engine/Transient.REINST_STAR_BP_C_54:ExecuteUbergraph_STAR_BP
+[2018.09.07-23.52.43:685][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe66e3308, Size=4
+[2018.09.07-23.52.43:685][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe856b1b8, Size=4, Default__TREE_BP_C Function /Engine/Transient.REINST_TREE_BP_C_59:ExecuteUbergraph_TREE_BP
+[2018.09.07-23.52.43:686][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffda765980, Size=448
+[2018.09.07-23.52.43:686][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8ba9ec0, Size=448, Default__BP_FENCE_C Function /Engine/Transient.REINST_BP_FENCE_C_62:ExecuteUbergraph_BP_FENCE
+[2018.09.07-23.52.43:686][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd572c100, Size=720
+[2018.09.07-23.52.43:687][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8bbab00, Size=720, Default__MUSCETS_BP_C Function /Engine/Transient.REINST_MUSCETS_BP_C_63:ExecuteUbergraph_MUSCETS_BP
+[2018.09.07-23.52.43:687][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd11a9300, Size=256
+[2018.09.07-23.52.43:687][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd55dee00, Size=256, Default__CORN_BP_C Function /Engine/Transient.REINST_CORN_BP_C_66:ExecuteUbergraph_CORN_BP
+[2018.09.07-23.52.43:687][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffced029a8, Size=40
+[2018.09.07-23.52.43:687][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe87b1c88, Size=40, Default__DAUTHER_BP_C Function /Engine/Transient.REINST_DAUTHER_BP_C_67:ExecuteUbergraph_DAUTHER_BP
+[2018.09.07-23.52.43:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffda36ac98, Size=24
+[2018.09.07-23.52.43:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe849eef0, Size=24, Default__ENEMY_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_68:ExecuteUbergraph_ENEMY_BP
+[2018.09.07-23.52.43:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffde67a400, Size=248
+[2018.09.07-23.52.43:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd55ddc00, Size=248, Default__GRASS_BP_C Function /Engine/Transient.REINST_GRASS_BP_C_69:ExecuteUbergraph_GRASS_BP
+[2018.09.07-23.52.43:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffde67a300, Size=248
+[2018.09.07-23.52.43:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd55dcf00, Size=248, Default__PEPPER_BP_C Function /Engine/Transient.REINST_PEPPER_BP_C_70:ExecuteUbergraph_PEPPER_BP
+[2018.09.07-23.52.43:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffde67a200, Size=256
+[2018.09.07-23.52.43:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd55ddd00, Size=256, Default__PUMPKIN_BP_C Function /Engine/Transient.REINST_PUMPKIN_BP_C_71:ExecuteUbergraph_PUMPKIN_BP
+[2018.09.07-23.52.43:689][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffddeb64a0, Size=88
+[2018.09.07-23.52.43:689][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8ae52a0, Size=88, Default__SUNFLOWER_BP_C Function /Engine/Transient.REINST_SUNFLOWER_BP_C_72:ExecuteUbergraph_SUNFLOWER_BP
+[2018.09.07-23.52.43:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd7549600, Size=2064
+[2018.09.07-23.52.43:690][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe835a080, Size=2064, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_73:ExecuteUbergraph_ThirdPersonCharacter
+[2018.09.07-23.52.43:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd74b89e0, Size=32
+[2018.09.07-23.52.43:690][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe84438e0, Size=32, Default__ThirdPersonGameMode_C Function /Engine/Transient.REINST_ThirdPersonGameMode_C_74:ExecuteUbergraph_ThirdPersonGameMode
+[2018.09.07-23.52.43:691][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffde679b00, Size=256
+[2018.09.07-23.52.43:691][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8be7d00, Size=256, Default__TOMATO_BP_C Function /Engine/Transient.REINST_TOMATO_BP_C_75:ExecuteUbergraph_TOMATO_BP
+[2018.09.07-23.52.43:691][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd7564250, Size=104
+[2018.09.07-23.52.43:691][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe8572390, Size=104, Default__WIDJET_MENU_IN_GAME_C Function /Engine/Transient.REINST_WIDJET_MENU_IN_GAME_C_8:ExecuteUbergraph_WIDJET_MENU_IN_GAME
+[2018.09.07-23.52.43:693][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd70790c0, Size=2752
+[2018.09.07-23.52.43:693][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffda36ad10, Size=24
+[2018.09.07-23.52.43:693][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffcc81b040, Size=2752, Default__LEGIONER_BP_C Function /Engine/Transient.REINST_LEGIONER_BP_C_76:ExecuteUbergraph_LEGIONER_BP
+[2018.09.07-23.52.43:693][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe849ec80, Size=24, Default__LEGIONER_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_68:ExecuteUbergraph_ENEMY_BP
+[2018.09.07-23.52.43:695][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffde9ee080, Size=3488
+[2018.09.07-23.52.43:695][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffdea5f1a8, Size=24
+[2018.09.07-23.52.43:695][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffd70790c0, Size=3488, Default__ZOMBIE_BP_C Function /Engine/Transient.REINST_ZOMBIE_BP_C_77:ExecuteUbergraph_ZOMBIE_BP
+[2018.09.07-23.52.43:695][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffe849ec50, Size=24, Default__ZOMBIE_BP_C Function /Engine/Transient.REINST_ENEMY_BP_C_68:ExecuteUbergraph_ENEMY_BP
+[2018.09.07-23.52.43:969][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaae1440, Size=104, Default__ANIM_LEGIONER_BP_C Function /Game/Enemies/Zombie_Warrior/Animation/ANIM_LEGIONER_BP.ANIM_LEGIONER_BP_C:ExecuteUbergraph_ANIM_LEGIONER_BP
+[2018.09.07-23.52.43:971][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaaab6f0, Size=72, Default__ANIM_PEASANT_BP_C Function /Game/ThirdPersonBP/Character/Animation/ANIM_PEASANT_BP.ANIM_PEASANT_BP_C:ExecuteUbergraph_ANIM_PEASANT_BP
+[2018.09.07-23.52.43:972][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaae88e0, Size=88, Default__ANIM_ZOMBIE_BP_C Function /Game/Enemies/Zombie/Animation/ANIM_ZOMBIE_BP.ANIM_ZOMBIE_BP_C:ExecuteUbergraph_ANIM_ZOMBIE_BP
+[2018.09.07-23.52.43:974][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaadde40, Size=64, Default__BARB_SHIELD_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/Barbarian/BARB_SHIELD_BP.BARB_SHIELD_BP_C:ExecuteUbergraph_BARB_SHIELD_BP
+[2018.09.07-23.52.43:975][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa71480, Size=184, Default__BROKEN_FENCE_BP_C Function /Game/ThirdPersonBP/Env/Fence/BROKEN_FENCE_BP.BROKEN_FENCE_BP_C:ExecuteUbergraph_BROKEN_FENCE_BP
+[2018.09.07-23.52.43:976][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa70100, Size=168, Default__BULLET_BP_C Function /Game/ThirdPersonBP/Character/Weapon/BULLET_BP.BULLET_BP_C:ExecuteUbergraph_BULLET_BP
+[2018.09.07-23.52.43:977][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa037c0, Size=172, Default__COIN_BP_C Function /Game/ThirdPersonBP/Env/Coin/COIN_BP.COIN_BP_C:ExecuteUbergraph_COIN_BP
+[2018.09.07-23.52.43:978][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa87918, Size=8, Default__CRYPT_BP_C Function /Game/ThirdPersonBP/Env/Cemetery/Crypt/CRYPT_BP.CRYPT_BP_C:ExecuteUbergraph_CRYPT_BP
+[2018.09.07-23.52.43:979][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa878f8, Size=4, Default__DAUTHER_ANIM_BP_C Function /Game/ThirdPersonBP/Character/Dauther/Amination/DAUTHER_ANIM_BP.DAUTHER_ANIM_BP_C:ExecuteUbergraph_DAUTHER_ANIM_BP
+[2018.09.07-23.52.43:979][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea9ee800, Size=16, Default__GLADIUS_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Sword/GLADIUS_BP.GLADIUS_BP_C:ExecuteUbergraph_GLADIUS_BP
+[2018.09.07-23.52.43:980][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffead4ce08, Size=24, Default__HAMMER_BP_C Function /Game/ThirdPersonBP/Character/Tools/HAMMER_BP.HAMMER_BP_C:ExecuteUbergraph_HAMMER_BP
+[2018.09.07-23.52.43:980][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa87810, Size=4, Default__HELMET2_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Helmet/HELMET2_BP.HELMET2_BP_C:ExecuteUbergraph_HELMET2_BP
+[2018.09.07-23.52.43:980][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa0a8a0, Size=32, Default__HELMET_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Helmet/HELMET_BP.HELMET_BP_C:ExecuteUbergraph_HELMET_BP
+[2018.09.07-23.52.43:980][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa01c00, Size=164, Default__LEAF_BP_C Function /Game/ThirdPersonBP/Env/Leaf/LEAF_BP.LEAF_BP_C:ExecuteUbergraph_LEAF_BP
+[2018.09.07-23.52.43:981][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa01480, Size=184, Default__SCARECROW_BP_C Function /Game/ThirdPersonBP/Env/ScareCrow/SCARECROW_BP.SCARECROW_BP_C:ExecuteUbergraph_SCARECROW_BP
+[2018.09.07-23.52.43:981][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa26400, Size=56, Default__SHIELD2_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/SHIELD2_BP.SHIELD2_BP_C:ExecuteUbergraph_SHIELD2_BP
+[2018.09.07-23.52.43:982][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea9e5a00, Size=64, Default__SHIELD3_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/Macedonian/SHIELD3_BP.SHIELD3_BP_C:ExecuteUbergraph_SHIELD3_BP
+[2018.09.07-23.52.43:983][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa25cc8, Size=56, Default__SHIELD_BP_C Function /Game/Enemies/Zombie_Warrior/Gear/Shields/SHIELD_BP.SHIELD_BP_C:ExecuteUbergraph_SHIELD_BP
+[2018.09.07-23.52.43:983][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea9e6080, Size=64, Default__spawn_corn_C Function /Game/ThirdPersonBP/Env/Corn/spawn_corn.spawn_corn_C:ExecuteUbergraph_spawn_corn
+[2018.09.07-23.52.43:984][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea70dd70, Size=104, Default__Spawn_FENCE_01_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_01.Spawn_FENCE_01_C:ExecuteUbergraph_Spawn_FENCE_01
+[2018.09.07-23.52.43:985][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea6ed830, Size=104, Default__Spawn_FENCE_02_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_02.Spawn_FENCE_02_C:ExecuteUbergraph_Spawn_FENCE_02
+[2018.09.07-23.52.43:986][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea6e92f0, Size=104, Default__Spawn_FENCE_03_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_03.Spawn_FENCE_03_C:ExecuteUbergraph_Spawn_FENCE_03
+[2018.09.07-23.52.43:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea6d4db0, Size=104, Default__Spawn_FENCE_04_C Function /Game/ThirdPersonBP/Env/Fence/Spawn_FENCE_04.Spawn_FENCE_04_C:ExecuteUbergraph_Spawn_FENCE_04
+[2018.09.07-23.52.43:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea704db0, Size=72, Default__spawn_Legioners_C Function /Game/Enemies/Zombie_Warrior/spawn_Legioners.spawn_Legioners_C:ExecuteUbergraph_spawn_Legioners
+[2018.09.07-23.52.43:988][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea730880, Size=48, Default__spawn_pepper_C Function /Game/ThirdPersonBP/Env/Pepper/spawn_pepper.spawn_pepper_C:ExecuteUbergraph_spawn_pepper
+[2018.09.07-23.52.43:989][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa9e4e0, Size=208, Default__spawn_point_1_C Function /Game/Enemies/Zombie/spawn_point_1.spawn_point_1_C:ExecuteUbergraph_spawn_point_1
+[2018.09.07-23.52.43:990][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa0f9c0, Size=40, Default__spawn_point_GRASS_C Function /Game/ThirdPersonBP/Env/Grass/spawn_point_GRASS.spawn_point_GRASS_C:ExecuteUbergraph_spawn_point_GRASS
+[2018.09.07-23.52.43:990][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea6ab858, Size=56, Default__spawn_pumpkin_C Function /Game/ThirdPersonBP/Env/Pumpkin/spawn_pumpkin.spawn_pumpkin_C:ExecuteUbergraph_spawn_pumpkin
+[2018.09.07-23.52.43:991][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea71c280, Size=88, Default__spawn_sunflower_C Function /Game/ThirdPersonBP/Env/Sunflower/spawn_sunflower.spawn_sunflower_C:ExecuteUbergraph_spawn_sunflower
+[2018.09.07-23.52.43:991][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa0f858, Size=40, Default__spawn_tomatoes_C Function /Game/ThirdPersonBP/Env/Tomato/spawn_tomatoes.spawn_tomatoes_C:ExecuteUbergraph_spawn_tomatoes
+[2018.09.07-23.52.43:992][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea6c1300, Size=172, Default__STAR_BP_C Function /Game/ThirdPersonBP/Env/Star/STAR_BP.STAR_BP_C:ExecuteUbergraph_STAR_BP
+[2018.09.07-23.52.43:992][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa86e78, Size=4, Default__TREE_BP_C Function /Game/ThirdPersonBP/Env/House/TREE_BP.TREE_BP_C:ExecuteUbergraph_TREE_BP
+[2018.09.07-23.52.43:994][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaafec00, Size=464, Default__BP_FENCE_C Function /Game/ThirdPersonBP/Env/Fence/BP_FENCE.BP_FENCE_C:ExecuteUbergraph_BP_FENCE
+[2018.09.07-23.52.43:997][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea60f100, Size=736, Default__MUSCETS_BP_C Function /Game/ThirdPersonBP/Character/Weapon/MUSCETS_BP.MUSCETS_BP_C:ExecuteUbergraph_MUSCETS_BP
+[2018.09.07-23.52.44:000][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea5c5c00, Size=256, Default__CORN_BP_C Function /Game/ThirdPersonBP/Env/Corn/CORN_BP.CORN_BP_C:ExecuteUbergraph_CORN_BP
+[2018.09.07-23.52.44:000][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeaa0f2b8, Size=40, Default__DAUTHER_BP_C Function /Game/ThirdPersonBP/Character/Dauther/DAUTHER_BP.DAUTHER_BP_C:ExecuteUbergraph_DAUTHER_BP
+[2018.09.07-23.52.44:001][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea6fccb8, Size=24, Default__ENEMY_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.07-23.52.44:002][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea58ec00, Size=248, Default__GRASS_BP_C Function /Game/ThirdPersonBP/Env/Grass/GRASS_BP.GRASS_BP_C:ExecuteUbergraph_GRASS_BP
+[2018.09.07-23.52.44:003][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea577a00, Size=248, Default__PEPPER_BP_C Function /Game/ThirdPersonBP/Env/Pepper/PEPPER_BP.PEPPER_BP_C:ExecuteUbergraph_PEPPER_BP
+[2018.09.07-23.52.44:005][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea54b700, Size=256, Default__PUMPKIN_BP_C Function /Game/ThirdPersonBP/Env/Pumpkin/PUMPKIN_BP.PUMPKIN_BP_C:ExecuteUbergraph_PUMPKIN_BP
+[2018.09.07-23.52.44:007][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea513b80, Size=88, Default__SUNFLOWER_BP_C Function /Game/ThirdPersonBP/Env/Sunflower/SUNFLOWER_BP.SUNFLOWER_BP_C:ExecuteUbergraph_SUNFLOWER_BP
+[2018.09.07-23.52.44:020][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea464100, Size=2104, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Character_BP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.09.07-23.52.44:022][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea41e3c0, Size=32, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Character_BP/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.09.07-23.52.44:024][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea3c1100, Size=248, Default__TOMATO_BP_C Function /Game/ThirdPersonBP/Env/Tomato/TOMATO_BP.TOMATO_BP_C:ExecuteUbergraph_TOMATO_BP
+[2018.09.07-23.52.44:028][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffea3676d0, Size=104, Default__WIDJET_MENU_IN_GAME_C Function /Game/ThirdPersonBP/Character_BP/WIDJET_MENU_IN_GAME.WIDJET_MENU_IN_GAME_C:ExecuteUbergraph_WIDJET_MENU_IN_GAME
+[2018.09.07-23.52.44:036][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeb2d6080, Size=2736, Default__LEGIONER_BP_C Function /Game/Enemies/Zombie_Warrior/LEGIONER_BP.LEGIONER_BP_C:ExecuteUbergraph_LEGIONER_BP
+[2018.09.07-23.52.44:036][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeb28fb98, Size=24, Default__LEGIONER_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.07-23.52.44:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeb1fd0c0, Size=3504, Default__ZOMBIE_BP_C Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+[2018.09.07-23.52.44:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeb28de28, Size=24, Default__ZOMBIE_BP_C Function /Game/Enemies/ENEMY_BP.ENEMY_BP_C:ExecuteUbergraph_ENEMY_BP
+[2018.09.07-23.52.44:206][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd74aaa20, Size=224
+[2018.09.07-23.52.44:206][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeb0fe320, Size=224, Default__Level01_C Function /Engine/Transient.REINST_Level01_C_168:ExecuteUbergraph_Level01
+[2018.09.07-23.52.44:208][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffeb0fee80, Size=224, Default__Level01_C Function /Game/ThirdPersonBP/Levels/Level01.Level01_C:ExecuteUbergraph_Level01
+[2018.09.07-23.52.44:494][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
+[2018.09.07-23.52.44:494][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
+[2018.09.07-23.52.44:494][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
+[2018.09.07-23.52.44:494][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
+[2018.09.07-23.52.44:494][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
+[2018.09.07-23.52.44:494][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
+[2018.09.07-23.52.44:494][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
+[2018.09.07-23.52.44:494][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
+[2018.09.07-23.52.44:494][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1'
+[2018.09.07-23.52.44:494][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
+[2018.09.07-23.52.44:494][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Env/Cemetery/TombStone/_1.Material_0 Referenced by tombstone_Tombstone_4
+[2018.09.07-23.52.44:494][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1': Can't find file for asset '/Game/ThirdPersonBP/Env/Cemetery/TombStone/_1' while loading NULL.
+[2018.09.07-23.52.44:924][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.314318ms] /Game/ThirdPersonBP/Character/peasant.peasant
+[2018.09.07-23.52.45:893][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.773565ms] /Game/ThirdPersonBP/Character/Dauther/peasant_girl.peasant_girl
+[2018.09.07-23.52.45:914][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.569043ms] /Game/Enemies/Zombie/Zombie.Zombie
+[2018.09.07-23.52.45:944][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.969274ms] /Game/Enemies/Zombie_Warrior/Legioner_Zombie.Legioner_Zombie
+[2018.09.07-23.52.45:995][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.728115ms] /Game/Enemies/Zombie_Warrior/Gear/Shields/Barbarian/barb_shield.barb_shield
+[2018.09.07-23.52.47:094][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.043477ms] /Game/ThirdPersonBP/Env/ScareCrow/scarecrow.scarecrow
+[2018.09.07-23.52.47:470][  0]LogAIModule: Creating AISystem for world Level01
+[2018.09.07-23.52.47:470][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.09.07-23.52.47:470][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.09.07-23.52.47:470][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.09.07-23.52.47:470][  0]LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.09.07-23.52.47:471][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2018.09.07-23.52.47:471][  0]LogLoad: Game class is 'GameModeBase'
+[2018.09.07-23.52.47:658][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/Level01.Level01 up for play (max tick rate 0) at 2018.09.07-19.52.47
+[2018.09.07-23.52.47:664][  0]LogWorld: Bringing up level for play took: 0.192484
+[2018.09.07-23.52.47:713][  0]LogLoad: Took 5.417222 seconds to LoadMap(/Game/ThirdPersonBP/Levels/Level01)
+[2018.09.07-23.52.47:770][  0]LogLoad: (Engine Initialization) Total time: 12.49 seconds
+[2018.09.07-23.52.47:770][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.07-23.52.47:798][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.09.07-23.52.47:873][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.07-23.52.47:876][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.07-23.52.47:886][  1]LogAudio: Warning: Detected orphaned looping sound 'level01_music_Cue'.
+[2018.09.07-23.52.50:316][143]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue6
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Character_BP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:10C3
+[2018.09.07-23.52.50:316][143]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Character_BP/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_Escape_K2Node_InputKeyEvent_2
+	Function /Game/ThirdPersonBP/Character_BP/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2018.09.07-23.52.53:560][344]LogBlueprintUserMessages: [spawn_point_3447] 
+[2018.09.07-23.52.53:577][344]LogBlueprintUserMessages: [spawn_point3] 
+[2018.09.07-23.52.53:581][344]LogBlueprintUserMessages: [spawn_point2] 
+[2018.09.07-23.52.58:025][617]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.52.58:025][617]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:044][618]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.52.58:044][618]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:044][618]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.52.58:044][618]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:061][619]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.52.58:061][619]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:061][619]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.52.58:061][619]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:077][620]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.52.58:077][620]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:077][620]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.52.58:077][620]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:094][621]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.52.58:094][621]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:094][621]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.52.58:094][621]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:110][622]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.52.58:110][622]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:110][622]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.52.58:110][622]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:126][623]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.52.58:126][623]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:126][623]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.52.58:126][623]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:142][624]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.52.58:142][624]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:142][624]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.52.58:142][624]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:158][625]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.52.58:158][625]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.52.58:158][625]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_2
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.52.58:158][625]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:779][404]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.12:779][404]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:800][405]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.12:800][405]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:800][405]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.12:800][405]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:821][406]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.12:821][406]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:821][406]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.12:821][406]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:841][407]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.12:841][407]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:841][407]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.12:841][407]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:860][408]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.12:860][408]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:860][408]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.12:860][408]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:880][409]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.12:880][409]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:880][409]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.12:880][409]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:900][410]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.12:900][410]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:900][410]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.12:900][410]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:919][411]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.12:919][411]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:919][411]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.12:919][411]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:939][412]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.12:939][412]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.12:939][412]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_0
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.12:939][412]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.18:572][753]LogBlueprintUserMessages: [spawn_point3] 
+[2018.09.07-23.53.18:580][753]LogBlueprintUserMessages: [spawn_point_3447] 
+[2018.09.07-23.53.18:586][753]LogBlueprintUserMessages: [spawn_point2] 
+[2018.09.07-23.53.21:111][910]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.21:111][910]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:127][911]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.21:127][911]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:127][911]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.21:127][911]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:141][912]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.21:141][912]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:141][912]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.21:141][912]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:158][913]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.21:158][913]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:158][913]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.21:158][913]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:174][914]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.21:174][914]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:174][914]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.21:174][914]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:190][915]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.21:190][915]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:190][915]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.21:190][915]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:206][916]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.21:206][916]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:206][916]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.21:206][916]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:224][917]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.21:224][917]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:224][917]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.21:224][917]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:239][918]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.21:239][918]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.21:239][918]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_1
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.21:239][918]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:368][988]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.22:368][988]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:385][989]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.22:385][989]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:385][989]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.22:385][989]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:400][990]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.22:401][990]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:401][990]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.22:401][990]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:416][991]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.22:416][991]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:416][991]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.22:416][991]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:432][992]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.22:432][992]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:432][992]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.22:432][992]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:448][993]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.22:448][993]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:448][993]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.22:449][993]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:465][994]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.22:465][994]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:465][994]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.22:465][994]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:481][995]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.22:481][995]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:481][995]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.22:481][995]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:497][996]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.22:497][996]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.22:497][996]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_3
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.22:497][996]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:270][707]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.40:271][707]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:295][708]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.40:295][708]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:295][708]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.40:295][708]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:322][709]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.40:322][709]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:322][709]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.40:322][709]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:346][710]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.40:346][710]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:346][710]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.40:347][710]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:373][711]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.40:373][711]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:374][711]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.40:374][711]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:398][712]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.40:398][712]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:398][712]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.40:398][712]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:423][713]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.40:423][713]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:423][713]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.40:423][713]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:446][714]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.40:446][714]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:447][714]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.40:447][714]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:471][715]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.40:471][715]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.40:471][715]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_5
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.40:471][715]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.43:604][851]LogBlueprintUserMessages: [spawn_point_3447] 
+[2018.09.07-23.53.43:609][851]LogBlueprintUserMessages: [spawn_point3] 
+[2018.09.07-23.53.43:613][851]LogBlueprintUserMessages: [spawn_point2] 
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeb0fe320, Size=224
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe835a080, Size=2064
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe84438e0, Size=32
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe842f640, Size=172
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe842fac0, Size=184
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe842d9c0, Size=172
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe858b1f0, Size=72
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8572390, Size=104
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe87b1c88, Size=40
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe856b3d8, Size=4
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8bbab00, Size=720
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe842f7c0, Size=168
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd5480b80, Size=208
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8345fd0, Size=72
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe849eef0, Size=24
+[2018.09.07-23.53.49:002][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8ba9ec0, Size=448
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffcc81b040, Size=2752
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe849ec80, Size=24
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe85725c0, Size=104
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe862c500, Size=64
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8443cc0, Size=32
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe856b368, Size=4
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffcd25f740, Size=64
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8973628, Size=56
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe89735b8, Size=56
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe83cfff0, Size=16
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd70790c0, Size=3488
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe849ec50, Size=24
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd55dee00, Size=256
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8ae5f00, Size=96
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd55ddc00, Size=248
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd55dcf00, Size=248
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffd55ddd00, Size=256
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8ae52a0, Size=88
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8be7d00, Size=256
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe849f370, Size=24
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe856b3e0, Size=8
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffcd25f1c0, Size=64
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8572550, Size=104
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe85724e0, Size=104
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8572470, Size=104
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8572400, Size=104
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe87b1d00, Size=40
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe856b1b8, Size=4
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe842eec0, Size=164
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8a1b9a0, Size=48
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8973548, Size=56
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe842ea40, Size=184
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8ae5840, Size=88
+[2018.09.07-23.53.49:003][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffe8a1bc70, Size=48
+[2018.09.07-23.53.54:731][181]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.54:731][181]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:765][182]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.54:765][182]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:765][182]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.54:765][182]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:800][183]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.54:800][183]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:800][183]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.54:800][183]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:832][184]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.54:832][184]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:832][184]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.54:832][184]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:864][185]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.54:864][185]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:864][185]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.54:864][185]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:895][186]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.54:895][186]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:895][186]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.54:895][186]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:926][187]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.54:926][187]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:926][187]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.54:926][187]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:957][188]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.54:957][188]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:957][188]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.54:957][188]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:989][189]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:003C
+[2018.09.07-23.53.54:989][189]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.54:989][189]LogScript: Warning: Attempted to access Shoe_R via property Shoe_R, but Shoe_R is pending kill
+	ZOMBIE_BP_C /Game/ThirdPersonBP/Levels/Level01.Level01:PersistentLevel.ZOMBIE_BP_C_8
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP:00CC
+[2018.09.07-23.53.54:989][189]LogScript: Warning: Script call stack:
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ReceiveTick
+	Function /Game/Enemies/Zombie/ZOMBIE_BP.ZOMBIE_BP_C:ExecuteUbergraph_ZOMBIE_BP
+
+[2018.09.07-23.53.57:742][277]Closing by request
+[2018.09.07-23.53.57:742][277]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.09.07-23.53.57:886][278]LogSlate: Window 'farmerVSzombies (64-bit, PCD3D_SM5) ' being destroyed
+[2018.09.07-23.53.57:889][278]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.07-23.53.57:901][278]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.07-23.53.57:902][278]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.07-23.53.57:902][278]LogExit: Preparing to exit.
+[2018.09.07-23.53.57:902][278]LogMoviePlayer: Shutting down movie player
+[2018.09.07-23.53.58:171][278]LogExit: Game engine shut down
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaae1440, Size=104
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaaab6f0, Size=72
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaae88e0, Size=88
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaadde40, Size=64
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa71480, Size=184
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa70100, Size=168
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa037c0, Size=172
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa87918, Size=8
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa878f8, Size=4
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea9ee800, Size=16
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffead4ce08, Size=24
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa87810, Size=4
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa0a8a0, Size=32
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa01c00, Size=164
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa01480, Size=184
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa26400, Size=56
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea9e5a00, Size=64
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa25cc8, Size=56
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea9e6080, Size=64
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea70dd70, Size=104
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea6ed830, Size=104
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea6e92f0, Size=104
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea6d4db0, Size=104
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea704db0, Size=72
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea730880, Size=48
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa9e4e0, Size=208
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa0f9c0, Size=40
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea6ab858, Size=56
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea71c280, Size=88
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa0f858, Size=40
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea6c1300, Size=172
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa86e78, Size=4
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaafec00, Size=464
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea60f100, Size=736
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea5c5c00, Size=256
+[2018.09.07-23.53.58:176][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeaa0f2b8, Size=40
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea6fccb8, Size=24
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea58ec00, Size=248
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea577a00, Size=248
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea54b700, Size=256
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea513b80, Size=88
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea464100, Size=2104
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea41e3c0, Size=32
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea3c1100, Size=248
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffea3676d0, Size=104
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeb2d6080, Size=2736
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeb28fb98, Size=24
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeb1fd0c0, Size=3504
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeb28de28, Size=24
+[2018.09.07-23.53.58:177][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffeb0fee80, Size=224
+[2018.09.07-23.53.58:318][278]LogExit: Object subsystem successfully closed.
+[2018.09.07-23.53.58:334][278]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.07-23.53.58:338][278]LogD3D11RHI: Shutdown
+[2018.09.07-23.53.58:338][278]LogD3D11RHI: CleanupD3DDevice
+[2018.09.07-23.53.58:340][278]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (332)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module SequenceRecorder (330)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module AutomationController (328)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module AutomationWorker (326)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module AIModule (324)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module GameplayDebugger (323)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module AITestSuite (321)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (318)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (316)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (314)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (312)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module CharacterAI (310)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module SessionServices (308)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (306)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (304)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module MovieScene (302)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module GeometryCache (300)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (299)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (296)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module PortalServices (294)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module PortalRpc (292)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module MessagingRpc (290)
+[2018.09.07-23.53.58:346][278]LogModuleManager: Shutting down and abandoning module ProfilerService (288)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module TaskGraph (286)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module SteamVRController (284)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (282)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module OculusInput (280)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (278)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (276)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module CableComponent (274)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module AudioCapture (272)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (270)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module AndroidPermission (268)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (264)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (262)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module MediaCompositing (260)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module LinearTimecode (258)
+[2018.09.07-23.53.58:419][278]LogModuleManager: Shutting down and abandoning module ImgMedia (256)
+[2018.09.07-23.53.58:421][278]LogModuleManager: Shutting down and abandoning module HTML5Networking (254)
+[2018.09.07-23.53.58:421][278]LogModuleManager: Shutting down and abandoning module DatasmithContent (252)
+[2018.09.07-23.53.58:421][278]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (250)
+[2018.09.07-23.53.58:421][278]LogModuleManager: Shutting down and abandoning module CryptoKeys (248)
+[2018.09.07-23.53.58:421][278]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (246)
+[2018.09.07-23.53.58:421][278]LogModuleManager: Shutting down and abandoning module HotReload (245)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (244)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (240)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module UObjectPlugin (238)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (236)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (234)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module SourceControl (233)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (230)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (228)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (226)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module PhysXVehicles (224)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (222)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (220)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (218)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module ActorSequence (216)
+[2018.09.07-23.53.58:422][278]LogModuleManager: Shutting down and abandoning module UdpMessaging (214)
+[2018.09.07-23.53.58:523][278]LogModuleManager: Shutting down and abandoning module TcpMessaging (212)
+[2018.09.07-23.53.59:040][278]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (210)
+[2018.09.07-23.53.59:040][278]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
+[2018.09.07-23.53.59:040][278]LogModuleManager: Shutting down and abandoning module DataValidation (206)
+[2018.09.07-23.53.59:040][278]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (204)
+[2018.09.07-23.53.59:040][278]LogModuleManager: Shutting down and abandoning module TreeMap (203)
+[2018.09.07-23.53.59:040][278]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (200)
+[2018.09.07-23.53.59:040][278]LogModuleManager: Shutting down and abandoning module LiveLink (198)
+[2018.09.07-23.53.59:932][278]LogModuleManager: Shutting down and abandoning module Paper2D (196)
+[2018.09.07-23.53.59:932][278]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (194)
+[2018.09.07-23.53.59:932][278]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (192)
+[2018.09.07-23.53.59:932][278]LogModuleManager: Shutting down and abandoning module WmfMedia (190)
+[2018.09.07-23.53.59:933][278]LogModuleManager: Shutting down and abandoning module Media (189)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module PacketHandler (186)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (184)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (182)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module MediaAssets (180)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module Overlay (178)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module OverlayEditor (177)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module VREditor (174)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module StringTableEditor (172)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (170)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (168)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module FunctionalTesting (166)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (164)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (163)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module UMG (160)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module UMGEditor (159)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module Sequencer (158)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module MessageLog (155)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module SlateReflector (150)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module Slate (148)
+[2018.09.07-23.53.59:939][278]LogModuleManager: Shutting down and abandoning module EditorStyle (146)
+[2018.09.07-23.53.59:940][278]LogModuleManager: Shutting down and abandoning module MRMesh (144)
+[2018.09.07-23.53.59:940][278]LogModuleManager: Shutting down and abandoning module Messaging (142)
+[2018.09.07-23.53.59:940][278]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (140)
+[2018.09.07-23.53.59:940][278]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (138)
+[2018.09.07-23.53.59:940][278]LogModuleManager: Shutting down and abandoning module XAudio2 (136)
+[2018.09.07-23.53.59:941][278]LogModuleManager: Shutting down and abandoning module Networking (134)
+[2018.09.07-23.53.59:941][278]LogModuleManager: Shutting down and abandoning module Core (132)
+[2018.09.07-23.53.59:941][278]LogModuleManager: Shutting down and abandoning module LevelSequence (130)
+[2018.09.07-23.53.59:941][278]LogModuleManager: Shutting down and abandoning module KismetCompiler (128)
+[2018.09.07-23.53.59:941][278]LogModuleManager: Shutting down and abandoning module MeshUtilities (126)
+[2018.09.07-23.53.59:941][278]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (125)
+[2018.09.07-23.53.59:941][278]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (124)
+[2018.09.07-23.53.59:941][278]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (123)
+[2018.09.07-23.53.59:941][278]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (121)
+[2018.09.07-23.53.59:941][278]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (119)
+[2018.09.07-23.53.59:941][278]LogModuleManager: Shutting down and abandoning module MaterialBaking (115)
+[2018.09.07-23.53.59:941][278]LogModuleManager: Shutting down and abandoning module DerivedDataCache (110)
+[2018.09.07-23.54.00:170][278]LogDerivedDataCache: Shutdown
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module XGEController (108)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module TargetPlatform (106)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (105)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (103)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (101)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (99)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (97)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (95)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (93)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (91)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (89)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (87)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module ImageWrapper (86)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (83)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (81)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (79)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (77)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (75)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (73)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (71)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (69)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.09.07-23.54.00:170][278]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.09.07-23.54.00:171][278]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.09.07-23.54.00:171][278]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.09.07-23.54.00:171][278]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.09.07-23.54.00:171][278]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.09.07-23.54.00:194][278]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.07-23.54.00:195][278]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.07-23.54.00:200][278]LogExit: Exiting.
+[2018.09.07-23.54.00:202][278]Log file closed, 09/07/18 19:54:00
